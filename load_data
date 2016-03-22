@@ -1,0 +1,2 @@
+
+bundle exec rails runner "eval(File.read '/Users/konglimho/Desktop/datadump/User_Account.rb')"
