@@ -1,4 +1,5 @@
 require 'csv'
+require "#{File.dirname(__FILE__)}/species_util"
 
 array = []
 
@@ -8,9 +9,8 @@ CSV.foreach("#{File.dirname(__FILE__)}/../data_source/Pet_Profile.csv", headers:
   id = obj['id']
   name = obj['Pet_Name']
   avatar_url = "https://dott-pub.s3-us-west-2.amazonaws.com/polar-development/legacy/#{obj['Avatar']}"
-  # avatar_url
-  # species #needs to convert old numeric Code to new string key
-  # breed
+  species = obj['Species']
+  breed = obj['Breed']
   color = obj['MajorColour']
   gender = ''
   birthday = obj['Birthday']
@@ -74,6 +74,21 @@ CSV.foreach("#{File.dirname(__FILE__)}/../data_source/Pet_Profile.csv", headers:
     update_hash.merge!(:description => desc)
   end
 
+  if species != 'NULL'
+    species = get_species_key(species)
+    if species != 'NULL'
+      update_hash.merge!(:species => species)
+    end
+  end
+
+  if breed != 'NULL'
+    # puts "Species: #{species}, Breed: #{breed}"
+    breed = get_breed_key(species, breed)
+    # puts "breed: #{breed}"
+    if breed != 'NULL'
+      update_hash.merge!(:breed => breed)
+    end
+  end
 
   if gender != ''
     update_hash.merge!(:gender => gender)
