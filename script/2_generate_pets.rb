@@ -7,6 +7,7 @@ CSV.foreach("#{File.dirname(__FILE__)}/../data_source/Pet_Profile.csv", headers:
 
   id = obj['id']
   name = obj['Pet_Name']
+  avatar_url = "https://dott-pub.s3-us-west-2.amazonaws.com/polar-development/legacy/#{obj['Avatar']}"
   # avatar_url
   # species #needs to convert old numeric Code to new string key
   # breed
@@ -53,6 +54,7 @@ CSV.foreach("#{File.dirname(__FILE__)}/../data_source/Pet_Profile.csv", headers:
   update_hash = {
     id: id,
     name: name,
+    avatar_url: avatar_url,
     # color: color,
     # birthday: birthday,
     # food_requirements: food_re,

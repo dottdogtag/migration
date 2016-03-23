@@ -4,6 +4,7 @@ ruby ./script/3_generate_ownership.rb
 ruby ./script/4_generate_beacon.rb
 ruby ./script/5_generate_lost_report.rb
 ruby ./script/6_generate_geo_location.rb
+ruby ./script/7_generate_followings.rb
 
 bundle exec rails runner "eval(File.read '/Users/konglimho/Desktop/datadump/results/User.rb')"
 bundle exec rails runner "eval(File.read '/Users/konglimho/Desktop/datadump/results/Pet.rb')"
@@ -11,6 +12,6 @@ bundle exec rails runner "eval(File.read '/Users/konglimho/Desktop/datadump/resu
 bundle exec rails runner "eval(File.read '/Users/konglimho/Desktop/datadump/results/Beacon.rb')"
 bundle exec rails runner "eval(File.read '/Users/konglimho/Desktop/datadump/results/LostReport.rb')"
 bundle exec rails runner "eval(File.read '/Users/konglimho/Desktop/datadump/results/GeoLocation.rb')"
-
+bundle exec rails runner "eval(File.read '/Users/konglimho/Desktop/datadump/results/Following.rb')"
 
 

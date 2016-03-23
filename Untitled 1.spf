@@ -99,6 +99,9 @@ SET `User_Follow_Lost`.`confirm_created_by_exist` = `Pet_LostFound`.`new_create_
 	<array>
 		<string>UPDATE `User_Follow_Lost`
 INNER JOIN `Pet_LostFound` ON `User_Follow_Lost`.`new_lost_id` = `Pet_LostFound`.`id`
+SET `User_Follow_Lost`.`confirm_created_by_exist` = `Pet_LostFound`.`new_create_by_id`</string>
+		<string>UPDATE `User_Follow_Lost`
+INNER JOIN `Pet_LostFound` ON `User_Follow_Lost`.`new_lost_id` = `Pet_LostFound`.`id`
 SET `User_Follow_Lost`.`confirm_report_exist` = `Pet_LostFound`.`id`</string>
 		<string>UPDATE `User_Follow_Lost`
 INNER JOIN `User_Account` ON `User_Follow_Lost`.`new_user_id` = `User_Account`.`id`
@@ -2708,9 +2711,6 @@ SELECT `id`, `new_pet_id`, `new_create_by_id`
 FROM `Pet_LostFound`</string>
 		<string>INSERT INTO `Geo_Location` (`new_lost_id`, `new_pet_id`, `new_user_id`)
 SELECT `id`, `new_pet_id`, `new_create_by_id`
-FROM `Pet_LostFound`</string>
-		<string>INSERT INTO `Geo_Location` (`new_lost_id`)
-SELECT `id`
 FROM `Pet_LostFound`</string>
 	</array>
 	<key>rdbms_type</key>

@@ -1,1 +1,12201 @@
-LostReport.create([{:id=>"1", :user_id=>nil, :pet_id=>"61", :message=>"lost around north tarrant parkway Keller fort worth tx", :created_at=>"2015-07-06 20:14:31", :updated_at=>nil},{:id=>"2", :user_id=>nil, :pet_id=>"79", :message=>"she went missing with her boyfriend jax.(black lab:who is also missing) from backyard in Norco,  ca. nearby the hidden valley golf course. please keep in prayers that she returns back to us safe. ", :created_at=>"2015-07-12 00:57:31", :updated_at=>nil},{:id=>"3", :user_id=>nil, :pet_id=>"123", :message=>"Kitten was last seen July 5th 2015 on property @10:00 pm, in Hamilton,  Ontario at john st. north. and simcoe st. east.", :created_at=>"2015-07-20 13:28:47", :updated_at=>nil},{:id=>"4", :user_id=>nil, :pet_id=>"125", :message=>"Lost", :created_at=>"2015-07-22 11:08:11", :updated_at=>nil},{:id=>"5", :user_id=>nil, :pet_id=>"283", :message=>"Lost", :created_at=>"2015-07-25 15:01:29", :updated_at=>nil},{:id=>"6", :user_id=>nil, :pet_id=>"367", :message=>"lost dog", :created_at=>"2015-07-26 01:31:56", :updated_at=>nil},{:id=>"7", :user_id=>nil, :pet_id=>"499", :message=>"if you find her call me", :created_at=>"2015-07-27 18:06:00", :updated_at=>nil},{:id=>"8", :user_id=>nil, :pet_id=>"682", :message=>"狗狗5月9號於屯門山景邨走失，身上有黑色頸帶及肉色蚤帶，後腳均有6隻腳趾，無尾，䜿耳", :created_at=>"2015-08-03 11:01:39", :updated_at=>nil},{:id=>"9", :user_id=>nil, :pet_id=>"734", :message=>"Help find my dog\n", :created_at=>"2015-08-05 13:54:29", :updated_at=>nil},{:id=>"10", :user_id=>nil, :pet_id=>"770", :message=>"Relic has been missing for over a week. His family misses him very much. If you see him or know if his whereabouts please contact Jessica at the number listed. ", :created_at=>"2015-08-07 10:37:57", :updated_at=>nil},{:id=>"11", :user_id=>nil, :pet_id=>"693", :message=>"Lost", :created_at=>"2015-08-09 23:41:34", :updated_at=>nil},{:id=>"12", :user_id=>nil, :pet_id=>"788", :message=>"please help me find rocky he is missed we really miss him. we are around arlington Tx 6024056391", :created_at=>"2015-08-09 22:59:55", :updated_at=>nil},{:id=>"13", :user_id=>nil, :pet_id=>"919", :message=>"可能出現地點:大坑東，石硤尾邨，九龍塘，南昌街，南昌公園，通洲街公園。", :created_at=>"2015-08-20 14:21:39", :updated_at=>nil},{:id=>"14", :user_id=>nil, :pet_id=>"279", :message=>"Lost\n", :created_at=>"2015-08-23 12:11:59", :updated_at=>nil},{:id=>"15", :user_id=>nil, :pet_id=>"634", :message=>"Pls help~", :created_at=>"2015-08-25 22:56:05", :updated_at=>nil},{:id=>"16", :user_id=>nil, :pet_id=>"148", :message=>"ABC\n", :created_at=>"2015-08-29 18:53:52", :updated_at=>nil},{:id=>"17", :user_id=>nil, :pet_id=>"1090", :message=>"Plz help me to find my cat..his a male and the coller colour is grey..lost at some where area Sengkang..plz find as fast as you can.", :created_at=>"2015-09-06 04:23:54", :updated_at=>nil},{:id=>"18", :user_id=>nil, :pet_id=>"1115", :message=>"走失日期 9月3日\n地點 沙頭角公路\nlost 3rd sept@sha tau kok road.", :created_at=>"2015-09-07 10:54:01", :updated_at=>nil},{:id=>"19", :user_id=>nil, :pet_id=>"1112", :message=>"Haha", :created_at=>"2015-09-09 20:03:08", :updated_at=>nil},{:id=>"20", :user_id=>nil, :pet_id=>"1166", :message=>"", :created_at=>"2015-09-12 03:30:24", :updated_at=>nil},{:id=>"21", :user_id=>nil, :pet_id=>"1231", :message=>"Enter Your Message", :created_at=>"2015-09-15 23:25:59", :updated_at=>nil},{:id=>"22", :user_id=>nil, :pet_id=>"1243", :message=>"9/13晚上在宜蘭員山鄉山頂會館走失    ", :created_at=>"2015-09-16 20:38:42", :updated_at=>nil},{:id=>"23", :user_id=>nil, :pet_id=>"641", :message=>"在此填寫報失訊息", :created_at=>"2015-09-18 22:34:29", :updated_at=>nil},{:id=>"24", :user_id=>nil, :pet_id=>"1048", :message=>"", :created_at=>"2015-09-18 13:35:19", :updated_at=>nil},{:id=>"25", :user_id=>nil, :pet_id=>"1323", :message=>"Enter Your Message", :created_at=>"2015-09-23 15:42:00", :updated_at=>nil},{:id=>"26", :user_id=>nil, :pet_id=>"1363", :message=>"", :created_at=>"2015-09-26 21:49:13", :updated_at=>nil},{:id=>"27", :user_id=>nil, :pet_id=>"250", :message=>"在此填寫報失訊息", :created_at=>"2015-09-28 11:59:47", :updated_at=>nil},{:id=>"28", :user_id=>nil, :pet_id=>"1528", :message=>"在內壢自立新村福特汽車公司大門口公園走失，身上有繫藍色胸背帶，右側身上有一處脫毛圈圈形狀，鼻子是淺粉紅色", :created_at=>"2015-10-09 05:46:01", :updated_at=>nil},{:id=>"29", :user_id=>nil, :pet_id=>"1567", :message=>"Enter Your Message", :created_at=>"2015-10-15 11:19:47", :updated_at=>nil},{:id=>"30", :user_id=>nil, :pet_id=>"1566", :message=>"Enter Your Message", :created_at=>"2015-10-15 16:35:43", :updated_at=>nil},{:id=>"31", :user_id=>nil, :pet_id=>"80", :message=>"7月11日上午9時在粉嶺坪峯五洲南路進富貨櫃走失，走失時身上沒有任何狗繩\n", :created_at=>"2015-07-14 20:55:28", :updated_at=>nil, :found_at=>nil},{:id=>"32", :user_id=>nil, :pet_id=>"91", :message=>" ", :created_at=>"2015-07-17 16:46:57", :updated_at=>nil, :found_at=>nil},{:id=>"33", :user_id=>nil, :pet_id=>"90", :message=>" ", :created_at=>"2015-07-17 16:47:00", :updated_at=>nil, :found_at=>nil},{:id=>"34", :user_id=>nil, :pet_id=>"89", :message=>" ", :created_at=>"2015-07-17 16:47:04", :updated_at=>nil, :found_at=>nil},{:id=>"35", :user_id=>nil, :pet_id=>"86", :message=>"荃灣\n大河道", :created_at=>"2015-07-25 14:27:00", :updated_at=>nil, :found_at=>nil},{:id=>"36", :user_id=>nil, :pet_id=>"283", :message=>"Lost", :created_at=>"2015-07-25 14:59:25", :updated_at=>nil, :found_at=>nil},{:id=>"37", :user_id=>nil, :pet_id=>"274", :message=>"Xxx\n", :created_at=>"2015-07-25 14:59:55", :updated_at=>nil, :found_at=>nil},{:id=>"38", :user_id=>nil, :pet_id=>"276", :message=>"??????", :created_at=>"2015-07-25 15:12:16", :updated_at=>nil, :found_at=>nil},{:id=>"39", :user_id=>nil, :pet_id=>"278", :message=>"雖", :created_at=>"2015-07-25 15:20:33", :updated_at=>nil, :found_at=>nil},{:id=>"40", :user_id=>nil, :pet_id=>"315", :message=>"123", :created_at=>"2015-07-25 16:52:48", :updated_at=>nil, :found_at=>nil},{:id=>"41", :user_id=>nil, :pet_id=>"117", :message=>"I am full now", :created_at=>"2015-07-25 17:01:05", :updated_at=>nil, :found_at=>nil},{:id=>"42", :user_id=>nil, :pet_id=>"316", :message=>"Qqq", :created_at=>"2015-07-25 17:04:33", :updated_at=>nil, :found_at=>nil},{:id=>"43", :user_id=>nil, :pet_id=>"352", :message=>"新手用戶\n", :created_at=>"2015-07-25 22:50:23", :updated_at=>nil, :found_at=>nil},{:id=>"44", :user_id=>nil, :pet_id=>"367", :message=>"lost dog", :created_at=>"2015-07-26 01:26:20", :updated_at=>nil, :found_at=>nil},{:id=>"45", :user_id=>nil, :pet_id=>"371", :message=>"\n", :created_at=>"2015-07-26 03:06:57", :updated_at=>nil, :found_at=>nil},{:id=>"46", :user_id=>nil, :pet_id=>"145", :message=>"一", :created_at=>"2015-07-26 22:23:57", :updated_at=>nil, :found_at=>nil},{:id=>"47", :user_id=>nil, :pet_id=>"145", :message=>"5", :created_at=>"2015-07-26 22:24:46", :updated_at=>nil, :found_at=>nil},{:id=>"48", :user_id=>nil, :pet_id=>"145", :message=>"完", :created_at=>"2015-07-26 22:25:44", :updated_at=>nil, :found_at=>nil},{:id=>"49", :user_id=>nil, :pet_id=>"146", :message=>"l", :created_at=>"2015-07-26 22:25:53", :updated_at=>nil, :found_at=>nil},{:id=>"50", :user_id=>nil, :pet_id=>"445", :message=>"......", :created_at=>"2015-07-27 15:15:33", :updated_at=>nil, :found_at=>nil},{:id=>"51", :user_id=>nil, :pet_id=>"446", :message=>"...", :created_at=>"2015-07-27 15:21:30", :updated_at=>nil, :found_at=>nil},{:id=>"52", :user_id=>nil, :pet_id=>"456", :message=>"洪水橋", :created_at=>"2015-07-27 18:44:13", :updated_at=>nil, :found_at=>nil},{:id=>"53", :user_id=>nil, :pet_id=>"349", :message=>"刂", :created_at=>"2015-07-27 20:14:09", :updated_at=>nil, :found_at=>nil},{:id=>"54", :user_id=>nil, :pet_id=>"470", :message=>"一", :created_at=>"2015-07-27 21:32:43", :updated_at=>nil, :found_at=>nil},{:id=>"55", :user_id=>nil, :pet_id=>"470", :message=>"一", :created_at=>"2015-07-27 21:39:54", :updated_at=>nil, :found_at=>nil},{:id=>"56", :user_id=>nil, :pet_id=>"470", :message=>"一", :created_at=>"2015-07-27 21:50:13", :updated_at=>nil, :found_at=>nil},{:id=>"57", :user_id=>nil, :pet_id=>"497", :message=>"Lost", :created_at=>"2015-07-28 02:25:08", :updated_at=>nil, :found_at=>nil},{:id=>"58", :user_id=>nil, :pet_id=>"499", :message=>"call Me if you find her 6159191063", :created_at=>"2015-07-27 18:05:31", :updated_at=>nil, :found_at=>nil},{:id=>"59", :user_id=>nil, :pet_id=>"349", :message=>"u", :created_at=>"2015-07-28 12:34:47", :updated_at=>nil, :found_at=>nil},{:id=>"60", :user_id=>nil, :pet_id=>"349", :message=>"一", :created_at=>"2015-07-28 12:35:29", :updated_at=>nil, :found_at=>nil},{:id=>"61", :user_id=>nil, :pet_id=>"501", :message=>"在家", :created_at=>"2015-07-28 20:07:39", :updated_at=>nil, :found_at=>nil},{:id=>"62", :user_id=>nil, :pet_id=>"546", :message=>"oh", :created_at=>"2015-07-28 23:49:28", :updated_at=>nil, :found_at=>nil},{:id=>"63", :user_id=>nil, :pet_id=>"371", :message=>"bubu", :created_at=>"2015-07-28 23:54:07", :updated_at=>nil, :found_at=>nil},{:id=>"64", :user_id=>nil, :pet_id=>"452", :message=>"？？", :created_at=>"2015-07-30 18:41:14", :updated_at=>nil, :found_at=>nil},{:id=>"65", :user_id=>nil, :pet_id=>"349", :message=>"一", :created_at=>"2015-07-31 20:33:07", :updated_at=>nil, :found_at=>nil},{:id=>"66", :user_id=>nil, :pet_id=>"641", :message=>"Teddy sean", :created_at=>"2015-08-01 00:48:12", :updated_at=>nil, :found_at=>nil},{:id=>"67", :user_id=>nil, :pet_id=>"643", :message=>"123", :created_at=>"2015-08-01 18:52:29", :updated_at=>nil, :found_at=>nil},{:id=>"68", :user_id=>nil, :pet_id=>"452", :message=>"::", :created_at=>"2015-08-01 19:06:59", :updated_at=>nil, :found_at=>nil},{:id=>"69", :user_id=>nil, :pet_id=>"191", :message=>"Lost", :created_at=>"2015-08-01 21:18:32", :updated_at=>nil, :found_at=>nil},{:id=>"70", :user_id=>nil, :pet_id=>"667", :message=>"逃走了", :created_at=>"2015-08-02 10:51:54", :updated_at=>nil, :found_at=>nil},{:id=>"71", :user_id=>nil, :pet_id=>"601", :message=>"走失", :created_at=>"2015-08-02 10:59:03", :updated_at=>nil, :found_at=>nil},{:id=>"72", :user_id=>nil, :pet_id=>"667", :message=>"走失", :created_at=>"2015-08-02 11:33:35", :updated_at=>nil, :found_at=>nil},{:id=>"73", :user_id=>nil, :pet_id=>"310", :message=>"：", :created_at=>"2015-08-02 16:20:45", :updated_at=>nil, :found_at=>nil},{:id=>"74", :user_id=>nil, :pet_id=>"232", :message=>"去左邊", :created_at=>"2015-08-03 13:27:06", :updated_at=>nil, :found_at=>nil},{:id=>"75", :user_id=>nil, :pet_id=>"686", :message=>".", :created_at=>"2015-08-03 15:32:12", :updated_at=>nil, :found_at=>nil},{:id=>"76", :user_id=>nil, :pet_id=>"686", :message=>".", :created_at=>"2015-08-03 15:39:42", :updated_at=>nil, :found_at=>nil},{:id=>"77", :user_id=>nil, :pet_id=>"696", :message=>"Lost", :created_at=>"2015-08-04 09:21:12", :updated_at=>nil, :found_at=>nil},{:id=>"78", :user_id=>nil, :pet_id=>"696", :message=>"Lost", :created_at=>"2015-08-04 09:25:03", :updated_at=>nil, :found_at=>nil},{:id=>"79", :user_id=>nil, :pet_id=>"707", :message=>"Try", :created_at=>"2015-08-04 15:51:55", :updated_at=>nil, :found_at=>nil},{:id=>"80", :user_id=>nil, :pet_id=>"679", :message=>"no", :created_at=>"2015-08-05 00:15:28", :updated_at=>nil, :found_at=>nil},{:id=>"81", :user_id=>nil, :pet_id=>"452", :message=>"Help me", :created_at=>"2015-08-09 14:49:36", :updated_at=>nil, :found_at=>nil},{:id=>"82", :user_id=>nil, :pet_id=>"779", :message=>"G", :created_at=>"2015-08-09 19:30:16", :updated_at=>nil, :found_at=>nil},{:id=>"83", :user_id=>nil, :pet_id=>"328", :message=>"走失", :created_at=>"2015-08-09 22:52:24", :updated_at=>nil, :found_at=>nil},{:id=>"84", :user_id=>nil, :pet_id=>"328", :message=>"走失", :created_at=>"2015-08-09 22:53:58", :updated_at=>nil, :found_at=>nil},{:id=>"85", :user_id=>nil, :pet_id=>"328", :message=>"走失", :created_at=>"2015-08-10 18:30:24", :updated_at=>nil, :found_at=>nil},{:id=>"86", :user_id=>nil, :pet_id=>"701", :message=>"Try", :created_at=>"2015-08-11 00:37:43", :updated_at=>nil, :found_at=>nil},{:id=>"87", :user_id=>nil, :pet_id=>"784", :message=>"？", :created_at=>"2015-08-11 15:44:09", :updated_at=>nil, :found_at=>nil},{:id=>"88", :user_id=>nil, :pet_id=>"328", :message=>"走失\n", :created_at=>"2015-08-11 18:04:35", :updated_at=>nil, :found_at=>nil},{:id=>"89", :user_id=>nil, :pet_id=>"829", :message=>"White dog", :created_at=>"2015-08-14 15:10:38", :updated_at=>nil, :found_at=>nil},{:id=>"90", :user_id=>nil, :pet_id=>"830", :message=>"", :created_at=>"2015-08-14 15:25:56", :updated_at=>nil, :found_at=>nil},{:id=>"91", :user_id=>nil, :pet_id=>"829", :message=>"", :created_at=>"2015-08-14 15:46:17", :updated_at=>nil, :found_at=>nil},{:id=>"92", :user_id=>nil, :pet_id=>"830", :message=>"", :created_at=>"2015-08-14 16:16:10", :updated_at=>nil, :found_at=>nil},{:id=>"93", :user_id=>nil, :pet_id=>"830", :message=>"", :created_at=>"2015-08-14 16:16:17", :updated_at=>nil, :found_at=>nil},{:id=>"94", :user_id=>nil, :pet_id=>"830", :message=>"", :created_at=>"2015-08-14 16:16:34", :updated_at=>nil, :found_at=>nil},{:id=>"95", :user_id=>nil, :pet_id=>"59", :message=>"", :created_at=>"2015-08-16 15:24:24", :updated_at=>nil, :found_at=>nil},{:id=>"96", :user_id=>nil, :pet_id=>"59", :message=>"", :created_at=>"2015-08-16 15:26:39", :updated_at=>nil, :found_at=>nil},{:id=>"97", :user_id=>nil, :pet_id=>"852", :message=>"", :created_at=>"2015-08-16 18:48:38", :updated_at=>nil, :found_at=>nil},{:id=>"98", :user_id=>nil, :pet_id=>"319", :message=>"", :created_at=>"2015-08-16 18:52:23", :updated_at=>nil, :found_at=>nil},{:id=>"99", :user_id=>nil, :pet_id=>"305", :message=>"", :created_at=>"2015-08-17 23:17:29", :updated_at=>nil, :found_at=>nil},{:id=>"100", :user_id=>nil, :pet_id=>"305", :message=>"", :created_at=>"2015-08-17 23:21:14", :updated_at=>nil, :found_at=>nil},{:id=>"101", :user_id=>nil, :pet_id=>"303", :message=>"", :created_at=>"2015-08-17 23:24:27", :updated_at=>nil, :found_at=>nil},{:id=>"102", :user_id=>nil, :pet_id=>"854", :message=>"", :created_at=>"2015-08-18 06:12:24", :updated_at=>nil, :found_at=>nil},{:id=>"103", :user_id=>nil, :pet_id=>"919", :message=>"可能出現地點，大坑東，石硤尾，九龍塘，南昌街，南昌公園等", :created_at=>"2015-08-20 14:18:57", :updated_at=>nil, :found_at=>nil},{:id=>"104", :user_id=>nil, :pet_id=>"328", :message=>"", :created_at=>"2015-08-20 19:08:00", :updated_at=>nil, :found_at=>nil},{:id=>"105", :user_id=>nil, :pet_id=>"836", :message=>"", :created_at=>"2015-08-22 07:22:42", :updated_at=>nil, :found_at=>nil},{:id=>"106", :user_id=>nil, :pet_id=>"974", :message=>"lost in killeen Texas pkz help the my \ncat\n\n", :created_at=>"2015-08-21 20:44:18", :updated_at=>nil, :found_at=>nil},{:id=>"107", :user_id=>nil, :pet_id=>"984", :message=>"", :created_at=>"2015-08-24 21:08:34", :updated_at=>nil, :found_at=>nil},{:id=>"108", :user_id=>nil, :pet_id=>"696", :message=>"在此填寫報失訊息", :created_at=>"2015-09-06 20:05:35", :updated_at=>nil, :found_at=>nil},{:id=>"109", :user_id=>nil, :pet_id=>"1139", :message=>"在此填寫報失訊息", :created_at=>"2015-09-30 01:21:35", :updated_at=>nil, :found_at=>nil},{:id=>"110", :user_id=>nil, :pet_id=>"1528", :message=>"在內壢自立新村福特汽車公司大門公園身上有繫藍色胸背帶，鼻子淺粉紅色，身上右側有脫毛一個圈圈", :created_at=>"2015-10-09 05:41:55", :updated_at=>nil, :found_at=>nil},{:id=>"111", :user_id=>nil, :pet_id=>"2893", :message=>"FOUND DOG", :created_at=>"2015-12-22 17:47:44", :updated_at=>nil, :found_at=>nil},{:id=>"112", :user_id=>nil, :pet_id=>"2900", :message=>"Se si dovesse perdere per favore chiamate questo numero:3297756990 o 0832351268 contattatemi il più presto possibile. Non posso vivere senza di lei!", :created_at=>"2015-12-23 08:59:50", :updated_at=>nil, :found_at=>nil},{:id=>"113", :user_id=>nil, :pet_id=>"2860", :message=>"NULL", :created_at=>"2015-12-24 07:51:00", :updated_at=>nil, :found_at=>nil},{:id=>"114", :user_id=>nil, :pet_id=>"2907", :message=>"NULL", :created_at=>"2015-12-24 08:28:23", :updated_at=>nil, :found_at=>nil},{:id=>"115", :user_id=>nil, :pet_id=>"2914", :message=>"Please call me ", :created_at=>"2015-12-25 04:52:11", :updated_at=>nil},{:id=>"116", :user_id=>nil, :pet_id=>"2925", :message=>"NULL", :created_at=>"2015-12-26 21:01:49", :updated_at=>nil, :found_at=>nil},{:id=>"117", :user_id=>nil, :pet_id=>"2930", :message=>"NULL", :created_at=>"2015-12-26 21:32:26", :updated_at=>nil},{:id=>"118", :user_id=>nil, :pet_id=>"2934", :message=>"??", :created_at=>"2015-12-27 08:59:49", :updated_at=>nil},{:id=>"119", :user_id=>nil, :pet_id=>"2965", :message=>"Last seen on fm 2004 and rainsong neighborhood entrance", :created_at=>"2015-12-30 04:20:47", :updated_at=>nil},{:id=>"120", :user_id=>nil, :pet_id=>"3003", :message=>"William has autism and cannot speak", :created_at=>"2016-01-05 02:12:55", :updated_at=>nil, :found_at=>nil},{:id=>"121", :user_id=>nil, :pet_id=>"3004", :message=>"If she's missing, & you see Bella,,, call me ASAP!", :created_at=>"2016-01-05 10:03:27", :updated_at=>nil, :found_at=>nil},{:id=>"122", :user_id=>nil, :pet_id=>"427", :message=>"NULL", :created_at=>"2016-01-09 19:12:10", :updated_at=>nil, :found_at=>nil},{:id=>"123", :user_id=>nil, :pet_id=>"3080", :message=>"NULL", :created_at=>"2016-01-13 23:09:26", :updated_at=>nil, :found_at=>nil},{:id=>"124", :user_id=>nil, :pet_id=>"3084", :message=>"NULL", :created_at=>"2016-01-14 02:06:51", :updated_at=>nil, :found_at=>nil},{:id=>"125", :user_id=>nil, :pet_id=>"3095", :message=>"Pls help", :created_at=>"2016-01-14 16:18:48", :updated_at=>nil, :found_at=>nil},{:id=>"126", :user_id=>nil, :pet_id=>"2977", :message=>"Jessa was found and returned to me Jan 13, 2016 due to the chip in her.", :created_at=>"2016-01-15 00:10:20", :updated_at=>nil},{:id=>"127", :user_id=>nil, :pet_id=>"1013", :message=>"NULL", :created_at=>"2016-01-16 16:57:11", :updated_at=>nil, :found_at=>nil},{:id=>"128", :user_id=>nil, :pet_id=>"3144", :message=>"Last seen on Wende Rd, Alden NY on 1/13/16. ", :created_at=>"2016-01-20 19:09:10", :updated_at=>nil},{:id=>"129", :user_id=>nil, :pet_id=>"3155", :message=>"NULL", :created_at=>"2016-01-23 13:05:00", :updated_at=>nil},{:id=>"130", :user_id=>nil, :pet_id=>"687", :message=>"NULL", :created_at=>"2016-01-25 11:14:57", :updated_at=>nil, :found_at=>nil},{:id=>"131", :user_id=>nil, :pet_id=>"3203", :message=>"NULL", :created_at=>"2016-01-30 07:38:54", :updated_at=>nil},{:id=>"132", :user_id=>nil, :pet_id=>"3215", :message=>"Just got my DOTT today. Pet isn't really lost, this is only a test.", :created_at=>"2016-01-31 03:56:57", :updated_at=>nil, :found_at=>nil},{:id=>"133", :user_id=>nil, :pet_id=>"2913", :message=>"NULL", :created_at=>"2016-02-01 08:56:37", :updated_at=>nil, :found_at=>nil},{:id=>"134", :user_id=>nil, :pet_id=>"3251", :message=>"I'm looking for a good parents for fifi ", :created_at=>"2016-02-01 09:11:11", :updated_at=>nil, :found_at=>nil},{:id=>"135", :user_id=>nil, :pet_id=>"3255", :message=>"NULL", :created_at=>"2016-02-01 09:12:47", :updated_at=>nil, :found_at=>nil},{:id=>"136", :user_id=>nil, :pet_id=>"1383", :message=>"NULL", :created_at=>"2016-02-02 09:54:29", :updated_at=>nil, :found_at=>nil},{:id=>"137", :user_id=>nil, :pet_id=>"3318", :message=>"NULL", :created_at=>"2016-02-02 12:32:52", :updated_at=>nil, :found_at=>nil},{:id=>"138", :user_id=>nil, :pet_id=>"1717", :message=>"NULL", :created_at=>"2016-02-03 10:38:04", :updated_at=>nil, :found_at=>nil},{:id=>"139", :user_id=>nil, :pet_id=>"3390", :message=>"NULL", :created_at=>"2016-02-04 23:16:56", :updated_at=>nil, :found_at=>nil},{:id=>"140", :user_id=>nil, :pet_id=>"3424", :message=>"NULL", :created_at=>"2016-02-05 19:14:49", :updated_at=>nil, :found_at=>nil},{:id=>"141", :user_id=>nil, :pet_id=>"3437", :message=>"Get Kiko back asap. Blk 243 #09-105 Pasir Ris Street 21 S(510243)", :created_at=>"2016-02-06 16:41:23", :updated_at=>nil, :found_at=>nil},{:id=>"142", :user_id=>nil, :pet_id=>"1425", :message=>"NULL", :created_at=>"2016-02-07 02:19:19", :updated_at=>nil, :found_at=>nil},{:id=>"143", :user_id=>nil, :pet_id=>"1328", :message=>"NULL", :created_at=>"2016-02-07 23:45:05", :updated_at=>nil, :found_at=>nil},{:id=>"144", :user_id=>nil, :pet_id=>"3468", :message=>"NULL", :created_at=>"2016-02-09 01:26:28", :updated_at=>nil},{:id=>"145", :user_id=>nil, :pet_id=>"3519", :message=>"Lost dog. Last seen around 233 Bette Clair St SE. Grey and tan. 3 pounds. Need him back home, missed.", :created_at=>"2016-02-11 09:52:12", :updated_at=>nil},{:id=>"146", :user_id=>nil, :pet_id=>"3086", :message=>"NULL", :created_at=>"2016-02-11 21:01:32", :updated_at=>nil, :found_at=>nil},{:id=>"147", :user_id=>nil, :pet_id=>"3562", :message=>"NULL", :created_at=>"2016-02-12 10:26:22", :updated_at=>nil, :found_at=>nil},{:id=>"148", :user_id=>nil, :pet_id=>"1463", :message=>"NULL", :created_at=>"2016-02-13 02:16:40", :updated_at=>nil, :found_at=>nil},{:id=>"149", :user_id=>nil, :pet_id=>"3571", :message=>"You can call or text this cell number anytime:)", :created_at=>"2016-02-13 05:29:26", :updated_at=>nil, :found_at=>nil},{:id=>"150", :user_id=>nil, :pet_id=>"3542", :message=>"Chiamatemi subito per favore!\nSpock è adottato e non educato! VA SOTTO ALLE MACCHINE!\n", :created_at=>"2016-02-13 19:10:49", :updated_at=>nil, :found_at=>nil},{:id=>"151", :user_id=>nil, :pet_id=>"3596", :message=>"Nicholas 5162729395\nDonna 9088031938", :created_at=>"2016-02-14 08:31:15", :updated_at=>nil, :found_at=>nil},{:id=>"152", :user_id=>nil, :pet_id=>"3604", :message=>"NULL", :created_at=>"2016-02-16 00:42:53", :updated_at=>nil},{:id=>"153", :user_id=>nil, :pet_id=>"3625", :message=>"Please if you see him contact me please, it has been a week missing. Last seen in the Weston ranch neighborhood.", :created_at=>"2016-02-16 04:29:54", :updated_at=>nil},{:id=>"154", :user_id=>nil, :pet_id=>"3586", :message=>"NULL", :created_at=>"2016-02-16 10:30:01", :updated_at=>nil, :found_at=>nil},{:id=>"155", :user_id=>nil, :pet_id=>"3298", :message=>"Test only", :created_at=>"2016-02-18 05:32:17", :updated_at=>nil, :found_at=>nil},{:id=>"156", :user_id=>nil, :pet_id=>"3529", :message=>"NULL", :created_at=>"2016-02-22 10:42:44", :updated_at=>nil, :found_at=>nil},{:id=>"157", :user_id=>nil, :pet_id=>"3136", :message=>"Noodle is lost around Kwun Tong. ", :created_at=>"2016-02-22 16:01:17", :updated_at=>nil, :found_at=>nil},{:id=>"158", :user_id=>nil, :pet_id=>"2959", :message=>"NULL", :created_at=>"2016-02-24 11:13:39", :updated_at=>nil},{:id=>"159", :user_id=>nil, :pet_id=>"3694", :message=>"Testing ", :created_at=>"2016-02-24 15:28:33", :updated_at=>nil, :found_at=>nil},{:id=>"160", :user_id=>nil, :pet_id=>"3734", :message=>"tets", :created_at=>"2016-02-25 16:44:25", :updated_at=>nil},{:id=>"161", :user_id=>nil, :pet_id=>"3735", :message=>"Testing", :created_at=>"2016-02-25 16:44:43", :updated_at=>nil, :found_at=>nil},{:id=>"162", :user_id=>nil, :pet_id=>"3739", :message=>"NULL", :created_at=>"2016-02-25 18:44:33", :updated_at=>nil, :found_at=>nil},{:id=>"163", :user_id=>nil, :pet_id=>"3740", :message=>"NULL", :created_at=>"2016-02-25 19:32:04", :updated_at=>nil, :found_at=>nil},{:id=>"164", :user_id=>nil, :pet_id=>"3741", :message=>"NULL", :created_at=>"2016-02-25 21:46:34", :updated_at=>nil, :found_at=>nil},{:id=>"165", :user_id=>nil, :pet_id=>"3738", :message=>"NULL", :created_at=>"2016-02-25 23:39:12", :updated_at=>nil},{:id=>"166", :user_id=>nil, :pet_id=>"3597", :message=>"NULL", :created_at=>"2016-02-26 07:03:11", :updated_at=>nil, :found_at=>nil},{:id=>"167", :user_id=>nil, :pet_id=>"2896", :message=>"Bruno è stato adottato con un grissino ve lo fate amico non abbraccialo velocemente perché si spaventa chiamatemi subito e arrivo", :created_at=>"2016-02-27 05:50:38", :updated_at=>nil},{:id=>"168", :user_id=>nil, :pet_id=>"3768", :message=>"NULL", :created_at=>"2016-03-02 12:19:03", :updated_at=>nil, :found_at=>nil},{:id=>"169", :user_id=>nil, :pet_id=>"2859", :message=>"NULL", :created_at=>"2016-03-02 20:56:21", :updated_at=>nil, :found_at=>nil},{:id=>"170", :user_id=>nil, :pet_id=>"2972", :message=>"NULL", :created_at=>"2016-03-04 19:15:43", :updated_at=>nil},{:id=>"171", :user_id=>nil, :pet_id=>"3321", :message=>"NULL", :created_at=>"2016-03-04 21:00:01", :updated_at=>nil},{:id=>"172", :user_id=>nil, :pet_id=>"3642", :message=>"NULL", :created_at=>"2016-03-04 23:36:51", :updated_at=>nil, :found_at=>nil},{:id=>"173", :user_id=>nil, :pet_id=>"2837", :message=>"NULL", :created_at=>"2016-03-07 16:57:22", :updated_at=>nil, :found_at=>nil},{:id=>"174", :user_id=>nil, :pet_id=>"3804", :message=>"NULL", :created_at=>"2016-03-08 15:27:53", :updated_at=>nil, :found_at=>nil},{:id=>"175", :user_id=>nil, :pet_id=>"3818", :message=>"NULL", :created_at=>"2016-03-08 19:45:58", :updated_at=>nil, :found_at=>nil},{:id=>"176", :user_id=>nil, :pet_id=>"3817", :message=>"NULL", :created_at=>"2016-03-09 11:07:04", :updated_at=>nil, :found_at=>nil},{:id=>"177", :user_id=>nil, :pet_id=>"1204", :message=>"NULL", :created_at=>"2016-03-09 22:01:23", :updated_at=>nil, :found_at=>nil},{:id=>"178", :user_id=>nil, :pet_id=>"3799", :message=>"NULL", :created_at=>"2016-03-11 04:06:50", :updated_at=>nil, :found_at=>nil},{:id=>"179", :user_id=>nil, :pet_id=>"3834", :message=>"Lost in Ellet area \nI live on Dennison ave in Ellet\nIf found cash reward \nPlease help me ", :created_at=>"2016-03-12 11:29:40", :updated_at=>nil},{:id=>"180", :user_id=>nil, :pet_id=>"3841", :message=>"Pls contact me", :created_at=>"2016-03-13 03:48:10", :updated_at=>nil},{:id=>"181", :user_id=>nil, :pet_id=>"3807", :message=>"Esta es una prueba.", :created_at=>"2016-03-13 06:41:52", :updated_at=>nil, :found_at=>nil},{:id=>"182", :user_id=>nil, :pet_id=>"3842", :message=>"NULL", :created_at=>"2016-03-13 12:09:10", :updated_at=>nil, :found_at=>nil},{:id=>"183", :user_id=>nil, :pet_id=>"3782", :message=>"NULL", :created_at=>"2016-03-13 14:52:01", :updated_at=>nil, :found_at=>nil},{:id=>"184", :user_id=>nil, :pet_id=>"3853", :message=>"NULL", :created_at=>"2016-03-15 14:05:10", :updated_at=>nil},{:id=>"185", :user_id=>nil, :pet_id=>"3844", :message=>"Pléiade ", :created_at=>"2016-03-15 21:23:21", :updated_at=>nil},{:id=>"186", :user_id=>nil, :pet_id=>"3448", :message=>"NULL", :created_at=>"2016-03-19 06:53:27", :updated_at=>nil, :found_at=>nil},{:id=>"187", :user_id=>nil, :pet_id=>"3292", :message=>"NULL", :created_at=>"2016-03-21 04:41:53", :updated_at=>nil, :found_at=>nil},{:id=>"188", :user_id=>nil, :pet_id=>"3477", :message=>"NULL", :created_at=>"2016-03-21 11:04:55", :updated_at=>nil},{:id=>"189", :user_id=>nil, :pet_id=>"3914", :message=>"Found in Garden City in April \nMiddlebelt and warren area", :created_at=>"2016-03-22 07:07:25", :updated_at=>nil}])
+Beacon.create([{
+      id: '2',
+      pet_id: '1091',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '152',
+      lat: '22.448915',
+      lng: '114.004121',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-06 05:26:08'
+    },{
+      id: '4',
+      pet_id: '159',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '154',
+      lat: '22.27902',
+      lng: '114.1507',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 22:52:14'
+    },{
+      id: '5',
+      pet_id: '254',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '155',
+      lat: '22.32178497314453',
+      lng: '114.16474914550781',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 00:49:40'
+    },{
+      id: '6',
+      pet_id: '183',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '156',
+      lat: '22.450496',
+      lng: '114.0257603',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-22 20:13:41'
+    },{
+      id: '8',
+      pet_id: '396',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '158',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 20:43:02'
+    },{
+      id: '9',
+      pet_id: '267',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '159',
+      lat: '22.326095',
+      lng: '114.254105',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 10:18:32'
+    },{
+      id: '11',
+      pet_id: '392',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '161',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 20:42:50'
+    },{
+      id: '12',
+      pet_id: '119',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '162',
+      lat: '22.451733',
+      lng: '114.005069',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 15:56:47'
+    },{
+      id: '13',
+      pet_id: '184',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '163',
+      lat: '22.45054817199707',
+      lng: '114.0257797241211',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-22 20:15:54'
+    },{
+      id: '14',
+      pet_id: '225',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '164',
+      lat: '22.28369903564453',
+      lng: '114.03870391845703',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 23:37:21'
+    },{
+      id: '16',
+      pet_id: '836',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '166',
+      lat: '22.345558166503906',
+      lng: '114.19339752197266',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-14 20:54:28'
+    },{
+      id: '18',
+      pet_id: '167',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '168',
+      lat: '22.306611',
+      lng: '114.187023',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 19:07:25'
+    },{
+      id: '22',
+      pet_id: '229',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '172',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 20:40:04'
+    },{
+      id: '24',
+      pet_id: '1144',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '174',
+      lat: '22.30673',
+      lng: '114.251',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-09 21:00:21'
+    },{
+      id: '29',
+      pet_id: '161',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '179',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-31 22:37:53'
+    },{
+      id: '30',
+      pet_id: '321',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '180',
+      lat: '22.45041847229004',
+      lng: '113.99857330322266',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-05 14:19:17'
+    },{
+      id: '31',
+      pet_id: '653',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '181',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-01 17:35:43'
+    },{
+      id: '32',
+      pet_id: '632',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '182',
+      lat: '22.384698',
+      lng: '113.966753',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-31 22:27:11'
+    },{
+      id: '34',
+      pet_id: '812',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '184',
+      lat: '22.44028',
+      lng: '114.0117',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-12 03:53:27'
+    },{
+      id: '35',
+      pet_id: '811',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '185',
+      lat: '22.44028',
+      lng: '114.0117',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-12 03:44:18'
+    },{
+      id: '39',
+      pet_id: '1017',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '189',
+      lat: '22.310970',
+      lng: '114.223219',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-01 15:20:36'
+    },{
+      id: '40',
+      pet_id: '224',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '190',
+      lat: '22.334457397460938',
+      lng: '114.21542358398438',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-26 18:27:48'
+    },{
+      id: '42',
+      pet_id: '497',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '192',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 02:24:45'
+    },{
+      id: '44',
+      pet_id: '470',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '194',
+      lat: '22.371847',
+      lng: '114.137409',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 21:34:17'
+    },{
+      id: '50',
+      pet_id: '486',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '200',
+      lat: '22.274187088012695',
+      lng: '114.1445541381836',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 00:21:11'
+    },{
+      id: '51',
+      pet_id: '307',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '201',
+      lat: '22.3079371',
+      lng: '114.008474',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 20:15:31'
+    },{
+      id: '55',
+      pet_id: '245',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '205',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 23:48:31'
+    },{
+      id: '57',
+      pet_id: '612',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '207',
+      lat: '22.370615005493164',
+      lng: '113.99744415283203',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-19 23:59:20'
+    },{
+      id: '58',
+      pet_id: '859',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '208',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-17 20:48:01'
+    },{
+      id: '59',
+      pet_id: '796',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '209',
+      lat: '22.469629287719727',
+      lng: '114.00213623046875',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-11 01:29:28'
+    },{
+      id: '60',
+      pet_id: '187',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '210',
+      lat: '22.278337478637695',
+      lng: '114.1800308227539',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 19:54:36'
+    },{
+      id: '61',
+      pet_id: '976',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '211',
+      lat: '22.28481',
+      lng: '114.1917',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-23 11:53:07'
+    },{
+      id: '63',
+      pet_id: '215',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '213',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 18:11:38'
+    },{
+      id: '64',
+      pet_id: '460',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '214',
+      lat: '22.37258529663086',
+      lng: '114.1166000366211',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-01 18:00:36'
+    },{
+      id: '67',
+      pet_id: '127',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '217',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-22 15:58:19'
+    },{
+      id: '68',
+      pet_id: '178',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '218',
+      lat: '22.31114',
+      lng: '114.2233',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-30 15:51:56'
+    },{
+      id: '69',
+      pet_id: '442',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '219',
+      lat: '22.30077',
+      lng: '114.2553',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 13:58:42'
+    },{
+      id: '72',
+      pet_id: '220',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '222',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 21:32:01'
+    },{
+      id: '75',
+      pet_id: '86',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '225',
+      lat: '22.37132453918457',
+      lng: '114.11516571044922',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-19 00:56:59'
+    },{
+      id: '76',
+      pet_id: '85',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '226',
+      lat: '22.37140464782715',
+      lng: '114.11516571044922',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-19 00:58:36'
+    },{
+      id: '78',
+      pet_id: '1230',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '228',
+      lat: '22.328518',
+      lng: '114.154630',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-15 22:14:21'
+    },{
+      id: '79',
+      pet_id: '148',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '229',
+      lat: '22.27813',
+      lng: '114.2219',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-29 18:52:18'
+    },{
+      id: '81',
+      pet_id: '136',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '231',
+      lat: '22.308618',
+      lng: '114.257932',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-22 21:31:00'
+    },{
+      id: '82',
+      pet_id: '1729',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '232',
+      lat: '22.460784',
+      lng: '113.993700',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-10-26 11:15:47'
+    },{
+      id: '83',
+      pet_id: '266',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '233',
+      lat: '22.453399658203125',
+      lng: '114.00498962402344',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-23 21:27:28'
+    },{
+      id: '85',
+      pet_id: '253',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '235',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 00:43:40'
+    },{
+      id: '88',
+      pet_id: '142',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '238',
+      lat: '35.6608772277832',
+      lng: '139.6984100341797',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 13:03:32'
+    },{
+      id: '89',
+      pet_id: '2322',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '239',
+      lat: '22.371999',
+      lng: '114.118239',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-11-25 14:46:35'
+    },{
+      id: '90',
+      pet_id: '999',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '240',
+      lat: '22.31396',
+      lng: '114.1698',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-27 00:07:39'
+    },{
+      id: '91',
+      pet_id: '726',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '241',
+      lat: '22.3193',
+      lng: '114.1689',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-05 16:31:12'
+    },{
+      id: '92',
+      pet_id: '169',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '242',
+      lat: '22.51001739501953',
+      lng: '114.1080322265625',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 00:29:54'
+    },{
+      id: '93',
+      pet_id: '255',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '243',
+      lat: '22.321016311645508',
+      lng: '114.19271850585938',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 00:52:48'
+    },{
+      id: '95',
+      pet_id: '375',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '245',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 05:20:15'
+    },{
+      id: '96',
+      pet_id: '237',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '246',
+      lat: '22.37436',
+      lng: '114.1224',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 22:08:03'
+    },{
+      id: '97',
+      pet_id: '306',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '247',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-05 20:10:07'
+    },{
+      id: '98',
+      pet_id: '645',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '248',
+      lat: '22.43015',
+      lng: '114.0311',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-01 09:54:00'
+    },{
+      id: '100',
+      pet_id: '789',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '250',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-10 12:45:17'
+    },{
+      id: '101',
+      pet_id: '779',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '251',
+      lat: '22.38307',
+      lng: '114.1405',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-09 13:22:40'
+    },{
+      id: '102',
+      pet_id: '782',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '252',
+      lat: '22.36263084411621',
+      lng: '114.12372589111328',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-11 10:20:24'
+    },{
+      id: '104',
+      pet_id: '247',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '254',
+      lat: '22.311248779296875',
+      lng: '114.1897964477539',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-28 09:09:48'
+    },{
+      id: '106',
+      pet_id: '246',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '256',
+      lat: '22.43018',
+      lng: '114.0312',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 00:03:04'
+    },{
+      id: '107',
+      pet_id: '141',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '257',
+      lat: '22.3222',
+      lng: '114.1612',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-23 10:43:47'
+    },{
+      id: '109',
+      pet_id: '232',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '259',
+      lat: '22.34906',
+      lng: '114.1043',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 21:07:19'
+    },{
+      id: '111',
+      pet_id: '838',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '261',
+      lat: '22.44826889038086',
+      lng: '114.16674041748047',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-15 01:59:45'
+    },{
+      id: '114',
+      pet_id: '1252',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '264',
+      lat: '22.405351',
+      lng: '113.970836',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-16 23:10:42'
+    },{
+      id: '115',
+      pet_id: '20',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '265',
+      lat: '22.3113',
+      lng: '114.2234',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-11 14:46:11'
+    },{
+      id: '117',
+      pet_id: '589',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '267',
+      lat: '22.284717559814453',
+      lng: '114.15845489501953',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 20:37:49'
+    },{
+      id: '118',
+      pet_id: '134',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '268',
+      lat: '22.3943637',
+      lng: '113.9740669',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-24 17:57:00'
+    },{
+      id: '121',
+      pet_id: '132',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '271',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-22 18:04:12'
+    },{
+      id: '123',
+      pet_id: '236',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '273',
+      lat: '22.315921783447266',
+      lng: '114.25968170166016',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-11-01 12:04:14'
+    },{
+      id: '128',
+      pet_id: '728',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '278',
+      lat: '22.305503',
+      lng: '114.183639',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-05 19:36:35'
+    },{
+      id: '129',
+      pet_id: '377',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '279',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 20:36:46'
+    },{
+      id: '130',
+      pet_id: '482',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '280',
+      lat: '22.376917',
+      lng: '114.106329',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 00:05:06'
+    },{
+      id: '131',
+      pet_id: '249',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '281',
+      lat: '22.431583404541016',
+      lng: '114.09906768798828',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 01:37:55'
+    },{
+      id: '132',
+      pet_id: '349',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '282',
+      lat: '22.307353973388672',
+      lng: '114.010986328125',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-05 12:33:09'
+    },{
+      id: '133',
+      pet_id: '609',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '283',
+      lat: '22.25909',
+      lng: '114.1382',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-30 20:45:21'
+    },{
+      id: '136',
+      pet_id: '203',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '286',
+      lat: '22.441267013549805',
+      lng: '114.03689575195313',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 15:52:42'
+    },{
+      id: '140',
+      pet_id: '1142',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '290',
+      lat: '22.30673',
+      lng: '114.251',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-09 22:00:00'
+    },{
+      id: '141',
+      pet_id: '663',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '291',
+      lat: '22.29322052001953',
+      lng: '113.94207000732422',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-21 02:16:27'
+    },{
+      id: '143',
+      pet_id: '1003',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '293',
+      lat: '22.395948',
+      lng: '113.977301',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-30 16:47:32'
+    },{
+      id: '146',
+      pet_id: '582',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '296',
+      lat: '22.2925',
+      lng: '114.2383',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 18:42:48'
+    },{
+      id: '147',
+      pet_id: '583',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '297',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 18:48:42'
+    },{
+      id: '148',
+      pet_id: '400',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '298',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 18:54:53'
+    },{
+      id: '149',
+      pet_id: '401',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '299',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 19:00:52'
+    },{
+      id: '151',
+      pet_id: '419',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '301',
+      lat: '22.32330894470215',
+      lng: '114.16612243652344',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-09 11:35:15'
+    },{
+      id: '152',
+      pet_id: '483',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '302',
+      lat: '22.3768',
+      lng: '114.1067',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 00:08:31'
+    },{
+      id: '155',
+      pet_id: '506',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '305',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 20:23:34'
+    },{
+      id: '156',
+      pet_id: '252',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '306',
+      lat: '22.37140655517578',
+      lng: '114.1882095336914',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 01:05:40'
+    },{
+      id: '157',
+      pet_id: '261',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '307',
+      lat: '22.371381759643555',
+      lng: '114.18829345703125',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 01:07:17'
+    },{
+      id: '158',
+      pet_id: '676',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '308',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-02 21:37:48'
+    },{
+      id: '162',
+      pet_id: '773',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '312',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-08 03:38:12'
+    },{
+      id: '165',
+      pet_id: '775',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '315',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-08 03:44:12'
+    },{
+      id: '166',
+      pet_id: '221',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '316',
+      lat: '22.326601028442383',
+      lng: '114.25411987304688',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 19:21:45'
+    },{
+      id: '167',
+      pet_id: '219',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '317',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 19:22:51'
+    },{
+      id: '170',
+      pet_id: '125',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '320',
+      lat: '54.8059145',
+      lng: '9.4891343',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 09:52:51'
+    },{
+      id: '171',
+      pet_id: '670',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '321',
+      lat: '22.409603',
+      lng: '113.982066',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-02 17:21:13'
+    },{
+      id: '176',
+      pet_id: '157',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '326',
+      lat: '22.24564',
+      lng: '114.1662',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-23 18:13:22'
+    },{
+      id: '177',
+      pet_id: '156',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '327',
+      lat: '22.24564',
+      lng: '114.1662',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-23 18:07:29'
+    },{
+      id: '178',
+      pet_id: '147',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '328',
+      lat: '22.301883697509766',
+      lng: '114.17581176757813',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 10:39:32'
+    },{
+      id: '179',
+      pet_id: '166',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '329',
+      lat: '22.30326',
+      lng: '114.1753',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-23 22:09:47'
+    },{
+      id: '180',
+      pet_id: '406',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '330',
+      lat: '22.424949645996094',
+      lng: '114.0251235961914',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-02 06:05:07'
+    },{
+      id: '181',
+      pet_id: '407',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '331',
+      lat: '22.424930572509766',
+      lng: '114.02513122558594',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-31 23:17:58'
+    },{
+      id: '182',
+      pet_id: '635',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '332',
+      lat: '22.42494010925293',
+      lng: '114.02510833740234',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-31 23:18:26'
+    },{
+      id: '183',
+      pet_id: '243',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '333',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-20 11:22:29'
+    },{
+      id: '187',
+      pet_id: '998',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '337',
+      lat: '22.24441146850586',
+      lng: '114.16114807128906',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-31 02:40:40'
+    },{
+      id: '191',
+      pet_id: '594',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '341',
+      lat: '22.42437171936035',
+      lng: '114.0768814086914',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 22:50:55'
+    },{
+      id: '194',
+      pet_id: '189',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '344',
+      lat: '22.317689895629883',
+      lng: '114.160888671875',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 13:28:46'
+    },{
+      id: '196',
+      pet_id: '344',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '346',
+      lat: '22.444326400756836',
+      lng: '114.03466033935547',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 21:28:04'
+    },{
+      id: '197',
+      pet_id: '318',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '347',
+      lat: '22.34199',
+      lng: '114.1367',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 13:52:13'
+    },{
+      id: '199',
+      pet_id: '762',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '349',
+      lat: '22.335405349731445',
+      lng: '114.14899444580078',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-11-09 16:00:02'
+    },{
+      id: '200',
+      pet_id: '604',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '350',
+      lat: '22.349075',
+      lng: '114.201985',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-12-15 23:16:48'
+    },{
+      id: '201',
+      pet_id: '222',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '351',
+      lat: '22.218138',
+      lng: '114.027439',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 19:46:37'
+    },{
+      id: '203',
+      pet_id: '474',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '353',
+      lat: '22.277711',
+      lng: '114.226976',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 21:56:55'
+    },{
+      id: '204',
+      pet_id: '627',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '354',
+      lat: '22.33891',
+      lng: '114.1384',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-31 18:55:39'
+    },{
+      id: '205',
+      pet_id: '1153',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '355',
+      lat: '22.44029998779297',
+      lng: '114.07908630371094',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-10 18:57:16'
+    },{
+      id: '213',
+      pet_id: '447',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '363',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 15:23:06'
+    },{
+      id: '215',
+      pet_id: '487',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '365',
+      lat: '22.2572021484375',
+      lng: '114.14143371582031',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 00:22:11'
+    },{
+      id: '216',
+      pet_id: '1107',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '366',
+      lat: '22.34345',
+      lng: '114.1066',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-06 22:17:51'
+    },{
+      id: '219',
+      pet_id: '647',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '369',
+      lat: '22.35343',
+      lng: '114.2504',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-01 11:31:13'
+    },{
+      id: '220',
+      pet_id: '851',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '370',
+      lat: '22.299115',
+      lng: '114.155223',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-16 15:24:56'
+    },{
+      id: '222',
+      pet_id: '593',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '372',
+      lat: '22.33648681640625',
+      lng: '114.15879821777344',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 22:19:40'
+    },{
+      id: '227',
+      pet_id: '240',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '377',
+      lat: '22.369586944580078',
+      lng: '114.0794677734375',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-18 11:04:39'
+    },{
+      id: '229',
+      pet_id: '703',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '379',
+      lat: '22.36196',
+      lng: '114.1012',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-04 14:56:25'
+    },{
+      id: '231',
+      pet_id: '793',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '381',
+      lat: '22.359588623046875',
+      lng: '114.11933135986328',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-10 18:02:44'
+    },{
+      id: '232',
+      pet_id: '832',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '382',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-04 00:49:35'
+    },{
+      id: '233',
+      pet_id: '1387',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '383',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-28 13:03:55'
+    },{
+      id: '234',
+      pet_id: '214',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '384',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 18:12:23'
+    },{
+      id: '235',
+      pet_id: '574',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '385',
+      lat: '22.31966',
+      lng: '114.1938',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 14:39:46'
+    },{
+      id: '236',
+      pet_id: '1669',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '386',
+      lat: '22.418415069580078',
+      lng: '114.26769256591797',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-10-21 15:42:06'
+    },{
+      id: '237',
+      pet_id: '443',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '387',
+      lat: '22.30177',
+      lng: '114.2543',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 14:00:59'
+    },{
+      id: '239',
+      pet_id: '196',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '389',
+      lat: '22.32357',
+      lng: '114.2479',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 15:22:15'
+    },{
+      id: '240',
+      pet_id: '847',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '390',
+      lat: '22.45395',
+      lng: '114.0258',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-15 22:56:44'
+    },{
+      id: '241',
+      pet_id: '197',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '391',
+      lat: '22.32361',
+      lng: '114.2479',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 15:25:58'
+    },{
+      id: '242',
+      pet_id: '530',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '392',
+      lat: '22.364662170410156',
+      lng: '114.02010345458984',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 21:01:22'
+    },{
+      id: '243',
+      pet_id: '235',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '393',
+      lat: '22.315921783447266',
+      lng: '114.25968170166016',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-11-01 12:02:25'
+    },{
+      id: '244',
+      pet_id: '198',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '394',
+      lat: '22.3506879',
+      lng: '114.0586261',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-24 18:09:18'
+    },{
+      id: '247',
+      pet_id: '846',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '397',
+      lat: '22.45387',
+      lng: '114.0256',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-15 22:44:48'
+    },{
+      id: '248',
+      pet_id: '1670',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '398',
+      lat: '22.418415069580078',
+      lng: '114.26769256591797',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-10-21 15:42:29'
+    },{
+      id: '250',
+      pet_id: '605',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '400',
+      lat: '22.378602981567383',
+      lng: '114.20245361328125',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-13 18:03:21'
+    },{
+      id: '251',
+      pet_id: '1094',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '401',
+      lat: '22.27883',
+      lng: '114.174',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-06 05:30:42'
+    },{
+      id: '252',
+      pet_id: '700',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '402',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-04 14:00:08'
+    },{
+      id: '255',
+      pet_id: '185',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '405',
+      lat: '22.320838928222656',
+      lng: '114.22820281982422',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-02 21:46:00'
+    },{
+      id: '259',
+      pet_id: '730',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '409',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-05 23:27:35'
+    },{
+      id: '260',
+      pet_id: '649',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '410',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-08 16:36:23'
+    },{
+      id: '261',
+      pet_id: '160',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '411',
+      lat: '22.448476791381836',
+      lng: '114.0007553100586',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-23 21:53:08'
+    },{
+      id: '265',
+      pet_id: '162',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '415',
+      lat: '22.31317138671875',
+      lng: '114.1865463256836',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 13:27:29'
+    },{
+      id: '269',
+      pet_id: '648',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '419',
+      lat: '22.377803802490234',
+      lng: '113.96720886230469',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-11-11 13:05:09'
+    },{
+      id: '270',
+      pet_id: '797',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '420',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-11 09:31:14'
+    },{
+      id: '272',
+      pet_id: '385',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '422',
+      lat: '22.45899',
+      lng: '113.9983',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 15:02:17'
+    },{
+      id: '275',
+      pet_id: '687',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '425',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-03 19:05:03'
+    },{
+      id: '276',
+      pet_id: '386',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '426',
+      lat: '22.391350',
+      lng: '114.204906',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 16:00:26'
+    },{
+      id: '277',
+      pet_id: '515',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '427',
+      lat: '22.45262',
+      lng: '114.1745',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 16:02:38'
+    },{
+      id: '280',
+      pet_id: '271',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '430',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-30 21:50:51'
+    },{
+      id: '283',
+      pet_id: '913',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '433',
+      lat: '22.38082504272461',
+      lng: '114.18795776367188',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-19 13:36:04'
+    },{
+      id: '284',
+      pet_id: '131',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '434',
+      lat: '22.31062',
+      lng: '114.2252',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-22 17:42:18'
+    },{
+      id: '285',
+      pet_id: '513',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '435',
+      lat: '22.286699295043945',
+      lng: '114.19043731689453',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 14:34:44'
+    },{
+      id: '286',
+      pet_id: '199',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '436',
+      lat: '22.366680145263672',
+      lng: '114.136962890625',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 18:55:31'
+    },{
+      id: '287',
+      pet_id: '823',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '437',
+      lat: '22.32764',
+      lng: '114.1855',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-13 12:17:41'
+    },{
+      id: '290',
+      pet_id: '537',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '440',
+      lat: '22.317419052124023',
+      lng: '114.24520111083984',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-03 20:19:46'
+    },{
+      id: '291',
+      pet_id: '804',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '441',
+      lat: '22.380945205688477',
+      lng: '114.27355194091797',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-13 17:56:52'
+    },{
+      id: '292',
+      pet_id: '201',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '442',
+      lat: '22.441267013549805',
+      lng: '114.03689575195313',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 18:54:51'
+    },{
+      id: '294',
+      pet_id: '535',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '444',
+      lat: '22.317371368408203',
+      lng: '114.24524688720703',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-14 14:22:21'
+    },{
+      id: '295',
+      pet_id: '208',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '445',
+      lat: '22.286088943481445',
+      lng: '114.15107727050781',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 11:54:22'
+    },{
+      id: '296',
+      pet_id: '251',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '446',
+      lat: '22.398723',
+      lng: '114.206117',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-12 17:10:09'
+    },{
+      id: '297',
+      pet_id: '210',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '447',
+      lat: '22.286293029785156',
+      lng: '114.03802490234375',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-08 22:10:46'
+    },{
+      id: '299',
+      pet_id: '652',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '449',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-01 16:18:44'
+    },{
+      id: '300',
+      pet_id: '479',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '450',
+      lat: '22.342670440673828',
+      lng: '114.10623168945313',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 00:36:35'
+    },{
+      id: '302',
+      pet_id: '547',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '452',
+      lat: '22.327646255493164',
+      lng: '114.16749572753906',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-25 05:17:23'
+    },{
+      id: '303',
+      pet_id: '402',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '453',
+      lat: '22.36504',
+      lng: '114.1195',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 20:15:05'
+    },{
+      id: '304',
+      pet_id: '527',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '454',
+      lat: '22.364660263061523',
+      lng: '114.02010345458984',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 20:56:28'
+    },{
+      id: '305',
+      pet_id: '1248',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '455',
+      lat: '22.313843',
+      lng: '114.263001',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-16 21:41:11'
+    },{
+      id: '307',
+      pet_id: '552',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '457',
+      lat: '22.3276309967041',
+      lng: '114.16749572753906',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 00:24:25'
+    },{
+      id: '308',
+      pet_id: '553',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '458',
+      lat: '22.327655792236328',
+      lng: '114.16752624511719',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 23:43:56'
+    },{
+      id: '309',
+      pet_id: '558',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '459',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 07:48:33'
+    },{
+      id: '310',
+      pet_id: '231',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '460',
+      lat: '22.3507016',
+      lng: '114.0586019',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-10-13 21:30:30'
+    },{
+      id: '312',
+      pet_id: '559',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '462',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 07:51:35'
+    },{
+      id: '313',
+      pet_id: '548',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '463',
+      lat: '22.32765007019043',
+      lng: '114.16751098632813',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 00:01:33'
+    },{
+      id: '314',
+      pet_id: '550',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '464',
+      lat: '22.32765007019043',
+      lng: '114.16751098632813',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 00:13:27'
+    },{
+      id: '315',
+      pet_id: '600',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '465',
+      lat: '22.339330',
+      lng: '114.195193',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-30 02:28:43'
+    },{
+      id: '318',
+      pet_id: '1250',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '468',
+      lat: '22.313031',
+      lng: '114.263980',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-16 21:45:35'
+    },{
+      id: '320',
+      pet_id: '205',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '470',
+      lat: '22.3459',
+      lng: '114.198',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 15:59:13'
+    },{
+      id: '322',
+      pet_id: '239',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '472',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 20:42:16'
+    },{
+      id: '326',
+      pet_id: '523',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '476',
+      lat: '22.20327377319336',
+      lng: '114.02777862548828',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-03 14:21:27'
+    },{
+      id: '327',
+      pet_id: '265',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '477',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 02:16:57'
+    },{
+      id: '328',
+      pet_id: '450',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '478',
+      lat: '22.2623',
+      lng: '114.2364',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 16:17:35'
+    },{
+      id: '329',
+      pet_id: '465',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '479',
+      lat: '22.38547',
+      lng: '113.9696',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 19:48:46'
+    },{
+      id: '330',
+      pet_id: '370',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '480',
+      lat: '22.247108459472656',
+      lng: '114.15814971923828',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-03 19:21:24'
+    },{
+      id: '331',
+      pet_id: '590',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '481',
+      lat: '22.33648681640625',
+      lng: '114.15879821777344',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 23:08:14'
+    },{
+      id: '332',
+      pet_id: '204',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '482',
+      lat: '22.3459',
+      lng: '114.198',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 15:54:24'
+    },{
+      id: '333',
+      pet_id: '200',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '483',
+      lat: '22.3459',
+      lng: '114.198',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 15:44:26'
+    },{
+      id: '334',
+      pet_id: '575',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '484',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 14:42:38'
+    },{
+      id: '335',
+      pet_id: '469',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '485',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 21:05:05'
+    },{
+      id: '336',
+      pet_id: '633',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '486',
+      lat: '22.427692',
+      lng: '114.032837',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-31 22:41:16'
+    },{
+      id: '338',
+      pet_id: '250',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '488',
+      lat: '22.409603',
+      lng: '113.982066',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-02 17:07:32'
+    },{
+      id: '339',
+      pet_id: '641',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '489',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-01 00:47:38'
+    },{
+      id: '342',
+      pet_id: '585',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '492',
+      lat: '22.35396',
+      lng: '114.105',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 19:46:14'
+    },{
+      id: '343',
+      pet_id: '1283',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '493',
+      lat: '22.379751205444336',
+      lng: '114.19647979736328',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-20 14:59:05'
+    },{
+      id: '346',
+      pet_id: '256',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '496',
+      lat: '22.498044967651367',
+      lng: '114.12606048583984',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-29 15:43:33'
+    },{
+      id: '347',
+      pet_id: '193',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '497',
+      lat: '22.283223',
+      lng: '114.025246',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 14:07:30'
+    },{
+      id: '348',
+      pet_id: '191',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '498',
+      lat: '22.296529',
+      lng: '114.023123',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 14:03:02'
+    },{
+      id: '350',
+      pet_id: '491',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '500',
+      lat: '22.3288484',
+      lng: '114.1590957',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-10-01 20:34:12'
+    },{
+      id: '351',
+      pet_id: '343',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '501',
+      lat: '24.1521741',
+      lng: '120.7151225',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-20 22:32:13'
+    },{
+      id: '353',
+      pet_id: '484',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '503',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 00:21:32'
+    },{
+      id: '355',
+      pet_id: '345',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '505',
+      lat: '22.311513900756836',
+      lng: '114.18504333496094',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-20 22:30:40'
+    },{
+      id: '358',
+      pet_id: '659',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '508',
+      lat: '22.425583',
+      lng: '114.234547',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-01 21:17:55'
+    },{
+      id: '359',
+      pet_id: '494',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '509',
+      lat: '22.42718',
+      lng: '114.2933',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 01:01:15'
+    },{
+      id: '363',
+      pet_id: '263',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '513',
+      lat: '22.35145',
+      lng: '114.1173',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 01:17:38'
+    },{
+      id: '365',
+      pet_id: '696',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '515',
+      lat: '22.444551',
+      lng: '114.037056',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-03 23:28:45'
+    },{
+      id: '368',
+      pet_id: '374',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '518',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 04:13:43'
+    },{
+      id: '369',
+      pet_id: '416',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '519',
+      lat: '22.3865',
+      lng: '113.9781',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 00:21:00'
+    },{
+      id: '371',
+      pet_id: '668',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '521',
+      lat: '22.476675',
+      lng: '114.304003',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-02 15:03:53'
+    },{
+      id: '372',
+      pet_id: '667',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '522',
+      lat: '22.331256866455078',
+      lng: '114.2096176147461',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-09 09:37:21'
+    },{
+      id: '374',
+      pet_id: '456',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '524',
+      lat: '22.430696487426758',
+      lng: '113.99736785888672',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 18:48:33'
+    },{
+      id: '375',
+      pet_id: '418',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '525',
+      lat: '22.38636',
+      lng: '113.9781',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 00:24:47'
+    },{
+      id: '376',
+      pet_id: '325',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '526',
+      lat: '22.3520145',
+      lng: '114.2492658',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 20:40:08'
+    },{
+      id: '380',
+      pet_id: '979',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '530',
+      lat: '22.486892700195313',
+      lng: '114.1441650390625',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-23 15:37:44'
+    },{
+      id: '381',
+      pet_id: '457',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '531',
+      lat: '22.430696487426758',
+      lng: '113.99736785888672',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 19:19:04'
+    },{
+      id: '382',
+      pet_id: '669',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '532',
+      lat: '22.477592',
+      lng: '114.305453',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-02 15:05:28'
+    },{
+      id: '390',
+      pet_id: '531',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '540',
+      lat: '22.33611',
+      lng: '114.1388',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 21:09:01'
+    },{
+      id: '391',
+      pet_id: '529',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '541',
+      lat: '22.340642',
+      lng: '114.197488',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 21:00:15'
+    },{
+      id: '392',
+      pet_id: '319',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '542',
+      lat: '22.502796173095703',
+      lng: '114.12933349609375',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-23 20:34:37'
+    },{
+      id: '394',
+      pet_id: '223',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '544',
+      lat: '22.443918228149414',
+      lng: '114.00072479248047',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 20:01:01'
+    },{
+      id: '395',
+      pet_id: '646',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '545',
+      lat: '22.42219',
+      lng: '114.2321',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-01 10:09:57'
+    },{
+      id: '398',
+      pet_id: '326',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '548',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 23:36:56'
+    },{
+      id: '400',
+      pet_id: '339',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '550',
+      lat: '22.311967849731445',
+      lng: '114.18566131591797',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-20 22:27:12'
+    },{
+      id: '402',
+      pet_id: '228',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '552',
+      lat: '22.369586944580078',
+      lng: '114.0794906616211',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 23:14:39'
+    },{
+      id: '403',
+      pet_id: '601',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '553',
+      lat: '22.331256866455078',
+      lng: '114.2096176147461',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-03 21:02:52'
+    },{
+      id: '409',
+      pet_id: '158',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '559',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 10:04:29'
+    },{
+      id: '412',
+      pet_id: '619',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '562',
+      lat: '22.500566482543945',
+      lng: '114.14329528808594',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-06 23:20:39'
+    },{
+      id: '414',
+      pet_id: '186',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '564',
+      lat: '22.277744',
+      lng: '114.227028',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 21:57:14'
+    },{
+      id: '416',
+      pet_id: '1108',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '566',
+      lat: '22.34344',
+      lng: '114.1067',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-06 22:18:43'
+    },{
+      id: '418',
+      pet_id: '674',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '568',
+      lat: '22.490325927734375',
+      lng: '114.10269927978516',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-02 18:18:11'
+    },{
+      id: '419',
+      pet_id: '934',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '569',
+      lat: '22.456132888793945',
+      lng: '114.06385803222656',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-04 16:06:42'
+    },{
+      id: '420',
+      pet_id: '341',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '570',
+      lat: '22.311622619628906',
+      lng: '114.18518829345703',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-20 22:23:52'
+    },{
+      id: '421',
+      pet_id: '848',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '571',
+      lat: '22.45391',
+      lng: '114.0256',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-15 22:58:23'
+    },{
+      id: '422',
+      pet_id: '697',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '572',
+      lat: '22.444551',
+      lng: '114.037056',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-03 23:33:00'
+    },{
+      id: '423',
+      pet_id: '980',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '573',
+      lat: '22.316164016723633',
+      lng: '114.26271057128906',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-23 15:40:01'
+    },{
+      id: '424',
+      pet_id: '388',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '574',
+      lat: '22.456127166748047',
+      lng: '114.06385040283203',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-17 13:43:58'
+    },{
+      id: '430',
+      pet_id: '675',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '580',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-02 18:17:53'
+    },{
+      id: '431',
+      pet_id: '270',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '581',
+      lat: '22.50026',
+      lng: '114.1225',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 12:55:40'
+    },{
+      id: '432',
+      pet_id: '602',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '582',
+      lat: '22.56554',
+      lng: '114.0327',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-30 12:26:34'
+    },{
+      id: '433',
+      pet_id: '618',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '583',
+      lat: '22.500566482543945',
+      lng: '114.14329528808594',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-06 23:21:49'
+    },{
+      id: '439',
+      pet_id: '259',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '589',
+      lat: '22.38401',
+      lng: '113.971',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 01:04:45'
+    },{
+      id: '440',
+      pet_id: '626',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '590',
+      lat: '22.33949',
+      lng: '114.137',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-31 18:51:23'
+    },{
+      id: '442',
+      pet_id: '760',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '592',
+      lat: '22.441952',
+      lng: '114.0765726',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-10 19:06:22'
+    },{
+      id: '448',
+      pet_id: '211',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '598',
+      lat: '22.384627',
+      lng: '114.211862',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 17:34:38'
+    },{
+      id: '450',
+      pet_id: '545',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '600',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 23:34:12'
+    },{
+      id: '451',
+      pet_id: '544',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '601',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 23:35:06'
+    },{
+      id: '453',
+      pet_id: '1042',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '603',
+      lat: '22.30015754699707',
+      lng: '114.17877960205078',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-03 12:35:00'
+    },{
+      id: '454',
+      pet_id: '432',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '604',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 11:46:51'
+    },{
+      id: '455',
+      pet_id: '475',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '605',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 22:46:01'
+    },{
+      id: '456',
+      pet_id: '757',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '606',
+      lat: '22.447362899780273',
+      lng: '114.15744018554688',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-07 09:19:38'
+    },{
+      id: '459',
+      pet_id: '393',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '609',
+      lat: '22.27928924560547',
+      lng: '114.22571563720703',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-16 12:21:51'
+    },{
+      id: '460',
+      pet_id: '394',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '610',
+      lat: '22.27928924560547',
+      lng: '114.22571563720703',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-06 20:57:51'
+    },{
+      id: '461',
+      pet_id: '561',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '611',
+      lat: '22.44373321533203',
+      lng: '114.07696533203125',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 23:23:12'
+    },{
+      id: '462',
+      pet_id: '931',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '612',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-20 23:27:28'
+    },{
+      id: '463',
+      pet_id: '624',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '613',
+      lat: '22.324491500854492',
+      lng: '114.2087631225586',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-31 15:21:12'
+    },{
+      id: '464',
+      pet_id: '359',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '614',
+      lat: '22.37778091430664',
+      lng: '114.25801849365234',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-12 22:07:02'
+    },{
+      id: '465',
+      pet_id: '694',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '615',
+      lat: '22.49497413635254',
+      lng: '114.12614440917969',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-11 21:05:29'
+    },{
+      id: '466',
+      pet_id: '603',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '616',
+      lat: '22.37480926513672',
+      lng: '114.17871856689453',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-03 02:06:46'
+    },{
+      id: '470',
+      pet_id: '642',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '620',
+      lat: '22.304071',
+      lng: '114.247899',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-01 01:32:09'
+    },{
+      id: '471',
+      pet_id: '445',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '621',
+      lat: '22.46301',
+      lng: '114.0031',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 15:23:52'
+    },{
+      id: '473',
+      pet_id: '1014',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '623',
+      lat: '22.44094',
+      lng: '114.0318',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-01 00:30:29'
+    },{
+      id: '475',
+      pet_id: '384',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '625',
+      lat: '22.37394',
+      lng: '114.1914',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 14:59:11'
+    },{
+      id: '477',
+      pet_id: '353',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '627',
+      lat: '22.320138931274414',
+      lng: '114.1613998413086',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 23:34:59'
+    },{
+      id: '478',
+      pet_id: '446',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '628',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 15:19:49'
+    },{
+      id: '481',
+      pet_id: '1315',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '631',
+      lat: '22.315786361694336',
+      lng: '114.16934204101563',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-23 17:29:11'
+    },{
+      id: '482',
+      pet_id: '727',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '632',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-05 19:00:49'
+    },{
+      id: '483',
+      pet_id: '431',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '633',
+      lat: '22.372291',
+      lng: '113.993949',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 11:29:36'
+    },{
+      id: '484',
+      pet_id: '781',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '634',
+      lat: '22.26713752746582',
+      lng: '114.24625396728516',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-17 02:49:20'
+    },{
+      id: '487',
+      pet_id: '699',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '637',
+      lat: '22.448058',
+      lng: '114.175942',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-04 00:57:23'
+    },{
+      id: '488',
+      pet_id: '331',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '638',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 20:41:43'
+    },{
+      id: '489',
+      pet_id: '334',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '639',
+      lat: '22.356006622314453',
+      lng: '114.10399627685547',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 20:29:19'
+    },{
+      id: '490',
+      pet_id: '565',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '640',
+      lat: '22.44013786315918',
+      lng: '114.06304931640625',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 13:49:27'
+    },{
+      id: '491',
+      pet_id: '588',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '641',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 20:30:51'
+    },{
+      id: '492',
+      pet_id: '560',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '642',
+      lat: '22.32848',
+      lng: '114.2444',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 10:27:29'
+    },{
+      id: '494',
+      pet_id: '435',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '644',
+      lat: '22.332368850708008',
+      lng: '114.14787292480469',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-11-01 21:44:16'
+    },{
+      id: '495',
+      pet_id: '480',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '645',
+      lat: '22.394065856933594',
+      lng: '113.9762191772461',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-04 12:54:33'
+    },{
+      id: '496',
+      pet_id: '1147',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '646',
+      lat: '22.3213073',
+      lng: '114.1877366',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-10 02:06:37'
+    },{
+      id: '498',
+      pet_id: '2724',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '648',
+      lat: '22.26128387451172',
+      lng: '114.14757537841797',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-12-13 20:30:01'
+    },{
+      id: '499',
+      pet_id: '507',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '649',
+      lat: '22.286535263061523',
+      lng: '114.21148681640625',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-12 16:40:58'
+    },{
+      id: '500',
+      pet_id: '368',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '650',
+      lat: '22.3749681',
+      lng: '113.9683298',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-16 00:42:05'
+    },{
+      id: '502',
+      pet_id: '324',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '652',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 18:43:44'
+    },{
+      id: '506',
+      pet_id: '509',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '656',
+      lat: '22.291810989379883',
+      lng: '114.19843292236328',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 13:57:50'
+    },{
+      id: '507',
+      pet_id: '323',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '657',
+      lat: '22.4971417',
+      lng: '114.1279069',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-30 19:44:49'
+    },{
+      id: '510',
+      pet_id: '1553',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '660',
+      lat: '22.28118324279785',
+      lng: '114.21265411376953',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-10-13 08:20:00'
+    },{
+      id: '511',
+      pet_id: '777',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '661',
+      lat: '22.419771',
+      lng: '113.984693',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-08 21:12:53'
+    },{
+      id: '518',
+      pet_id: '441',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '668',
+      lat: '22.32257',
+      lng: '114.1636',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 13:38:37'
+    },{
+      id: '524',
+      pet_id: '471',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '674',
+      lat: '22.46099853515625',
+      lng: '114.00080871582031',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 22:10:42'
+    },{
+      id: '525',
+      pet_id: '827',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '675',
+      lat: '22.39876',
+      lng: '114.2051',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-13 23:57:32'
+    },{
+      id: '526',
+      pet_id: '340',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '676',
+      lat: '22.441959',
+      lng: '114.168725',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 21:06:38'
+    },{
+      id: '527',
+      pet_id: '288',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '677',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 16:34:08'
+    },{
+      id: '529',
+      pet_id: '332',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '679',
+      lat: '22.25791',
+      lng: '114.1397',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 20:26:31'
+    },{
+      id: '530',
+      pet_id: '298',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '680',
+      lat: '22.411211013793945',
+      lng: '113.97981262207031',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-08 17:18:56'
+    },{
+      id: '531',
+      pet_id: '520',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '681',
+      lat: '22.3953',
+      lng: '114.1985',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 18:38:39'
+    },{
+      id: '532',
+      pet_id: '508',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '682',
+      lat: '22.37352',
+      lng: '114.2821',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 13:24:01'
+    },{
+      id: '533',
+      pet_id: '268',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '683',
+      lat: '22.30461',
+      lng: '114.2686',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 12:42:04'
+    },{
+      id: '538',
+      pet_id: '563',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '688',
+      lat: '22.296497344970703',
+      lng: '114.17406463623047',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 13:12:02'
+    },{
+      id: '539',
+      pet_id: '421',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '689',
+      lat: '22.316593170166016',
+      lng: '114.16742706298828',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 18:22:55'
+    },{
+      id: '542',
+      pet_id: '518',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '692',
+      lat: '22.399089813232422',
+      lng: '114.20296478271484',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2016-02-27 12:06:32'
+    },{
+      id: '543',
+      pet_id: '536',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '693',
+      lat: '22.324918746948242',
+      lng: '114.16650390625',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 00:17:16'
+    },{
+      id: '546',
+      pet_id: '595',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '696',
+      lat: '22.443115234375',
+      lng: '114.08048248291016',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-08 19:55:02'
+    },{
+      id: '550',
+      pet_id: '672',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '700',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-02 17:30:42'
+    },{
+      id: '551',
+      pet_id: '412',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '701',
+      lat: '22.26345',
+      lng: '114.1333',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 22:11:28'
+    },{
+      id: '552',
+      pet_id: '414',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '702',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 22:37:07'
+    },{
+      id: '553',
+      pet_id: '473',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '703',
+      lat: '22.38254165649414',
+      lng: '114.28975677490234',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-01 01:12:44'
+    },{
+      id: '554',
+      pet_id: '472',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '704',
+      lat: '22.5000822',
+      lng: '114.1442458',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-01 01:13:24'
+    },{
+      id: '560',
+      pet_id: '2904',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '710',
+      lat: '22.405821',
+      lng: '113.968325',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-20 16:17:42'
+    },{
+      id: '562',
+      pet_id: '596',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '712',
+      lat: '22.443729400634766',
+      lng: '114.07695007324219',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-09 17:11:10'
+    },{
+      id: '565',
+      pet_id: '379',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '715',
+      lat: '22.314474',
+      lng: '114.265515',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 13:20:20'
+    },{
+      id: '568',
+      pet_id: '378',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '718',
+      lat: '22.355027',
+      lng: '114.246490',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 12:58:06'
+    },{
+      id: '569',
+      pet_id: '581',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '719',
+      lat: '22.4418326',
+      lng: '114.0284619',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2016-02-21 17:24:11'
+    },{
+      id: '570',
+      pet_id: '764',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '720',
+      lat: '22.475561141967773',
+      lng: '114.04501342773438',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-07 20:33:10'
+    },{
+      id: '571',
+      pet_id: '354',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '721',
+      lat: '22.379119873046875',
+      lng: '114.17632293701172',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 23:13:50'
+    },{
+      id: '572',
+      pet_id: '352',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '722',
+      lat: '22.3791446685791',
+      lng: '114.17631530761719',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 23:13:16'
+    },{
+      id: '574',
+      pet_id: '458',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '724',
+      lat: '22.31804',
+      lng: '114.2628',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 18:48:43'
+    },{
+      id: '575',
+      pet_id: '503',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '725',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 12:40:14'
+    },{
+      id: '576',
+      pet_id: '629',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '726',
+      lat: '22.45011',
+      lng: '114.1601',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-31 19:31:16'
+    },{
+      id: '578',
+      pet_id: '877',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '728',
+      lat: '22.30297',
+      lng: '114.2678',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-18 21:24:25'
+    },{
+      id: '579',
+      pet_id: '534',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '729',
+      lat: '22.45516',
+      lng: '114.1548',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 21:55:10'
+    },{
+      id: '581',
+      pet_id: '591',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '731',
+      lat: '22.42248',
+      lng: '114.231',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 22:01:33'
+    },{
+      id: '582',
+      pet_id: '478',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '732',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 23:32:07'
+    },{
+      id: '583',
+      pet_id: '628',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '733',
+      lat: '22.45042',
+      lng: '114.159',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-31 19:26:16'
+    },{
+      id: '584',
+      pet_id: '532',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '734',
+      lat: '22.279304',
+      lng: '114.177273',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 21:35:01'
+    },{
+      id: '586',
+      pet_id: '371',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '736',
+      lat: '22.38932',
+      lng: '114.1969',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 23:51:37'
+    },{
+      id: '592',
+      pet_id: '448',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '742',
+      lat: '22.389848709106445',
+      lng: '114.20710754394531',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 15:37:10'
+    },{
+      id: '593',
+      pet_id: '422',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '743',
+      lat: '22.324033737182617',
+      lng: '114.15593719482422',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 09:55:29'
+    },{
+      id: '594',
+      pet_id: '463',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '744',
+      lat: '22.33209',
+      lng: '114.1466',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 19:01:21'
+    },{
+      id: '595',
+      pet_id: '430',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '745',
+      lat: '22.478488',
+      lng: '114.043187',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 11:04:32'
+    },{
+      id: '596',
+      pet_id: '592',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '746',
+      lat: '22.42247',
+      lng: '114.2309',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 22:08:13'
+    },{
+      id: '597',
+      pet_id: '454',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '747',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-31 13:06:40'
+    },{
+      id: '598',
+      pet_id: '389',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '748',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 16:25:05'
+    },{
+      id: '600',
+      pet_id: '493',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '750',
+      lat: '22.38093',
+      lng: '114.2164',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 00:42:27'
+    },{
+      id: '601',
+      pet_id: '554',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '751',
+      lat: '22.52088',
+      lng: '114.1754',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 01:11:19'
+    },{
+      id: '603',
+      pet_id: '464',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '753',
+      lat: '22.2764892578125',
+      lng: '114.22528076171875',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-31 16:31:08'
+    },{
+      id: '604',
+      pet_id: '1023',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '754',
+      lat: '22.305293',
+      lng: '114.191309',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-02 00:02:04'
+    },{
+      id: '605',
+      pet_id: '631',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '755',
+      lat: '22.296367645263672',
+      lng: '114.29037475585938',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-31 23:45:43'
+    },{
+      id: '608',
+      pet_id: '1163',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '758',
+      lat: '22.352455139160156',
+      lng: '114.12413787841797',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-11 13:14:57'
+    },{
+      id: '612',
+      pet_id: '372',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '762',
+      lat: '22.448622',
+      lng: '114.169341',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 03:20:21'
+    },{
+      id: '613',
+      pet_id: '459',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '763',
+      lat: '22.337379455566406',
+      lng: '114.13742065429688',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-01 17:01:43'
+    },{
+      id: '614',
+      pet_id: '546',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '764',
+      lat: '22.345444',
+      lng: '114.188034',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 23:37:59'
+    },{
+      id: '615',
+      pet_id: '77',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '765',
+      lat: '22.422657',
+      lng: '114.2311756',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-15 23:19:55'
+    },{
+      id: '616',
+      pet_id: '715',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '766',
+      lat: '22.27818',
+      lng: '114.2219',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-04 22:05:58'
+    },{
+      id: '617',
+      pet_id: '671',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '767',
+      lat: '22.31865',
+      lng: '114.1652',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-02 17:22:18'
+    },{
+      id: '622',
+      pet_id: '767',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '772',
+      lat: '22.475561141967773',
+      lng: '114.04501342773438',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-07 21:39:16'
+    },{
+      id: '623',
+      pet_id: '768',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '773',
+      lat: '22.475618362426758',
+      lng: '114.0451431274414',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-07 21:44:31'
+    },{
+      id: '624',
+      pet_id: '765',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '774',
+      lat: '22.475561141967773',
+      lng: '114.04501342773438',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-07 21:12:30'
+    },{
+      id: '626',
+      pet_id: '501',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '776',
+      lat: '22.322345733642578',
+      lng: '114.16669464111328',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 20:07:57'
+    },{
+      id: '627',
+      pet_id: '766',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '777',
+      lat: '22.475568771362305',
+      lng: '114.04505920410156',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-07 21:24:50'
+    },{
+      id: '631',
+      pet_id: '329',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '781',
+      lat: '22.43151',
+      lng: '114.2515',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-01 06:46:42'
+    },{
+      id: '632',
+      pet_id: '362',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '782',
+      lat: '22.39358139038086',
+      lng: '113.97554779052734',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 19:18:01'
+    },{
+      id: '633',
+      pet_id: '1726',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '783',
+      lat: '22.35068130493164',
+      lng: '114.05863952636719',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-10-25 14:56:42'
+    },{
+      id: '635',
+      pet_id: '702',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '785',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-04 14:04:01'
+    },{
+      id: '637',
+      pet_id: '453',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '787',
+      lat: '22.330112',
+      lng: '114.193568',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 17:09:10'
+    },{
+      id: '638',
+      pet_id: '492',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '788',
+      lat: '22.358037',
+      lng: '114.126807',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 00:39:01'
+    },{
+      id: '639',
+      pet_id: '361',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '789',
+      lat: '22.277326583862305',
+      lng: '114.18295288085938',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 23:49:45'
+    },{
+      id: '640',
+      pet_id: '380',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '790',
+      lat: '22.37395',
+      lng: '114.1914',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 13:38:18'
+    },{
+      id: '643',
+      pet_id: '356',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '793',
+      lat: '22.4868251',
+      lng: '114.1443593',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 23:32:50'
+    },{
+      id: '644',
+      pet_id: '360',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '794',
+      lat: '22.277326583862305',
+      lng: '114.18295288085938',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 23:46:22'
+    },{
+      id: '645',
+      pet_id: '485',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '795',
+      lat: '22.358037',
+      lng: '114.126807',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 00:29:12'
+    },{
+      id: '652',
+      pet_id: '1139',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '802',
+      lat: '22.3626',
+      lng: '114.1721',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-09 15:14:07'
+    },{
+      id: '660',
+      pet_id: '695',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '810',
+      lat: '22.418100357055664',
+      lng: '114.22968292236328',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-07 01:06:08'
+    },{
+      id: '663',
+      pet_id: '975',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '813',
+      lat: '22.32146',
+      lng: '114.206',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-22 19:03:11'
+    },{
+      id: '664',
+      pet_id: '587',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '814',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-11 16:18:08'
+    },{
+      id: '665',
+      pet_id: '586',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '815',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-20 17:21:48'
+    },{
+      id: '666',
+      pet_id: '455',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '816',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 18:11:30'
+    },{
+      id: '667',
+      pet_id: '37',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '817',
+      lat: '22.311196',
+      lng: '114.223324',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-26 00:12:14'
+    },{
+      id: '670',
+      pet_id: '391',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '820',
+      lat: '22.286190',
+      lng: '114.197217',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 17:22:57'
+    },{
+      id: '671',
+      pet_id: '367',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '821',
+      lat: '22.30687',
+      lng: '114.251',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 01:32:27'
+    },{
+      id: '672',
+      pet_id: '712',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '822',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-09 10:40:16'
+    },{
+      id: '673',
+      pet_id: '1725',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '823',
+      lat: '22.350357055664063',
+      lng: '114.06008911132813',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-10-25 14:46:30'
+    },{
+      id: '675',
+      pet_id: '1609',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '825',
+      lat: '22.291266',
+      lng: '114.211196',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-10-17 16:53:21'
+    },{
+      id: '679',
+      pet_id: '303',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '829',
+      lat: '22.5014881',
+      lng: '114.1314022',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-17 23:19:53'
+    },{
+      id: '683',
+      pet_id: '413',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '833',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 22:17:26'
+    },{
+      id: '684',
+      pet_id: '330',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '834',
+      lat: '22.43156',
+      lng: '114.2514',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-01 06:46:57'
+    },{
+      id: '686',
+      pet_id: '606',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '836',
+      lat: '22.3233779',
+      lng: '114.2301129',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-23 16:36:41'
+    },{
+      id: '687',
+      pet_id: '519',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '837',
+      lat: '22.324735',
+      lng: '114.158147',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 18:04:57'
+    },{
+      id: '689',
+      pet_id: '411',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '839',
+      lat: '22.31669',
+      lng: '114.2189',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 22:10:53'
+    },{
+      id: '691',
+      pet_id: '620',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '841',
+      lat: '22.29851',
+      lng: '114.2391',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-31 02:46:04'
+    },{
+      id: '692',
+      pet_id: '217',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '842',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 18:47:13'
+    },{
+      id: '693',
+      pet_id: '610',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '843',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-30 20:55:18'
+    },{
+      id: '694',
+      pet_id: '328',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '844',
+      lat: '22.286094665527344',
+      lng: '113.9435043334961',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-10 18:34:07'
+    },{
+      id: '695',
+      pet_id: '611',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '845',
+      lat: '22.30825',
+      lng: '114.167',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-30 20:56:13'
+    },{
+      id: '697',
+      pet_id: '707',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '847',
+      lat: '22.38261',
+      lng: '114.2174',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-04 15:42:51'
+    },{
+      id: '698',
+      pet_id: '351',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '848',
+      lat: '22.37971',
+      lng: '114.2697',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 22:12:39'
+    },{
+      id: '699',
+      pet_id: '410',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '849',
+      lat: '22.31673',
+      lng: '114.2189',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 22:04:45'
+    },{
+      id: '700',
+      pet_id: '678',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '850',
+      lat: '22.50235',
+      lng: '114.1287',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-03 01:49:18'
+    },{
+      id: '703',
+      pet_id: '717',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '853',
+      lat: '22.28746',
+      lng: '114.216',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-04 23:41:48'
+    },{
+      id: '704',
+      pet_id: '526',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '854',
+      lat: '22.46845',
+      lng: '114.0039',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 20:53:19'
+    },{
+      id: '705',
+      pet_id: '350',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '855',
+      lat: '22.430263',
+      lng: '114.256242',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 22:31:32'
+    },{
+      id: '708',
+      pet_id: '510',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '858',
+      lat: '22.31627',
+      lng: '114.1806',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 14:01:09'
+    },{
+      id: '709',
+      pet_id: '342',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '859',
+      lat: '22.485403',
+      lng: '114.147259',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 21:15:40'
+    },{
+      id: '713',
+      pet_id: '799',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '863',
+      lat: '22.36452',
+      lng: '114.1346',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-11 16:11:05'
+    },{
+      id: '714',
+      pet_id: '426',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '864',
+      lat: '22.249011993408203',
+      lng: '114.13924407958984',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2016-03-06 23:30:10'
+    },{
+      id: '715',
+      pet_id: '490',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '865',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 00:26:33'
+    },{
+      id: '717',
+      pet_id: '364',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '867',
+      lat: '22.347177505493164',
+      lng: '114.19353485107422',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 00:26:59'
+    },{
+      id: '719',
+      pet_id: '636',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '869',
+      lat: '22.48671',
+      lng: '114.1407',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-31 23:32:45'
+    },{
+      id: '720',
+      pet_id: '637',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '870',
+      lat: '22.4867',
+      lng: '114.1407',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-31 23:53:20'
+    },{
+      id: '721',
+      pet_id: '614',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '871',
+      lat: '22.4862',
+      lng: '114.1419',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-30 23:37:19'
+    },{
+      id: '723',
+      pet_id: '615',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '873',
+      lat: '22.4867',
+      lng: '114.1424',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-30 23:46:08'
+    },{
+      id: '724',
+      pet_id: '305',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '874',
+      lat: '22.33623504638672',
+      lng: '114.176025390625',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-17 23:16:48'
+    },{
+      id: '725',
+      pet_id: '917',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '875',
+      lat: '22.46001',
+      lng: '114.2063',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-19 22:25:14'
+    },{
+      id: '726',
+      pet_id: '914',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '876',
+      lat: '22.30976',
+      lng: '114.1849',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-19 15:33:36'
+    },{
+      id: '727',
+      pet_id: '373',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '877',
+      lat: '22.449533462524414',
+      lng: '114.00557708740234',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-11-02 17:35:17'
+    },{
+      id: '729',
+      pet_id: '794',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '879',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-10 18:13:40'
+    },{
+      id: '730',
+      pet_id: '427',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '880',
+      lat: '22.473343',
+      lng: '114.233418',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 10:41:59'
+    },{
+      id: '731',
+      pet_id: '516',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '881',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 16:23:25'
+    },{
+      id: '732',
+      pet_id: '625',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '882',
+      lat: '22.328819',
+      lng: '114.158388',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-31 15:55:57'
+    },{
+      id: '733',
+      pet_id: '467',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '883',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 19:50:37'
+    },{
+      id: '734',
+      pet_id: '299',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '884',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 15:38:42'
+    },{
+      id: '736',
+      pet_id: '320',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '886',
+      lat: '22.30319',
+      lng: '114.1735',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 22:59:24'
+    },{
+      id: '737',
+      pet_id: '1302',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '887',
+      lat: '22.421635',
+      lng: '113.979376',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-22 00:35:16'
+    },{
+      id: '739',
+      pet_id: '241',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '889',
+      lat: '22.318572998046875',
+      lng: '114.1749496459961',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 23:29:03'
+    },{
+      id: '740',
+      pet_id: '688',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '890',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-03 19:33:44'
+    },{
+      id: '742',
+      pet_id: '650',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '892',
+      lat: '22.3335',
+      lng: '114.1978',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-01 14:56:56'
+    },{
+      id: '743',
+      pet_id: '242',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '893',
+      lat: '22.31854820251465',
+      lng: '114.1749267578125',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 14:22:31'
+    },{
+      id: '745',
+      pet_id: '489',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '895',
+      lat: '22.440921783447266',
+      lng: '114.06144714355469',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 10:11:35'
+    },{
+      id: '747',
+      pet_id: '542',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '897',
+      lat: '22.501100540161133',
+      lng: '114.13089752197266',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-10-18 20:54:06'
+    },{
+      id: '749',
+      pet_id: '1611',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '899',
+      lat: '22.443376541137695',
+      lng: '114.02408599853516',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-10-23 08:47:59'
+    },{
+      id: '750',
+      pet_id: '1564',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '900',
+      lat: '22.3369058',
+      lng: '114.1578103',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-10-15 09:08:00'
+    },{
+      id: '753',
+      pet_id: '335',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '903',
+      lat: '22.38672',
+      lng: '113.972',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 20:31:38'
+    },{
+      id: '754',
+      pet_id: '424',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '904',
+      lat: '22.418859',
+      lng: '113.986719',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 10:13:59'
+    },{
+      id: '757',
+      pet_id: '981',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '907',
+      lat: '22.355972290039063',
+      lng: '114.02418518066406',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-24 02:02:38'
+    },{
+      id: '758',
+      pet_id: '616',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '908',
+      lat: '22.44643783569336',
+      lng: '113.99143981933594',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-23 00:06:27'
+    },{
+      id: '759',
+      pet_id: '425',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '909',
+      lat: '22.30071',
+      lng: '114.238',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 10:24:56'
+    },{
+      id: '761',
+      pet_id: '3059',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '911',
+      lat: '22.306578',
+      lng: '114.267057',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-20 16:17:42'
+    },{
+      id: '762',
+      pet_id: '192',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '912',
+      lat: '22.320544',
+      lng: '114.170455',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 14:03:45'
+    },{
+      id: '769',
+      pet_id: '286',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '919',
+      lat: '22.39067268371582',
+      lng: '113.96746063232422',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-05 11:23:37'
+    },{
+      id: '770',
+      pet_id: '428',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '920',
+      lat: '22.30177',
+      lng: '114.176',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 10:47:59'
+    },{
+      id: '771',
+      pet_id: '556',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '921',
+      lat: '22.3513240814209',
+      lng: '114.20040893554688',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 10:23:57'
+    },{
+      id: '772',
+      pet_id: '404',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '922',
+      lat: '22.307520',
+      lng: '114.232798',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 20:51:35'
+    },{
+      id: '773',
+      pet_id: '555',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '923',
+      lat: '22.4135132',
+      lng: '114.0625857',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-16 11:12:20'
+    },{
+      id: '777',
+      pet_id: '181',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '927',
+      lat: '22.33792',
+      lng: '114.16',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 12:48:25'
+    },{
+      id: '779',
+      pet_id: '382',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '929',
+      lat: '22.31960105895996',
+      lng: '114.17041778564453',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 14:17:56'
+    },{
+      id: '780',
+      pet_id: '709',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '930',
+      lat: '22.311091',
+      lng: '114.223309',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-04 15:46:42'
+    },{
+      id: '782',
+      pet_id: '677',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '932',
+      lat: '22.444089889526367',
+      lng: '114.03333282470703',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-05 11:24:43'
+    },{
+      id: '783',
+      pet_id: '461',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '933',
+      lat: '22.3513240814209',
+      lng: '114.20040893554688',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-16 11:10:56'
+    },{
+      id: '784',
+      pet_id: '439',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '934',
+      lat: '22.40938377380371',
+      lng: '114.2127914428711',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 13:40:33'
+    },{
+      id: '786',
+      pet_id: '731',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '936',
+      lat: '22.36765',
+      lng: '114.1115',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-06 00:27:01'
+    },{
+      id: '788',
+      pet_id: '390',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '938',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-23 00:29:14'
+    },{
+      id: '789',
+      pet_id: '710',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '939',
+      lat: '22.471499',
+      lng: '114.152652',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-05 01:21:28'
+    },{
+      id: '790',
+      pet_id: '358',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '940',
+      lat: '22.438056',
+      lng: '114.065703',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 23:44:41'
+    },{
+      id: '792',
+      pet_id: '543',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '942',
+      lat: '22.24410057067871',
+      lng: '114.15404510498047',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-12 23:23:12'
+    },{
+      id: '793',
+      pet_id: '2305',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '943',
+      lat: '22.44978904724121',
+      lng: '114.16292572021484',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-11-24 22:29:11'
+    },{
+      id: '794',
+      pet_id: '557',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '944',
+      lat: '22.3513240814209',
+      lng: '114.20040893554688',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 10:24:41'
+    },{
+      id: '795',
+      pet_id: '673',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '945',
+      lat: '22.313441',
+      lng: '114.1645576',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-02 17:51:56'
+    },{
+      id: '796',
+      pet_id: '180',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '946',
+      lat: '22.31297',
+      lng: '114.2208',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 12:49:46'
+    },{
+      id: '797',
+      pet_id: '685',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '947',
+      lat: '22.450178',
+      lng: '114.161340',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-03 13:06:52'
+    },{
+      id: '798',
+      pet_id: '415',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '948',
+      lat: '22.38567',
+      lng: '114.1897',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 00:08:18'
+    },{
+      id: '800',
+      pet_id: '313',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '950',
+      lat: '22.318679809570313',
+      lng: '114.16790771484375',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-02 16:18:39'
+    },{
+      id: '801',
+      pet_id: '310',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '951',
+      lat: '22.39727783203125',
+      lng: '114.20707702636719',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-02 16:16:00'
+    },{
+      id: '803',
+      pet_id: '549',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '953',
+      lat: '22.421207427978516',
+      lng: '113.98579406738281',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 00:28:28'
+    },{
+      id: '804',
+      pet_id: '551',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '954',
+      lat: '22.432796478271484',
+      lng: '114.25537872314453',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 00:29:40'
+    },{
+      id: '805',
+      pet_id: '477',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '955',
+      lat: '22.20960807800293',
+      lng: '114.02849578857422',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 00:50:06'
+    },{
+      id: '807',
+      pet_id: '879',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '957',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-18 23:04:26'
+    },{
+      id: '810',
+      pet_id: '643',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '960',
+      lat: '52.4986457824707',
+      lng: '-2.1402933597564697',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-19 21:48:24'
+    },{
+      id: '812',
+      pet_id: '437',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '962',
+      lat: '22.319530487060547',
+      lng: '114.2162857055664',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-27 23:19:10'
+    },{
+      id: '813',
+      pet_id: '1082',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '963',
+      lat: '22.450578689575195',
+      lng: '114.03364562988281',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-05 18:33:59'
+    },{
+      id: '814',
+      pet_id: '1005',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '964',
+      lat: '22.499215',
+      lng: '114.152030',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-30 16:10:06'
+    },{
+      id: '817',
+      pet_id: '278',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '967',
+      lat: '22.316688537597656',
+      lng: '114.16779327392578',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-03 19:45:54'
+    },{
+      id: '819',
+      pet_id: '505',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '969',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-10 17:50:25'
+    },{
+      id: '821',
+      pet_id: '2849',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '971',
+      lat: '22.28697967529297',
+      lng: '114.2235336303711',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-12-19 09:27:13'
+    },{
+      id: '836',
+      pet_id: '1596',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '986',
+      lat: '22.375935',
+      lng: '114.269964',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-20 16:17:42'
+    },{
+      id: '837',
+      pet_id: '1063',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '987',
+      lat: '22.448898',
+      lng: '114.093787',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-04 22:36:50'
+    },{
+      id: '839',
+      pet_id: '1065',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '989',
+      lat: '22.29827117919922',
+      lng: '114.17523956298828',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-04 22:55:06'
+    },{
+      id: '841',
+      pet_id: '813',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '991',
+      lat: '22.322014',
+      lng: '114.217844',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-12 18:01:54'
+    },{
+      id: '842',
+      pet_id: '357',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '992',
+      lat: '22.286880493164063',
+      lng: '114.21697998046875',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 23:06:51'
+    },{
+      id: '844',
+      pet_id: '1577',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '994',
+      lat: '22.268864',
+      lng: '114.183726',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-10-15 23:19:04'
+    },{
+      id: '849',
+      pet_id: '283',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '999',
+      lat: '22.30687',
+      lng: '114.251',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 14:52:44'
+    },{
+      id: '850',
+      pet_id: '315',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1000',
+      lat: '22.312943',
+      lng: '114.220868',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 18:01:54'
+    },{
+      id: '851',
+      pet_id: '171',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1001',
+      lat: '22.311132',
+      lng: '114.223433',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-24 09:41:59'
+    },{
+      id: '853',
+      pet_id: '153',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1003',
+      lat: '22.2754',
+      lng: '114.1799',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-25 14:20:11'
+    },{
+      id: '854',
+      pet_id: '2477',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1004',
+      lat: '22.3113731',
+      lng: '114.2235051',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-12-01 18:56:01'
+    },{
+      id: '855',
+      pet_id: '150',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1005',
+      lat: '22.3112834',
+      lng: '114.2236019',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-09 19:58:25'
+    },{
+      id: '860',
+      pet_id: '301',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1010',
+      lat: '22.3560848236084',
+      lng: '114.12706756591797',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-24 17:37:10'
+    },{
+      id: '861',
+      pet_id: '309',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1011',
+      lat: '22.39727783203125',
+      lng: '114.20707702636719',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-01 18:49:49'
+    },{
+      id: '862',
+      pet_id: '290',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1012',
+      lat: '22.310672760009766',
+      lng: '114.22418212890625',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-30 18:48:06'
+    },{
+      id: '865',
+      pet_id: '1346',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1015',
+      lat: '22.308032989501953',
+      lng: '114.18335723876953',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-26 20:13:55'
+    },{
+      id: '866',
+      pet_id: '272',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1016',
+      lat: '22.31936264038086',
+      lng: '114.16658020019531',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-26 22:20:03'
+    },{
+      id: '867',
+      pet_id: '2078',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1017',
+      lat: '22.5231284',
+      lng: '114.2076515',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-12-22 15:57:12'
+    },{
+      id: '868',
+      pet_id: '468',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1018',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-26 22:43:37'
+    },{
+      id: '869',
+      pet_id: '59',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1019',
+      lat: '22.3476554',
+      lng: '114.0599161',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-16 09:37:21'
+    },{
+      id: '870',
+      pet_id: '630',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1020',
+      lat: '22.291378021240234',
+      lng: '114.19792175292969',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-01 08:51:54'
+    },{
+      id: '871',
+      pet_id: '1113',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1021',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-07 09:56:40'
+    },{
+      id: '872',
+      pet_id: '277',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1022',
+      lat: '22.316688537597656',
+      lng: '114.16779327392578',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-15 21:45:56'
+    },{
+      id: '874',
+      pet_id: '300',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1024',
+      lat: '22.311479568481445',
+      lng: '114.22349548339844',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-30 18:48:54'
+    },{
+      id: '876',
+      pet_id: '308',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1026',
+      lat: '22.39727783203125',
+      lng: '114.20707702636719',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-02 16:09:10'
+    },{
+      id: '877',
+      pet_id: '275',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1027',
+      lat: '22.398177',
+      lng: '114.200815',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 19:07:26'
+    },{
+      id: '878',
+      pet_id: '576',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1028',
+      lat: '22.323846',
+      lng: '114.252742',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 22:42:23'
+    },{
+      id: '882',
+      pet_id: '276',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1032',
+      lat: '22.340614',
+      lng: '114.211377',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 15:10:28'
+    },{
+      id: '883',
+      pet_id: '314',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1033',
+      lat: '22.46438217163086',
+      lng: '113.99554443359375',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-12 14:17:24'
+    },{
+      id: '884',
+      pet_id: '295',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1034',
+      lat: '22.31108',
+      lng: '114.2232',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 15:27:51'
+    },{
+      id: '888',
+      pet_id: '316',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1038',
+      lat: '22.33804',
+      lng: '114.1942',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 16:42:20'
+    },{
+      id: '889',
+      pet_id: '452',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1039',
+      lat: '22.45142364501953',
+      lng: '113.99942016601563',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-17 17:37:57'
+    },{
+      id: '890',
+      pet_id: '279',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1040',
+      lat: '22.30687',
+      lng: '114.251',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-26 19:13:22'
+    },{
+      id: '891',
+      pet_id: '525',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1041',
+      lat: '22.31404',
+      lng: '114.2268',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-28 19:57:28'
+    },{
+      id: '892',
+      pet_id: '311',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1042',
+      lat: '22.31122',
+      lng: '114.2233',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 16:32:58'
+    },{
+      id: '893',
+      pet_id: '209',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1043',
+      lat: '22.26557731628418',
+      lng: '114.24000549316406',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 16:06:58'
+    },{
+      id: '894',
+      pet_id: '282',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1044',
+      lat: '22.33878',
+      lng: '114.1402',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 15:25:54'
+    },{
+      id: '896',
+      pet_id: '294',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1046',
+      lat: '22.29067',
+      lng: '114.2036',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 15:17:45'
+    },{
+      id: '899',
+      pet_id: '274',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1049',
+      lat: '22.33894',
+      lng: '114.2135',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-25 14:49:42'
+    },{
+      id: '900',
+      pet_id: '660',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1050',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-02 08:10:01'
+    },{
+      id: '902',
+      pet_id: '689',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1052',
+      lat: '22.37854766845703',
+      lng: '114.12257385253906',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-12 20:30:31'
+    },{
+      id: '903',
+      pet_id: '679',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1053',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-03 04:08:51'
+    },{
+      id: '906',
+      pet_id: '701',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1056',
+      lat: '22.407904',
+      lng: '113.968402',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-04 13:55:22'
+    },{
+      id: '907',
+      pet_id: '778',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1057',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-08 21:30:39'
+    },{
+      id: '908',
+      pet_id: '651',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1058',
+      lat: '22.483522415161133',
+      lng: '114.05620574951172',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-02 18:09:19'
+    },{
+      id: '909',
+      pet_id: '810',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1059',
+      lat: '22.45543',
+      lng: '114.1561',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-11 23:45:19'
+    },{
+      id: '910',
+      pet_id: '81',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1060',
+      lat: '22.348827362060547',
+      lng: '114.103759765625',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-06 21:28:24'
+    },{
+      id: '911',
+      pet_id: '683',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1061',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-03 11:55:22'
+    },{
+      id: '912',
+      pet_id: '1314',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1062',
+      lat: '22.437294',
+      lng: '114.031008',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-23 13:06:34'
+    },{
+      id: '915',
+      pet_id: '754',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1065',
+      lat: '22.38390350341797',
+      lng: '113.96715545654297',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-08 23:25:54'
+    },{
+      id: '920',
+      pet_id: '769',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1070',
+      lat: '22.37435',
+      lng: '114.1224',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-07 22:25:09'
+    },{
+      id: '921',
+      pet_id: '693',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1071',
+      lat: '22.30687',
+      lng: '114.251',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-09 23:43:09'
+    },{
+      id: '924',
+      pet_id: '698',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1074',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-04 00:18:51'
+    },{
+      id: '928',
+      pet_id: '786',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1078',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-10 01:58:07'
+    },{
+      id: '931',
+      pet_id: '795',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1081',
+      lat: '22.290103912353516',
+      lng: '114.19859313964844',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-10 21:17:39'
+    },{
+      id: '932',
+      pet_id: '681',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1082',
+      lat: '22.338450',
+      lng: '114.200798',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-03 10:36:23'
+    },{
+      id: '933',
+      pet_id: '664',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1083',
+      lat: '22.403730392456055',
+      lng: '114.2052993774414',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-02 11:48:32'
+    },{
+      id: '934',
+      pet_id: '165',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1084',
+      lat: '22.40121',
+      lng: '114.2088',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-23 18:06:34'
+    },{
+      id: '935',
+      pet_id: '568',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1085',
+      lat: '22.31142807006836',
+      lng: '114.22370147705078',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 14:23:52'
+    },{
+      id: '936',
+      pet_id: '569',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1086',
+      lat: '22.338144302368164',
+      lng: '114.21497344970703',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-11-26 03:35:54'
+    },{
+      id: '940',
+      pet_id: '818',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1090',
+      lat: '3.1486940383911133',
+      lng: '101.616455078125',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-12 15:18:27'
+    },{
+      id: '944',
+      pet_id: '608',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1094',
+      lat: '22.2591',
+      lng: '114.1382',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-30 20:13:46'
+    },{
+      id: '948',
+      pet_id: '312',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1098',
+      lat: '22.39872932434082',
+      lng: '114.20577239990234',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-02 16:10:15'
+    },{
+      id: '949',
+      pet_id: '562',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1099',
+      lat: '22.311433792114258',
+      lng: '114.22388458251953',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-07-29 12:22:53'
+    },{
+      id: '958',
+      pet_id: '867',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1108',
+      lat: '22.315040588378906',
+      lng: '113.93648529052734',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-19 11:22:39'
+    },{
+      id: '959',
+      pet_id: '825',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1109',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-13 15:22:27'
+    },{
+      id: '963',
+      pet_id: '826',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1113',
+      lat: '22.3007869720459',
+      lng: '114.25401306152344',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-01 10:39:35'
+    },{
+      id: '969',
+      pet_id: '831',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1119',
+      lat: '22.281373977661133',
+      lng: '114.2227783203125',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-21 00:39:23'
+    },{
+      id: '971',
+      pet_id: '817',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1121',
+      lat: '22.30687',
+      lng: '114.251',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-14 15:02:35'
+    },{
+      id: '974',
+      pet_id: '986',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1124',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-24 22:48:10'
+    },{
+      id: '975',
+      pet_id: '985',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1125',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-24 22:47:55'
+    },{
+      id: '976',
+      pet_id: '822',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1126',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-15 23:27:58'
+    },{
+      id: '978',
+      pet_id: '996',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1128',
+      lat: '22.255765',
+      lng: '114.133387',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-26 10:56:22'
+    },{
+      id: '981',
+      pet_id: '843',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1131',
+      lat: '22.40243',
+      lng: '114.3008',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-15 16:07:58'
+    },{
+      id: '985',
+      pet_id: '837',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1135',
+      lat: '22.35637',
+      lng: '114.0957',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-14 21:10:33'
+    },{
+      id: '986',
+      pet_id: '2997',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1136',
+      lat: '22.4534099',
+      lng: '114.0017645',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2016-02-13 09:27:56'
+    },{
+      id: '991',
+      pet_id: '759',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1141',
+      lat: '22.37659',
+      lng: '114.1696',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-13 00:00:34'
+    },{
+      id: '994',
+      pet_id: '504',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1144',
+      lat: '22.291044235229492',
+      lng: '114.19969940185547',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-09 22:10:15'
+    },{
+      id: '999',
+      pet_id: '753',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1149',
+      lat: '22.3341637',
+      lng: '114.1910981',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-23 21:30:07'
+    },{
+      id: '1000',
+      pet_id: '780',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1150',
+      lat: '22.444486618041992',
+      lng: '114.01925659179688',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-10 14:23:14'
+    },{
+      id: '1001',
+      pet_id: '737',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1151',
+      lat: '22.284672',
+      lng: '114.223730',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-06 09:30:52'
+    },{
+      id: '1013',
+      pet_id: '2400',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1163',
+      lat: '22.290138244628906',
+      lng: '114.19706726074219',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-11-29 13:22:29'
+    },{
+      id: '1020',
+      pet_id: '2323',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1170',
+      lat: '23.754219',
+      lng: '114.693593',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-11-25 17:27:11'
+    },{
+      id: '1022',
+      pet_id: '2434',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1172',
+      lat: '22.30465994',
+      lng: '114.01595338',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-12-26 01:16:17'
+    },{
+      id: '1029',
+      pet_id: '2026',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1179',
+      lat: '23.754119',
+      lng: '114.693275',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-11-11 16:00:50'
+    },{
+      id: '1031',
+      pet_id: '994',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1181',
+      lat: '22.503907',
+      lng: '113.926981',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-25 23:02:09'
+    },{
+      id: '1032',
+      pet_id: '2401',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1182',
+      lat: '22.290138244628906',
+      lng: '114.19706726074219',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-11-29 00:14:43'
+    },{
+      id: '1034',
+      pet_id: '790',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1184',
+      lat: '22.33949',
+      lng: '114.1511',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-10 15:00:20'
+    },{
+      id: '1036',
+      pet_id: '771',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1186',
+      lat: '22.449053',
+      lng: '114.023444',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-08 00:34:58'
+    },{
+      id: '1039',
+      pet_id: '997',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1189',
+      lat: '22.50269',
+      lng: '113.9333',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-26 16:14:38'
+    },{
+      id: '1042',
+      pet_id: '1002',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1192',
+      lat: '22.456134796142578',
+      lng: '114.06388092041016',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-04 21:24:36'
+    },{
+      id: '1046',
+      pet_id: '784',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1196',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-09 22:08:00'
+    },{
+      id: '1047',
+      pet_id: '814',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1197',
+      lat: '22.311026',
+      lng: '114.223490',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-12 10:25:39'
+    },{
+      id: '1049',
+      pet_id: '2433',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1199',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-12-10 08:36:36'
+    },{
+      id: '1050',
+      pet_id: '829',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1200',
+      lat: '22.311017',
+      lng: '114.223506',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-14 15:59:17'
+    },{
+      id: '1051',
+      pet_id: '830',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1201',
+      lat: '22.311227',
+      lng: '114.223348',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-14 16:15:39'
+    },{
+      id: '1080',
+      pet_id: '1966',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1230',
+      lat: '-33.5621919',
+      lng: '-70.5953371',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-12-25 22:03:43'
+    },{
+      id: '1084',
+      pet_id: '887',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1234',
+      lat: '0',
+      lng: '0',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-21 18:07:30'
+    },{
+      id: '1090',
+      pet_id: '909',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1240',
+      lat: '22.311050',
+      lng: '114.223339',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-19 11:59:28'
+    },{
+      id: '1091',
+      pet_id: '984',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1241',
+      lat: '1.3427255153656006',
+      lng: '103.68383026123047',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-24 12:56:34'
+    },{
+      id: '1094',
+      pet_id: '2720',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1244',
+      lat: '34.0400390625',
+      lng: '-118.27070617675781',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-12-13 02:32:41'
+    },{
+      id: '1096',
+      pet_id: '1048',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1246',
+      lat: '33.97218704223633',
+      lng: '-117.86075592041016',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-04 05:31:17'
+    },{
+      id: '1099',
+      pet_id: '758',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1249',
+      lat: '22.311177',
+      lng: '114.223305',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-15 18:05:12'
+    },{
+      id: '1101',
+      pet_id: '1150',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1251',
+      lat: '33.332538',
+      lng: '-111.946036',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-25 09:58:09'
+    },{
+      id: '1104',
+      pet_id: '43',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1254',
+      lat: '22.55513',
+      lng: '114.0715',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-09 10:08:50'
+    },{
+      id: '1106',
+      pet_id: '881',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1256',
+      lat: '33.98889',
+      lng: '-117.961',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-05 04:01:47'
+    },{
+      id: '1107',
+      pet_id: '1242',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1257',
+      lat: '22.311188',
+      lng: '114.223316',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-25 10:33:16'
+    },{
+      id: '1112',
+      pet_id: '1477',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1262',
+      lat: '42.369602',
+      lng: '-71.122177',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-10-03 23:37:02'
+    },{
+      id: '1117',
+      pet_id: '1037',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1267',
+      lat: '34.083612',
+      lng: '-118.363104',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-09-03 05:13:26'
+    },{
+      id: '1119',
+      pet_id: '2602',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1269',
+      lat: '34.058022',
+      lng: '-117.245063',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-12-07 04:06:58'
+    },{
+      id: '1120',
+      pet_id: '1507',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1270',
+      lat: '-6.222912311553955',
+      lng: '106.78447723388672',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-10-06 12:31:18'
+    },{
+      id: '1126',
+      pet_id: '989',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1276',
+      lat: '22.311220',
+      lng: '114.223336',
+      created_at: '2015-07-20 16:17:42',
+      updated_at: '2015-08-25 18:37:44'
+    },{
+      id: '1354',
+      pet_id: '988',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '2000',
+      lat: '22.2465877532959',
+      lng: '114.24739837646484',
+      created_at: '2015-08-18 17:11:24',
+      updated_at: '2015-08-25 18:35:39'
+    },{
+      id: '1419',
+      pet_id: '28',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '38',
+      bt_minor: '5',
+      lat: '22.311',
+      lng: '114.2232',
+      created_at: '2015-03-05 15:45:54',
+      updated_at: '2015-08-25 07:34:52'
+    },{
+      id: '1420',
+      pet_id: '3810',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '38',
+      bt_minor: '6',
+      lat: '22.3113731',
+      lng: '114.2235051',
+      created_at: '2015-06-23 15:01:14',
+      updated_at: '2016-03-08 12:34:38'
+    },{
+      id: '1421',
+      pet_id: '53',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '38',
+      bt_minor: '7',
+      lat: '23.13872',
+      lng: '113.29',
+      created_at: '2015-03-05 16:16:04',
+      updated_at: '2015-06-29 10:12:41'
+    },{
+      id: '1422',
+      pet_id: '7',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '38',
+      bt_minor: '8',
+      lat: '23.139103',
+      lng: '113.290244',
+      created_at: '2015-03-05 16:16:16',
+      updated_at: '2015-05-20 09:30:39'
+    },{
+      id: '1423',
+      pet_id: '6',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '38',
+      bt_minor: '9',
+      lat: '23.13858',
+      lng: '113.2902',
+      created_at: '2015-03-05 16:16:23',
+      updated_at: '2015-05-20 09:30:22'
+    },{
+      id: '1424',
+      pet_id: '55',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '38',
+      bt_minor: '10',
+      lat: '23.13853',
+      lng: '113.2901',
+      created_at: '2015-03-05 16:16:56',
+      updated_at: '2015-06-29 11:08:06'
+    },{
+      id: '1427',
+      pet_id: '8',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '38',
+      bt_minor: '13',
+      lat: '23.1387',
+      lng: '113.2901',
+      created_at: '2015-03-05 16:17:10',
+      updated_at: '2015-05-20 09:43:38'
+    },{
+      id: '1429',
+      pet_id: '54',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '38',
+      bt_minor: '15',
+      lat: '23.13877',
+      lng: '113.29',
+      created_at: '2015-03-05 16:17:19',
+      updated_at: '2015-06-29 14:01:21'
+    },{
+      id: '1447',
+      pet_id: '36',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '38',
+      bt_minor: '214',
+      lat: '22.31122',
+      lng: '114.2233',
+      created_at: '2015-04-24 16:57:35',
+      updated_at: '2015-07-22 07:40:15'
+    },{
+      id: '1452',
+      pet_id: '38',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '38',
+      bt_minor: '252',
+      lat: '22.31122',
+      lng: '114.2233',
+      created_at: '2015-03-05 15:45:53',
+      updated_at: '2015-07-28 15:03:52'
+    },{
+      id: '1455',
+      pet_id: '39',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '38',
+      bt_minor: '255',
+      lat: '22.31122',
+      lng: '114.2233',
+      created_at: '2015-03-05 15:45:55',
+      updated_at: '2015-07-13 18:14:13'
+    },{
+      id: '1467',
+      pet_id: '75',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '1',
+      lat: '22.31117',
+      lng: '114.2233',
+      created_at: '2015-07-09 15:58:18',
+      updated_at: '2015-07-10 10:30:34'
+    },{
+      id: '1468',
+      pet_id: '78',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '2',
+      lat: '22.31122',
+      lng: '114.2233',
+      created_at: '2015-07-11 10:21:57',
+      updated_at: '2015-07-22 11:09:54'
+    },{
+      id: '1470',
+      pet_id: '95',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '4',
+      lat: '22.311114',
+      lng: '114.223478',
+      created_at: '2015-07-11 10:23:30',
+      updated_at: '2015-07-15 13:45:56'
+    },{
+      id: '1474',
+      pet_id: '1950',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '8',
+      lat: '22.477497100830078',
+      lng: '114.04779815673828',
+      created_at: '2015-07-11 10:26:14',
+      updated_at: '2015-11-07 17:54:54'
+    },{
+      id: '1475',
+      pet_id: '122',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '9',
+      lat: '22.47746467590332',
+      lng: '114.04762268066406',
+      created_at: '2015-07-11 10:26:34',
+      updated_at: '2015-11-07 17:56:47'
+    },{
+      id: '1476',
+      pet_id: '1951',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '10',
+      lat: '22.4775128',
+      lng: '114.0478276',
+      created_at: '2015-07-11 10:26:43',
+      updated_at: '2015-11-07 18:12:32'
+    },{
+      id: '1478',
+      pet_id: '170',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '12',
+      lat: '22.4997501373291',
+      lng: '114.0739517211914',
+      created_at: '2015-07-11 10:27:10',
+      updated_at: '2015-07-29 10:00:37'
+    },{
+      id: '1479',
+      pet_id: '92',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '13',
+      lat: '22.335773468017578',
+      lng: '114.19596862792969',
+      created_at: '2015-07-11 10:27:41',
+      updated_at: '2015-08-13 18:03:17'
+    },{
+      id: '1481',
+      pet_id: '88',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '15',
+      lat: '22.318387985229492',
+      lng: '114.17157745361328',
+      created_at: '2015-07-11 10:30:00',
+      updated_at: '2015-07-14 21:01:24'
+    },{
+      id: '1490',
+      pet_id: '118',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '24',
+      lat: '22.34276',
+      lng: '114.1976',
+      created_at: '2015-07-11 10:32:04',
+      updated_at: '2015-07-18 18:00:08'
+    },{
+      id: '1491',
+      pet_id: '511',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '25',
+      lat: '22.311158',
+      lng: '114.223379',
+      created_at: '2015-07-11 10:32:12',
+      updated_at: '2015-07-28 14:06:32'
+    },{
+      id: '1492',
+      pet_id: '114',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '26',
+      lat: '22.311194',
+      lng: '114.223322',
+      created_at: '2015-07-11 10:32:20',
+      updated_at: '2015-07-28 12:14:03'
+    },{
+      id: '1500',
+      pet_id: '408',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '34',
+      lat: '22.26013',
+      lng: '114.1286',
+      created_at: '2015-07-11 10:33:28',
+      updated_at: '2015-07-26 21:27:58'
+    },{
+      id: '1501',
+      pet_id: '113',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '35',
+      lat: '22.2896',
+      lng: '114.1951',
+      created_at: '2015-07-11 10:33:39',
+      updated_at: '2015-08-06 14:48:01'
+    },{
+      id: '1503',
+      pet_id: '93',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '37',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-11 10:39:56',
+      updated_at: '2015-07-14 23:17:13'
+    },{
+      id: '1507',
+      pet_id: '567',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '41',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-11 10:40:15',
+      updated_at: '2015-08-18 18:29:44'
+    },{
+      id: '1509',
+      pet_id: '1534',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '43',
+      lat: '33.891483306884766',
+      lng: '-118.3963623046875',
+      created_at: '2015-07-11 10:40:35',
+      updated_at: '2015-10-22 00:53:37'
+    },{
+      id: '1510',
+      pet_id: '644',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '44',
+      lat: '37.398183',
+      lng: '-121.984509',
+      created_at: '2015-07-11 10:40:43',
+      updated_at: '2015-08-01 08:41:52'
+    },{
+      id: '1513',
+      pet_id: '409',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '47',
+      lat: '22.25766',
+      lng: '114.1322',
+      created_at: '2015-07-11 10:41:23',
+      updated_at: '2015-07-26 21:30:12'
+    },{
+      id: '1519',
+      pet_id: '133',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '53',
+      lat: '22.2906693',
+      lng: '114.2005978',
+      created_at: '2015-07-11 10:42:27',
+      updated_at: '2015-09-18 22:09:57'
+    },{
+      id: '1526',
+      pet_id: '661',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '60',
+      lat: '22.324180603027344',
+      lng: '114.17110443115234',
+      created_at: '2015-07-11 10:43:41',
+      updated_at: '2015-08-01 21:56:15'
+    },{
+      id: '1527',
+      pet_id: '264',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '61',
+      lat: '22.377973556518555',
+      lng: '114.12859344482422',
+      created_at: '2015-07-11 10:44:03',
+      updated_at: '2015-07-29 23:04:33'
+    },{
+      id: '1529',
+      pet_id: '686',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '63',
+      lat: '22.423982620239258',
+      lng: '114.22574615478516',
+      created_at: '2015-07-11 10:44:18',
+      updated_at: '2015-08-26 15:32:24'
+    },{
+      id: '1530',
+      pet_id: '238',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '65',
+      lat: '22.376549',
+      lng: '113.961563',
+      created_at: '2015-07-11 10:44:51',
+      updated_at: '2015-07-25 19:45:53'
+    },{
+      id: '1535',
+      pet_id: '662',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '70',
+      lat: '22.46866',
+      lng: '114.1502',
+      created_at: '2015-07-11 10:46:17',
+      updated_at: '2015-08-01 22:55:57'
+    },{
+      id: '1537',
+      pet_id: '1225',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '72',
+      lat: '22.251187',
+      lng: '114.136930',
+      created_at: '2015-07-11 10:46:31',
+      updated_at: '2015-09-15 19:13:03'
+    },{
+      id: '1538',
+      pet_id: '655',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '73',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-11 10:47:01',
+      updated_at: '2015-08-01 21:30:08'
+    },{
+      id: '1540',
+      pet_id: '218',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '75',
+      lat: '22.43762',
+      lng: '114.2008',
+      created_at: '2015-07-11 10:47:17',
+      updated_at: '2015-07-26 16:19:54'
+    },{
+      id: '1542',
+      pet_id: '137',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '77',
+      lat: '22.39877',
+      lng: '114.206',
+      created_at: '2015-07-11 10:47:37',
+      updated_at: '2015-07-22 22:12:09'
+    },{
+      id: '1543',
+      pet_id: '139',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '78',
+      lat: '22.4842',
+      lng: '114.1414',
+      created_at: '2015-07-11 10:47:51',
+      updated_at: '2015-07-22 23:00:38'
+    },{
+      id: '1545',
+      pet_id: '322',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '80',
+      lat: '22.4262638092041',
+      lng: '114.02885437011719',
+      created_at: '2015-07-11 10:48:11',
+      updated_at: '2015-07-25 18:21:20'
+    },{
+      id: '1546',
+      pet_id: '124',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '81',
+      lat: '22.420698165893555',
+      lng: '114.04718780517578',
+      created_at: '2015-07-11 10:48:34',
+      updated_at: '2015-08-01 01:05:52'
+    },{
+      id: '1548',
+      pet_id: '144',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '83',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-11 10:48:49',
+      updated_at: '2015-07-23 12:28:47'
+    },{
+      id: '1551',
+      pet_id: '1545',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '86',
+      lat: '22.372571',
+      lng: '114.121167',
+      created_at: '2015-07-11 10:49:20',
+      updated_at: '2015-10-11 22:01:49'
+    },{
+      id: '1552',
+      pet_id: '1544',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '87',
+      lat: '22.372571',
+      lng: '114.121167',
+      created_at: '2015-07-11 10:49:32',
+      updated_at: '2015-10-11 22:03:29'
+    },{
+      id: '1556',
+      pet_id: '451',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '91',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-11 10:50:19',
+      updated_at: '2015-11-04 14:52:52'
+    },{
+      id: '1562',
+      pet_id: '376',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '97',
+      lat: '22.202572',
+      lng: '113.548979',
+      created_at: '2015-07-11 10:51:04',
+      updated_at: '2015-07-26 12:36:49'
+    },{
+      id: '1564',
+      pet_id: '155',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '99',
+      lat: '22.2885214',
+      lng: '114.2719039',
+      created_at: '2015-07-11 10:51:41',
+      updated_at: '2015-07-24 15:14:50'
+    },{
+      id: '1566',
+      pet_id: '755',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '101',
+      lat: '34.14594',
+      lng: '-118.2953',
+      created_at: '2015-07-11 10:52:25',
+      updated_at: '2015-08-07 01:10:37'
+    },{
+      id: '1567',
+      pet_id: '666',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '102',
+      lat: '33.90837478637695',
+      lng: '-117.4566879272461',
+      created_at: '2015-07-11 10:52:31',
+      updated_at: '2015-08-02 05:40:38'
+    },{
+      id: '1570',
+      pet_id: '104',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '105',
+      lat: '33.78681945800781',
+      lng: '-117.8968505859375',
+      created_at: '2015-07-11 10:52:53',
+      updated_at: '2015-07-25 10:36:20'
+    },{
+      id: '1571',
+      pet_id: '713',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '106',
+      lat: '34.90203',
+      lng: '-82.13062',
+      created_at: '2015-07-11 10:53:04',
+      updated_at: '2015-08-04 20:47:11'
+    },{
+      id: '1573',
+      pet_id: '2751',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '108',
+      lat: '33.9985732',
+      lng: '-117.8327455',
+      created_at: '2015-07-11 10:53:53',
+      updated_at: '2015-12-15 14:30:36'
+    },{
+      id: '1574',
+      pet_id: '718',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '109',
+      lat: '38.74908447265625',
+      lng: '-77.37090301513672',
+      created_at: '2015-07-11 10:54:03',
+      updated_at: '2015-08-09 23:31:24'
+    },{
+      id: '1576',
+      pet_id: '756',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '111',
+      lat: '33.62624',
+      lng: '-117.8694',
+      created_at: '2015-07-11 10:54:16',
+      updated_at: '2015-08-07 05:11:29'
+    },{
+      id: '1583',
+      pet_id: '621',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '118',
+      lat: '33.998564',
+      lng: '-117.832741',
+      created_at: '2015-07-11 10:55:56',
+      updated_at: '2015-07-31 03:12:55'
+    },{
+      id: '1586',
+      pet_id: '882',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '121',
+      lat: '33.98884',
+      lng: '-117.9611',
+      created_at: '2015-07-11 10:56:23',
+      updated_at: '2015-08-19 06:04:58'
+    },{
+      id: '1587',
+      pet_id: '738',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '122',
+      lat: '37.33178',
+      lng: '-79.87506',
+      created_at: '2015-07-11 10:56:38',
+      updated_at: '2015-08-06 09:58:16'
+    },{
+      id: '1589',
+      pet_id: '736',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '124',
+      lat: '34.139138',
+      lng: '-117.672457',
+      created_at: '2015-07-11 10:56:51',
+      updated_at: '2015-08-08 10:07:36'
+    },{
+      id: '1592',
+      pet_id: '732',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '127',
+      lat: '33.65992',
+      lng: '-117.5612',
+      created_at: '2015-07-11 10:57:14',
+      updated_at: '2015-08-06 01:02:21'
+    },{
+      id: '1598',
+      pet_id: '1728',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '133',
+      lat: '33.891483306884766',
+      lng: '-118.3963623046875',
+      created_at: '2015-07-11 11:01:06',
+      updated_at: '2015-10-26 04:16:56'
+    },{
+      id: '1604',
+      pet_id: '735',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '139',
+      lat: '33.701807',
+      lng: '-117.748894',
+      created_at: '2015-07-11 11:01:55',
+      updated_at: '2015-08-06 02:36:25'
+    },{
+      id: '1610',
+      pet_id: '918',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '145',
+      lat: '34.0574',
+      lng: '-118.342',
+      created_at: '2015-07-11 11:02:44',
+      updated_at: '2015-08-19 23:33:31'
+    },{
+      id: '1611',
+      pet_id: '1444',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '146',
+      lat: '34.015724182128906',
+      lng: '-118.28889465332031',
+      created_at: '2015-07-11 11:02:51',
+      updated_at: '2015-10-01 12:53:18'
+    },{
+      id: '1614',
+      pet_id: '130',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '101',
+      bt_minor: '149',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-07-11 11:03:26',
+      updated_at: '2015-07-22 16:42:39'
+    },{
+      id: '1620',
+      pet_id: '2690',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '103',
+      bt_minor: '105',
+      lat: '22.311099',
+      lng: '114.223266',
+      created_at: '2015-10-19 11:17:43',
+      updated_at: '2015-10-19 11:17:43'
+    },{
+      id: '1622',
+      pet_id: '2821',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '103',
+      bt_minor: '107',
+      lat: '22.3113083',
+      lng: '114.2237891',
+      created_at: '2015-10-19 11:17:43',
+      updated_at: '2015-12-17 10:59:58'
+    },{
+      id: '1623',
+      pet_id: '2822',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '103',
+      bt_minor: '108',
+      lat: '22.3112653',
+      lng: '114.2237999',
+      created_at: '2015-10-19 11:17:43',
+      updated_at: '2015-12-22 10:25:13'
+    },{
+      id: '1624',
+      pet_id: '3744',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '103',
+      bt_minor: '109',
+      lat: '22.3113095',
+      lng: '114.2235513',
+      created_at: '2015-10-19 11:17:43',
+      updated_at: '2016-03-19 06:26:26'
+    },{
+      id: '1627',
+      pet_id: '3015',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '103',
+      bt_minor: '112',
+      lat: '33.988871',
+      lng: '-117.961041',
+      created_at: '2015-10-19 11:17:43',
+      updated_at: '2016-01-06 14:11:02'
+    },{
+      id: '1631',
+      pet_id: '2860',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '103',
+      bt_minor: '116',
+      lat: '20.49608',
+      lng: '-86.9456359',
+      created_at: '2015-10-19 11:17:43',
+      updated_at: '2015-12-20 06:12:49'
+    },{
+      id: '1633',
+      pet_id: '2652',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '103',
+      bt_minor: '118',
+      lat: '34.092377',
+      lng: '-118.384983',
+      created_at: '2015-10-19 11:17:43',
+      updated_at: '2015-12-09 04:13:00'
+    },{
+      id: '1649',
+      pet_id: '3804',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '103',
+      bt_minor: '134',
+      lat: '22.3112252',
+      lng: '114.2236827',
+      created_at: '2015-10-19 11:17:43',
+      updated_at: '2016-03-09 14:56:15'
+    },{
+      id: '1652',
+      pet_id: '3023',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '103',
+      bt_minor: '137',
+      lat: '33.988685',
+      lng: '-117.961200',
+      created_at: '2015-10-19 11:17:43',
+      updated_at: '2016-01-07 11:34:29'
+    },{
+      id: '1653',
+      pet_id: '2765',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '103',
+      bt_minor: '138',
+      lat: '22.2686995',
+      lng: '114.1842665',
+      created_at: '2015-10-19 11:17:43',
+      updated_at: '2015-12-15 22:25:11'
+    },{
+      id: '1678',
+      pet_id: '2810',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '103',
+      bt_minor: '173',
+      lat: '22.3113292',
+      lng: '114.2237223',
+      created_at: '2015-10-19 11:17:43',
+      updated_at: '2015-12-16 17:02:11'
+    },{
+      id: '1679',
+      pet_id: '2888',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '103',
+      bt_minor: '174',
+      lat: '34.087727',
+      lng: '-118.358589',
+      created_at: '2015-10-19 11:17:43',
+      updated_at: '2016-01-15 09:03:04'
+    },{
+      id: '1680',
+      pet_id: '2648',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '103',
+      bt_minor: '175',
+      lat: '33.988794',
+      lng: '-117.961133',
+      created_at: '2015-10-19 11:17:43',
+      updated_at: '2015-12-08 06:13:28'
+    },{
+      id: '1681',
+      pet_id: '1944',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '103',
+      bt_minor: '176',
+      lat: '34.040278',
+      lng: '-118.269184',
+      created_at: '2015-10-19 11:17:43',
+      updated_at: '2015-11-07 04:07:00'
+    },{
+      id: '1682',
+      pet_id: '2604',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '103',
+      bt_minor: '177',
+      lat: '34.0426523',
+      lng: '-117.6612535',
+      created_at: '2015-10-19 11:17:43',
+      updated_at: '2015-12-07 07:41:44'
+    },{
+      id: '1693',
+      pet_id: '2074',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '103',
+      bt_minor: '188',
+      lat: '22.2686995',
+      lng: '114.1842665',
+      created_at: '2015-10-19 11:17:43',
+      updated_at: '2015-12-15 18:03:45'
+    },{
+      id: '1695',
+      pet_id: '3284',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '10',
+      lat: '40.836302',
+      lng: '-81.298002',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-02 07:54:26'
+    },{
+      id: '1697',
+      pet_id: '3753',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '101',
+      lat: '37.930404',
+      lng: '-92.020658',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-28 06:45:51'
+    },{
+      id: '1698',
+      pet_id: '1044',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '102',
+      lat: '51.524960',
+      lng: '-0.079548',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-03-08 18:42:08'
+    },{
+      id: '1705',
+      pet_id: '3573',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '109',
+      lat: '42.491157',
+      lng: '-83.145348',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-13 03:55:19'
+    },{
+      id: '1709',
+      pet_id: '3486',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '112',
+      lat: '33.142294',
+      lng: '-117.113556',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-09 12:31:06'
+    },{
+      id: '1710',
+      pet_id: '3781',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '113',
+      lat: '38.426045',
+      lng: '-121.171542',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-03-04 10:19:58'
+    },{
+      id: '1713',
+      pet_id: '3635',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '116',
+      lat: '37.766181',
+      lng: '-122.402764',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-17 05:59:58'
+    },{
+      id: '1714',
+      pet_id: '3514',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '117',
+      lat: '33.929935',
+      lng: '-84.407229',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-11 07:10:03'
+    },{
+      id: '1715',
+      pet_id: '3440',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '118',
+      lat: '22.279708',
+      lng: '114.150959',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-06 20:11:15'
+    },{
+      id: '1718',
+      pet_id: '3512',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '120',
+      lat: '40.272730',
+      lng: '-111.723233',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-11 06:34:59'
+    },{
+      id: '1721',
+      pet_id: '3865',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '123',
+      lat: '33.989462',
+      lng: '-117.964664',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-03-17 12:16:35'
+    },{
+      id: '1722',
+      pet_id: '3517',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '124',
+      lat: '44.70029',
+      lng: '-63.5954898',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-11 09:37:25'
+    },{
+      id: '1727',
+      pet_id: '3642',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '129',
+      lat: '33.003994',
+      lng: '-117.236051',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-18 09:57:08'
+    },{
+      id: '1730',
+      pet_id: '3908',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '131',
+      lat: '22.341249',
+      lng: '114.107185',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-03-21 21:10:57'
+    },{
+      id: '1731',
+      pet_id: '3510',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '132',
+      lat: '32.8943572',
+      lng: '-79.9135419',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-11 04:55:03'
+    },{
+      id: '1732',
+      pet_id: '3470',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '133',
+      lat: '39.103329',
+      lng: '-84.558363',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-09 01:28:40'
+    },{
+      id: '1733',
+      pet_id: '3576',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '134',
+      lat: '33.979117',
+      lng: '-84.275941',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-13 08:23:57'
+    },{
+      id: '1736',
+      pet_id: '3577',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '137',
+      lat: '33.4124387',
+      lng: '-84.0963817',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-13 08:43:36'
+    },{
+      id: '1737',
+      pet_id: '3482',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '138',
+      lat: '44.9392466',
+      lng: '-93.2724174',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-09 08:20:15'
+    },{
+      id: '1738',
+      pet_id: '3574',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '139',
+      lat: '33.776114',
+      lng: '-84.3482484',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-13 04:40:35'
+    },{
+      id: '1739',
+      pet_id: '1013',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '14',
+      lat: '22.335315',
+      lng: '114.203404',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-01-17 13:39:46'
+    },{
+      id: '1742',
+      pet_id: '3667',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '142',
+      lat: '50.839114',
+      lng: '0.4719956',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-21 04:36:42'
+    },{
+      id: '1743',
+      pet_id: '3767',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '143',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-03-02 05:19:48'
+    },{
+      id: '1744',
+      pet_id: '3779',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '144',
+      lat: '41.739125',
+      lng: '12.373608',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-03-03 21:46:32'
+    },{
+      id: '1748',
+      pet_id: '3789',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '148',
+      lat: '33.614597',
+      lng: '-112.036819',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-03-06 06:05:31'
+    },{
+      id: '1750',
+      pet_id: '3590',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '15',
+      lat: '40.781888',
+      lng: '-81.525103',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-13 23:15:10'
+    },{
+      id: '1752',
+      pet_id: '3323',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '151',
+      lat: '36.1453742',
+      lng: '-86.8757802',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-02 13:42:03'
+    },{
+      id: '1754',
+      pet_id: '3571',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '153',
+      lat: '34.421194',
+      lng: '-86.947786',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-13 02:58:38'
+    },{
+      id: '1756',
+      pet_id: '3393',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '155',
+      lat: '37.772452',
+      lng: '-122.414957',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-04 11:57:18'
+    },{
+      id: '1758',
+      pet_id: '3322',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '157',
+      lat: '36.1452419',
+      lng: '-86.8755843',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-02 13:26:35'
+    },{
+      id: '1759',
+      pet_id: '3870',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '158',
+      lat: '53.345739',
+      lng: '-2.213144',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-03-18 03:00:39'
+    },{
+      id: '1760',
+      pet_id: '1227',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '159',
+      lat: '51.9124316',
+      lng: '-0.1737674',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-01-30 22:01:24'
+    },{
+      id: '1761',
+      pet_id: '3291',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '16',
+      lat: '32.433053',
+      lng: '-104.221847',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-02 08:42:53'
+    },{
+      id: '1764',
+      pet_id: '3729',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '162',
+      lat: '33.716438',
+      lng: '-116.398454',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-25 11:12:21'
+    },{
+      id: '1768',
+      pet_id: '3266',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '166',
+      lat: '34.428610',
+      lng: '-119.876592',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-02 01:42:43'
+    },{
+      id: '1769',
+      pet_id: '3356',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '167',
+      lat: '47.5288546',
+      lng: '-122.3605336',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-03 11:21:57'
+    },{
+      id: '1770',
+      pet_id: '3196',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '168',
+      lat: '52.0035732',
+      lng: '-1.0522438',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-01-29 20:38:38'
+    },{
+      id: '1772',
+      pet_id: '3868',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '17',
+      lat: '52.723280',
+      lng: '-113.722646',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-03-18 00:25:51'
+    },{
+      id: '1773',
+      pet_id: '3229',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '170',
+      lat: '35.428962',
+      lng: '-120.882059',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-01-31 09:02:36'
+    },{
+      id: '1774',
+      pet_id: '3278',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '171',
+      lat: '33.757107',
+      lng: '-111.922980',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-02 07:20:06'
+    },{
+      id: '1775',
+      pet_id: '3296',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '172',
+      lat: '30.180087',
+      lng: '-97.822055',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-02 08:51:42'
+    },{
+      id: '1784',
+      pet_id: '3230',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '180',
+      lat: '35.427547',
+      lng: '-120.879746',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-01-31 09:04:24'
+    },{
+      id: '1785',
+      pet_id: '3424',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '181',
+      lat: '22.268225',
+      lng: '114.184789',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-05 19:13:01'
+    },{
+      id: '1788',
+      pet_id: '3080',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '184',
+      lat: '22.277238',
+      lng: '114.171844',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-01-13 18:44:17'
+    },{
+      id: '1791',
+      pet_id: '3906',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '187',
+      lat: '36.131579',
+      lng: '-115.240372',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-03-21 12:36:59'
+    },{
+      id: '1792',
+      pet_id: '3661',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '188',
+      lat: '50.702707',
+      lng: '7.142128',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-20 04:16:44'
+    },{
+      id: '1793',
+      pet_id: '3297',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '189',
+      lat: '41.849313',
+      lng: '-87.697547',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-02 12:24:06'
+    },{
+      id: '1797',
+      pet_id: '3308',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '192',
+      lat: '34.179472',
+      lng: '-118.195771',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-02 10:28:09'
+    },{
+      id: '1798',
+      pet_id: '3279',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '193',
+      lat: '32.276546478271484',
+      lng: '-110.85025024414063',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-02 07:23:13'
+    },{
+      id: '1800',
+      pet_id: '3387',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '195',
+      lat: '47.743619',
+      lng: '-122.182710',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-04 07:29:15'
+    },{
+      id: '1801',
+      pet_id: '1295',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '196',
+      lat: '-36.775271',
+      lng: '174.715613',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-01-30 08:16:57'
+    },{
+      id: '1803',
+      pet_id: '3326',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '198',
+      lat: '38.985503',
+      lng: '-77.087417',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-02 23:25:17'
+    },{
+      id: '1804',
+      pet_id: '3203',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '199',
+      lat: '51.5806945',
+      lng: '-0.2943335',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-01-30 04:20:55'
+    },{
+      id: '1806',
+      pet_id: '3293',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '20',
+      lat: '32.433052',
+      lng: '-104.221904',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-02 08:45:42'
+    },{
+      id: '1807',
+      pet_id: '3640',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '200',
+      lat: '52.2248557',
+      lng: '7.949046',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-19 01:48:03'
+    },{
+      id: '1808',
+      pet_id: '3238',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '201',
+      lat: '36.693611',
+      lng: '-121.658506',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-01-31 12:43:44'
+    },{
+      id: '1809',
+      pet_id: '3369',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '202',
+      lat: '52.346263',
+      lng: '9.790986',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-04 01:00:43'
+    },{
+      id: '1810',
+      pet_id: '3631',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '203',
+      lat: '35.314379',
+      lng: '-80.747287',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-16 12:46:57'
+    },{
+      id: '1811',
+      pet_id: '3342',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '204',
+      lat: '38.843220',
+      lng: '-77.096036',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-03 07:40:34'
+    },{
+      id: '1812',
+      pet_id: '3442',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '205',
+      lat: '34.012431',
+      lng: '-117.973961',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-06 23:58:13'
+    },{
+      id: '1814',
+      pet_id: '3401',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '207',
+      lat: '50.196725',
+      lng: '-5.428997',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-05 01:56:48'
+    },{
+      id: '1815',
+      pet_id: '3498',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '208',
+      lat: '38.964280',
+      lng: '-94.629880',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-10 04:47:29'
+    },{
+      id: '1816',
+      pet_id: '3684',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '209',
+      lat: '48.313605',
+      lng: '-89.349419',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-23 06:37:42'
+    },{
+      id: '1819',
+      pet_id: '3189',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '211',
+      lat: '-45.906338',
+      lng: '170.467831',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-01-29 11:59:43'
+    },{
+      id: '1820',
+      pet_id: '3264',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '212',
+      lat: '39.851761',
+      lng: '-86.135071',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-01 20:40:03'
+    },{
+      id: '1821',
+      pet_id: '3340',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '213',
+      lat: '38.549261',
+      lng: '-106.931395',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-03 07:05:02'
+    },{
+      id: '1824',
+      pet_id: '3325',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '216',
+      lat: '27.954851',
+      lng: '-82.474578',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-02 23:13:34'
+    },{
+      id: '1825',
+      pet_id: '3683',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '217',
+      lat: '46.0267962',
+      lng: '-73.6924864',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-23 05:28:23'
+    },{
+      id: '1826',
+      pet_id: '3451',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '218',
+      lat: '-42.886391',
+      lng: '147.412471',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-07 12:26:25'
+    },{
+      id: '1828',
+      pet_id: '3394',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '22',
+      lat: '-33.676159',
+      lng: '150.924910',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-04 13:06:43'
+    },{
+      id: '1830',
+      pet_id: '3511',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '221',
+      lat: '42.184611',
+      lng: '-122.689214',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-11 06:34:39'
+    },{
+      id: '1831',
+      pet_id: '1057',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '222',
+      lat: '40.629420',
+      lng: '-73.974173',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-03 08:16:32'
+    },{
+      id: '1833',
+      pet_id: '3406',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '224',
+      lat: '38.778222',
+      lng: '-84.903084',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-10 04:15:55'
+    },{
+      id: '1835',
+      pet_id: '3420',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '226',
+      lat: '-37.7936841',
+      lng: '145.2380063',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-05 12:14:02'
+    },{
+      id: '1836',
+      pet_id: '3513',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '227',
+      lat: '42.239672',
+      lng: '-122.781646',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-11 06:58:01'
+    },{
+      id: '1837',
+      pet_id: '1312',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '228',
+      lat: '39.110191345214844',
+      lng: '-121.63013458251953',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-07 23:43:50'
+    },{
+      id: '1838',
+      pet_id: '1380',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '229',
+      lat: '30.361373',
+      lng: '-97.737509',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-02 09:02:31'
+    },{
+      id: '1842',
+      pet_id: '3477',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '232',
+      lat: '34.0975926',
+      lng: '-94.9096195',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-09 06:27:31'
+    },{
+      id: '1843',
+      pet_id: '3243',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '233',
+      lat: '37.798556',
+      lng: '-122.412563',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-01 00:25:56'
+    },{
+      id: '1844',
+      pet_id: '1168',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '234',
+      lat: '38.9534809',
+      lng: '-94.6503223',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-04 08:16:44'
+    },{
+      id: '1845',
+      pet_id: '3460',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '235',
+      lat: '40.5663597',
+      lng: '-74.5878839',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-08 10:08:35'
+    },{
+      id: '1846',
+      pet_id: '3586',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '236',
+      lat: '38.550228',
+      lng: '-90.640026',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-13 12:50:00'
+    },{
+      id: '1847',
+      pet_id: '3429',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '237',
+      lat: '30.2630583',
+      lng: '-97.7149818',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-05 23:11:43'
+    },{
+      id: '1848',
+      pet_id: '3646',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '238',
+      lat: '38.558009',
+      lng: '-90.659478',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-18 11:24:28'
+    },{
+      id: '1849',
+      pet_id: '3428',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '239',
+      lat: '30.224301',
+      lng: '-97.7234667',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-05 23:11:09'
+    },{
+      id: '1850',
+      pet_id: '1033',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '24',
+      lat: '39.684027',
+      lng: '-104.872185',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-03 08:15:08'
+    },{
+      id: '1851',
+      pet_id: '3188',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '240',
+      lat: '38.9534809',
+      lng: '-94.6503223',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-04 08:59:59'
+    },{
+      id: '1852',
+      pet_id: '3201',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '241',
+      lat: '51.0033014',
+      lng: '-0.086504',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-01-30 02:07:38'
+    },{
+      id: '1853',
+      pet_id: '1330',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '242',
+      lat: '37.994082',
+      lng: '-122.032518',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-02 13:06:48'
+    },{
+      id: '1855',
+      pet_id: '3257',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '244',
+      lat: '41.71467',
+      lng: '-74.08308',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-01 11:27:39'
+    },{
+      id: '1862',
+      pet_id: '3231',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '250',
+      lat: '45.053562',
+      lng: '-92.816184',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-01-31 09:53:38'
+    },{
+      id: '1864',
+      pet_id: '3232',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '252',
+      lat: '40.176483',
+      lng: '-79.882071',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-01-31 10:30:14'
+    },{
+      id: '1865',
+      pet_id: '3324',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '253',
+      lat: '34.110416',
+      lng: '-118.101096',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-02 13:43:52'
+    },{
+      id: '1867',
+      pet_id: '3757',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '255',
+      lat: '36.126971',
+      lng: '-97.070686',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-29 12:19:12'
+    },{
+      id: '1868',
+      pet_id: '3385',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '256',
+      lat: '21.492499',
+      lng: '-158.064711',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-04 06:46:57'
+    },{
+      id: '1869',
+      pet_id: '3542',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '257',
+      lat: '42.746952',
+      lng: '10.395648',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-11 20:50:01'
+    },{
+      id: '1870',
+      pet_id: '3072',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '258',
+      lat: '22.472528',
+      lng: '114.229158',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-01-13 12:26:52'
+    },{
+      id: '1871',
+      pet_id: '3105',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '259',
+      lat: '22.404077',
+      lng: '113.961236',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-01-15 13:47:36'
+    },{
+      id: '1872',
+      pet_id: '3377',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '26',
+      lat: '18.3582198',
+      lng: '-68.8278382',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-04 03:36:56'
+    },{
+      id: '1873',
+      pet_id: '3148',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '260',
+      lat: '22.420435',
+      lng: '114.032620',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-01-21 22:46:52'
+    },{
+      id: '1883',
+      pet_id: '3752',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '27',
+      lat: '51.536676',
+      lng: '0.678316',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-28 04:23:54'
+    },{
+      id: '1888',
+      pet_id: '3057',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '274',
+      lat: '22.3112327',
+      lng: '114.223669',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-01-11 15:03:19'
+    },{
+      id: '1895',
+      pet_id: '2972',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '280',
+      lat: '22.3112553',
+      lng: '114.2234943',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2015-12-31 22:23:38'
+    },{
+      id: '1896',
+      pet_id: '3458',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '281',
+      lat: '40.760630',
+      lng: '-73.521795',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-09 01:46:07'
+    },{
+      id: '1899',
+      pet_id: '3679',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '284',
+      lat: '18.509016',
+      lng: '-69.959725',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-03-08 08:41:41'
+    },{
+      id: '1901',
+      pet_id: '2960',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '286',
+      lat: '22.276915',
+      lng: '114.157991',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2015-12-29 14:29:32'
+    },{
+      id: '1902',
+      pet_id: '3545',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '287',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-12 00:43:17'
+    },{
+      id: '1905',
+      pet_id: '2859',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '29',
+      lat: '44.424373',
+      lng: '8.845298',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-03-02 20:53:22'
+    },{
+      id: '1908',
+      pet_id: '3129',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '292',
+      lat: '30.3328536',
+      lng: '-93.204316',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-18 01:09:25'
+    },{
+      id: '1911',
+      pet_id: '3546',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '295',
+      lat: '-25.8812779',
+      lng: '28.1329887',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-12 00:45:13'
+    },{
+      id: '1916',
+      pet_id: '3411',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '3',
+      lat: '30.177263259887695',
+      lng: '-97.83953857421875',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-05 10:36:50'
+    },{
+      id: '1917',
+      pet_id: '2594',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '30',
+      lat: '22.313612',
+      lng: '114.223523',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-01-28 18:03:55'
+    },{
+      id: '1919',
+      pet_id: '3206',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '301',
+      lat: '55.806613',
+      lng: '-4.393836',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-30 21:59:37'
+    },{
+      id: '1920',
+      pet_id: '3216',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '302',
+      lat: '55.7847685',
+      lng: '-4.4182268',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-31 04:21:20'
+    },{
+      id: '1921',
+      pet_id: '1182',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '303',
+      lat: '13.808681',
+      lng: '100.489640',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-06 09:52:12'
+    },{
+      id: '1922',
+      pet_id: '1205',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '304',
+      lat: '13.808681',
+      lng: '100.489640',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-06 09:54:41'
+    },{
+      id: '1923',
+      pet_id: '3261',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '305',
+      lat: '21.471816',
+      lng: '-157.997787',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-01 15:33:02'
+    },{
+      id: '1924',
+      pet_id: '3316',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '306',
+      lat: '37.507447',
+      lng: '-122.293196',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 12:10:09'
+    },{
+      id: '1925',
+      pet_id: '3133',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '307',
+      lat: '22.354906',
+      lng: '114.062832',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-17 00:40:08'
+    },{
+      id: '1928',
+      pet_id: '3820',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '31',
+      lat: '34.8443029',
+      lng: '-118.1696368',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-03-09 01:17:25'
+    },{
+      id: '1929',
+      pet_id: '3437',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '310',
+      lat: '1.372506',
+      lng: '103.962844',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-06 16:38:09'
+    },{
+      id: '1931',
+      pet_id: '3893',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '312',
+      lat: '42.396460',
+      lng: '-71.095915',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-20 23:21:04'
+    },{
+      id: '1932',
+      pet_id: '3431',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '313',
+      lat: '42.423273',
+      lng: '-71.120206',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-06 07:42:54'
+    },{
+      id: '1933',
+      pet_id: '3209',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '314',
+      lat: '42.386253',
+      lng: '-71.090710',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-30 23:33:30'
+    },{
+      id: '1934',
+      pet_id: '3205',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '315',
+      lat: '42.4010593',
+      lng: '-71.10182',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-30 06:42:40'
+    },{
+      id: '1935',
+      pet_id: '3441',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '316',
+      lat: '22.2819462',
+      lng: '114.1512648',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-06 20:16:04'
+    },{
+      id: '1936',
+      pet_id: '3157',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '317',
+      lat: '22.420435',
+      lng: '114.032620',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-23 02:08:46'
+    },{
+      id: '1937',
+      pet_id: '3303',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '318',
+      lat: '38.781527',
+      lng: '-90.845607',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 09:47:54'
+    },{
+      id: '1938',
+      pet_id: '3438',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '319',
+      lat: '1.372506',
+      lng: '103.962844',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-06 16:44:10'
+    },{
+      id: '1941',
+      pet_id: '3272',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '321',
+      lat: '33.504143',
+      lng: '-86.788891',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 07:01:39'
+    },{
+      id: '1942',
+      pet_id: '3650',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '322',
+      lat: '51.3437326',
+      lng: '7.9484582',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-25 03:27:40'
+    },{
+      id: '1951',
+      pet_id: '3379',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '330',
+      lat: '0',
+      lng: '0',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-04 04:00:37'
+    },{
+      id: '1953',
+      pet_id: '3485',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '332',
+      lat: '-14.348871',
+      lng: '-170.755380',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-09 12:15:19'
+    },{
+      id: '1960',
+      pet_id: '3400',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '339',
+      lat: '40.364350',
+      lng: '-73.980473',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-04 23:38:33'
+    },{
+      id: '1962',
+      pet_id: '3361',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '340',
+      lat: '47.813747',
+      lng: '-122.087134',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 12:47:07'
+    },{
+      id: '1963',
+      pet_id: '3432',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '341',
+      lat: '42.314352',
+      lng: '-72.031498',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-06 07:46:07'
+    },{
+      id: '1964',
+      pet_id: '3304',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '342',
+      lat: '38.781458',
+      lng: '-90.845687',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 09:50:35'
+    },{
+      id: '1968',
+      pet_id: '3360',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '346',
+      lat: '47.813568',
+      lng: '-122.086421',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 12:30:23'
+    },{
+      id: '1969',
+      pet_id: '3082',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '347',
+      lat: '22.277422',
+      lng: '114.221689',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-13 19:56:33'
+    },{
+      id: '1970',
+      pet_id: '3330',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '348',
+      lat: '42.746831',
+      lng: '-84.490369',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 01:14:24'
+    },{
+      id: '1975',
+      pet_id: '3425',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '352',
+      lat: '33.480893',
+      lng: '-82.074298',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-05 21:27:15'
+    },{
+      id: '1976',
+      pet_id: '2723',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '353',
+      lat: '34.211874',
+      lng: '-118.538932',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-19 02:22:58'
+    },{
+      id: '1978',
+      pet_id: '3376',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '355',
+      lat: '39.831829',
+      lng: '-105.190797',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-04 03:06:49'
+    },{
+      id: '1979',
+      pet_id: '1260',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '356',
+      lat: '40.014158',
+      lng: '-75.612523',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 05:45:43'
+    },{
+      id: '1980',
+      pet_id: '3354',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '357',
+      lat: '38.606435',
+      lng: '-90.269435',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 10:58:17'
+    },{
+      id: '1984',
+      pet_id: '1310',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '360',
+      lat: '40.709164',
+      lng: '-73.957133',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 05:05:10'
+    },{
+      id: '1985',
+      pet_id: '3247',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '361',
+      lat: '32.976853',
+      lng: '-117.269123',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-01 06:25:53'
+    },{
+      id: '1986',
+      pet_id: '3353',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '362',
+      lat: '38.605216',
+      lng: '-90.269747',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 10:55:09'
+    },{
+      id: '1987',
+      pet_id: '3234',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '363',
+      lat: '37.22964859008789',
+      lng: '-95.70694732666016',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-13 23:05:36'
+    },{
+      id: '1988',
+      pet_id: '3561',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '364',
+      lat: '38.5151537',
+      lng: '-121.5238864',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-12 09:22:39'
+    },{
+      id: '1990',
+      pet_id: '3240',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '366',
+      lat: '55.818386',
+      lng: '-4.189368',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-31 20:19:59'
+    },{
+      id: '1991',
+      pet_id: '3741',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '367',
+      lat: '40.648949',
+      lng: '-74.341924',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-25 21:44:58'
+    },{
+      id: '1992',
+      pet_id: '3380',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '368',
+      lat: '33.480893',
+      lng: '-82.074298',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-04 03:51:13'
+    },{
+      id: '1993',
+      pet_id: '2272',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '369',
+      lat: '39.6756873',
+      lng: '-104.7701973',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-07 06:58:26'
+    },{
+      id: '1994',
+      pet_id: '3783',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '37',
+      lat: '34.1722031',
+      lng: '-118.350304',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-03-05 04:32:57'
+    },{
+      id: '1996',
+      pet_id: '1204',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '371',
+      lat: '13.808681',
+      lng: '100.489640',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-06 09:51:22'
+    },{
+      id: '1999',
+      pet_id: '3317',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '374',
+      lat: '37.507447',
+      lng: '-122.293196',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 12:16:04'
+    },{
+      id: '2003',
+      pet_id: '3312',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '378',
+      lat: '39.645161',
+      lng: '-104.887991',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 11:45:46'
+    },{
+      id: '2004',
+      pet_id: '3724',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '379',
+      lat: '43.662503',
+      lng: '-79.350995',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-25 02:39:18'
+    },{
+      id: '2005',
+      pet_id: '3910',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '38',
+      lat: '41.4297658',
+      lng: '2.1726796',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-03-22 03:03:52'
+    },{
+      id: '2006',
+      pet_id: '1309',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '380',
+      lat: '40.709164',
+      lng: '-73.957133',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 05:09:39'
+    },{
+      id: '2007',
+      pet_id: '3434',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '381',
+      lat: '39.6758939',
+      lng: '-104.7702799',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-07 06:56:00'
+    },{
+      id: '2010',
+      pet_id: '3260',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '384',
+      lat: '21.471071',
+      lng: '-157.997127',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-01 15:26:52'
+    },{
+      id: '2012',
+      pet_id: '64',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '386',
+      lat: '22.3113702',
+      lng: '114.2235038',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-22 17:54:59'
+    },{
+      id: '2014',
+      pet_id: '3271',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '388',
+      lat: '35.945690',
+      lng: '-83.901491',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 06:52:00'
+    },{
+      id: '2017',
+      pet_id: '3352',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '390',
+      lat: '38.606484',
+      lng: '-90.269763',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 10:52:30'
+    },{
+      id: '2018',
+      pet_id: '3611',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '391',
+      lat: '24.1921502',
+      lng: '120.6620598',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-15 14:12:30'
+    },{
+      id: '2020',
+      pet_id: '3198',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '393',
+      lat: '24.1921502',
+      lng: '120.6620598',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-15 10:41:53'
+    },{
+      id: '2021',
+      pet_id: '3350',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '394',
+      lat: '33.627741',
+      lng: '-117.892175',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 10:02:06'
+    },{
+      id: '2022',
+      pet_id: '3200',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '395',
+      lat: '44.6076767',
+      lng: '4.3939684',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-29 22:31:49'
+    },{
+      id: '2023',
+      pet_id: '3479',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '396',
+      lat: '42.697263',
+      lng: '-83.157692',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-09 06:36:24'
+    },{
+      id: '2024',
+      pet_id: '2911',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '397',
+      lat: '21.3773079',
+      lng: '-157.9711739',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-31 07:37:39'
+    },{
+      id: '2025',
+      pet_id: '3500',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '398',
+      lat: '1.373451',
+      lng: '103.871310',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-10 09:29:31'
+    },{
+      id: '2026',
+      pet_id: '3523',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '399',
+      lat: '32.930957',
+      lng: '-96.4595427',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-11 11:53:44'
+    },{
+      id: '2032',
+      pet_id: '3456',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '403',
+      lat: '9.998977661132813',
+      lng: '-84.1974105834961',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-13 05:12:15'
+    },{
+      id: '2033',
+      pet_id: '3619',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '404',
+      lat: '51.2463884',
+      lng: '7.1989101',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-15 17:51:49'
+    },{
+      id: '2035',
+      pet_id: '3454',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '406',
+      lat: '-31.9949657',
+      lng: '115.8693889',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-07 18:56:46'
+    },{
+      id: '2038',
+      pet_id: '3214',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '409',
+      lat: '27.3564521',
+      lng: '-82.4946865',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-16 20:34:08'
+    },{
+      id: '2041',
+      pet_id: '3346',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '411',
+      lat: '38.7867637',
+      lng: '-77.1833388',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 08:30:59'
+    },{
+      id: '2044',
+      pet_id: '3177',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '414',
+      lat: '40.0986506',
+      lng: '-76.4233749',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-26 14:23:40'
+    },{
+      id: '2046',
+      pet_id: '3005',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '416',
+      lat: '29.7814496',
+      lng: '-95.8098397',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-10 04:26:24'
+    },{
+      id: '2047',
+      pet_id: '1213',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '417',
+      lat: '-12.1298147',
+      lng: '-77.025594',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-12 10:52:42'
+    },{
+      id: '2049',
+      pet_id: '3074',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '419',
+      lat: '22.4795932',
+      lng: '114.0497178',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-13 17:55:18'
+    },{
+      id: '2051',
+      pet_id: '3480',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '420',
+      lat: '42.693113',
+      lng: '-83.137472',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-09 06:40:03'
+    },{
+      id: '2052',
+      pet_id: '3366',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '421',
+      lat: '61.350657',
+      lng: '22.914470',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 23:14:36'
+    },{
+      id: '2053',
+      pet_id: '3392',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '422',
+      lat: '38.333717346191406',
+      lng: '-122.7197265625',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-04 11:45:10'
+    },{
+      id: '2054',
+      pet_id: '3909',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '423',
+      lat: '40.2194705',
+      lng: '-8.4006396',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-22 00:41:25'
+    },{
+      id: '2055',
+      pet_id: '1313',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '424',
+      lat: '48.302731',
+      lng: '4.0341524',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-29 04:13:10'
+    },{
+      id: '2057',
+      pet_id: '3689',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '426',
+      lat: '44.719341',
+      lng: '-103.425409',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-24 02:53:20'
+    },{
+      id: '2059',
+      pet_id: '3450',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '428',
+      lat: '34.028907',
+      lng: '-118.444810',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-07 10:26:01'
+    },{
+      id: '2061',
+      pet_id: '1043',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '43',
+      lat: '51.524960',
+      lng: '-0.079548',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-03-08 18:36:42'
+    },{
+      id: '2062',
+      pet_id: '3518',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '430',
+      lat: '37.0755903',
+      lng: '126.917975',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-11 09:54:53'
+    },{
+      id: '2063',
+      pet_id: '3876',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '431',
+      lat: '53.567797',
+      lng: '-113.493425',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-19 18:18:07'
+    },{
+      id: '2066',
+      pet_id: '1541',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '434',
+      lat: '29.636467',
+      lng: '-98.412107',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 08:20:16'
+    },{
+      id: '2067',
+      pet_id: '3160',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '435',
+      lat: '40.773643',
+      lng: '-73.948153',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-31 06:24:01'
+    },{
+      id: '2069',
+      pet_id: '3186',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '437',
+      lat: '45.926857',
+      lng: '8.937471',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-28 18:23:35'
+    },{
+      id: '2070',
+      pet_id: '3307',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '438',
+      lat: '37.032059',
+      lng: '-122.018204',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 10:19:57'
+    },{
+      id: '2071',
+      pet_id: '3566',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '439',
+      lat: '52.258350',
+      lng: '10.528444',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-12 15:31:41'
+    },{
+      id: '2072',
+      pet_id: '3686',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '44',
+      lat: '45.341028',
+      lng: '-75.810391',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-23 10:27:25'
+    },{
+      id: '2073',
+      pet_id: '3725',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '440',
+      lat: '-27.594502',
+      lng: '-48.553045',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-25 03:50:54'
+    },{
+      id: '2078',
+      pet_id: '1160',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '445',
+      lat: '37.757775',
+      lng: '-85.884404',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-31 01:42:11'
+    },{
+      id: '2081',
+      pet_id: '3883',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '448',
+      lat: '51.516843',
+      lng: '0.212978',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-20 01:35:07'
+    },{
+      id: '2083',
+      pet_id: '3218',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '45',
+      lat: '34.030401',
+      lng: '-118.281083',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-01-31 05:41:01'
+    },{
+      id: '2084',
+      pet_id: '1854',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '450',
+      lat: '-12.115731',
+      lng: '-76.976818',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-19 22:16:40'
+    },{
+      id: '2085',
+      pet_id: '3554',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '451',
+      lat: '49.166755',
+      lng: '-123.180914',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-12 06:03:58'
+    },{
+      id: '2089',
+      pet_id: '3553',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '455',
+      lat: '49.166755',
+      lng: '-123.180914',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-12 06:04:16'
+    },{
+      id: '2090',
+      pet_id: '1311',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '456',
+      lat: '39.109886169433594',
+      lng: '-121.63005065917969',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-07 08:48:08'
+    },{
+      id: '2092',
+      pet_id: '3627',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '458',
+      lat: '53.408193',
+      lng: '-113.573527',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-16 06:19:14'
+    },{
+      id: '2093',
+      pet_id: '3102',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '459',
+      lat: '22.264657',
+      lng: '114.183208',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-15 08:07:50'
+    },{
+      id: '2095',
+      pet_id: '3628',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '460',
+      lat: '53.408193',
+      lng: '-113.573527',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-16 06:24:43'
+    },{
+      id: '2096',
+      pet_id: '3885',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '461',
+      lat: '51.677005',
+      lng: '-0.0079276',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-20 08:48:03'
+    },{
+      id: '2100',
+      pet_id: '3694',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '465',
+      lat: '22.280446',
+      lng: '114.155974',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-24 11:17:29'
+    },{
+      id: '2105',
+      pet_id: '3803',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '47',
+      lat: '40.611483',
+      lng: '-74.002118',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-03-07 11:34:59'
+    },{
+      id: '2107',
+      pet_id: '1173',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '471',
+      lat: '38.7288825',
+      lng: '-77.101977',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-05 09:11:22'
+    },{
+      id: '2109',
+      pet_id: '3463',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '473',
+      lat: '-27.2117859',
+      lng: '153.1055912',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-12 06:49:44'
+    },{
+      id: '2110',
+      pet_id: '2959',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '474',
+      lat: '22.308991',
+      lng: '114.222632',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-24 09:41:46'
+    },{
+      id: '2111',
+      pet_id: '3378',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '475',
+      lat: '0',
+      lng: '0',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-04 04:01:44'
+    },{
+      id: '2116',
+      pet_id: '3318',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '48',
+      lat: '37.507978',
+      lng: '127.030220',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-02 12:31:01'
+    },{
+      id: '2117',
+      pet_id: '3528',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '480',
+      lat: '33.519490',
+      lng: '-117.077041',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-11 12:48:36'
+    },{
+      id: '2119',
+      pet_id: '2837',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '482',
+      lat: '22.487084',
+      lng: '114.142452',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-22 17:52:47'
+    },{
+      id: '2127',
+      pet_id: '3337',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '49',
+      lat: '-37.993525',
+      lng: '145.092675',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-03 05:32:52'
+    },{
+      id: '2130',
+      pet_id: '3570',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '492',
+      lat: '41.6418318',
+      lng: '-93.766326',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-13 01:21:51'
+    },{
+      id: '2133',
+      pet_id: '3299',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '495',
+      lat: '34.509596',
+      lng: '-117.246673',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-11 12:43:24'
+    },{
+      id: '2135',
+      pet_id: '3844',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '497',
+      lat: '45.466406',
+      lng: '-73.297833',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-14 01:42:16'
+    },{
+      id: '2138',
+      pet_id: '3797',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '5',
+      lat: '30.281773',
+      lng: '-98.865212',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-03-07 07:34:50'
+    },{
+      id: '2139',
+      pet_id: '3343',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '50',
+      lat: '40.962693',
+      lng: '-73.821098',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-03 07:57:35'
+    },{
+      id: '2141',
+      pet_id: '3578',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '501',
+      lat: '33.4123782',
+      lng: '-84.096872',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-13 08:51:15'
+    },{
+      id: '2142',
+      pet_id: '3262',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '502',
+      lat: '50.871152',
+      lng: '0.518924',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-01 17:05:05'
+    },{
+      id: '2145',
+      pet_id: '3136',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '505',
+      lat: '22.3113553',
+      lng: '114.2235152',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-25 15:29:22'
+    },{
+      id: '2148',
+      pet_id: '3722',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '508',
+      lat: '51.361373',
+      lng: '0.598450',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-24 23:19:24'
+    },{
+      id: '2153',
+      pet_id: '3849',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '512',
+      lat: '34.673186',
+      lng: '-118.093341',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-14 12:25:21'
+    },{
+      id: '2154',
+      pet_id: '3723',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '513',
+      lat: '55.9893285',
+      lng: '-4.583469',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-25 01:03:20'
+    },{
+      id: '2155',
+      pet_id: '3131',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '514',
+      lat: '22.208062',
+      lng: '114.029522',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-16 17:08:16'
+    },{
+      id: '2157',
+      pet_id: '3784',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '516',
+      lat: '-12.3803755',
+      lng: '130.8428649',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-05 11:59:14'
+    },{
+      id: '2162',
+      pet_id: '3874',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '520',
+      lat: '34.673186',
+      lng: '-118.093341',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-19 12:53:25'
+    },{
+      id: '2166',
+      pet_id: '3869',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '524',
+      lat: '53.345739',
+      lng: '-2.213144',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-18 02:57:11'
+    },{
+      id: '2167',
+      pet_id: '2836',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '525',
+      lat: '41.709770',
+      lng: '-87.826704',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-17 10:17:34'
+    },{
+      id: '2169',
+      pet_id: '871',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '527',
+      lat: '22.256957',
+      lng: '114.131647',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-29 23:43:32'
+    },{
+      id: '2172',
+      pet_id: '3086',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '53',
+      lat: '22.421132',
+      lng: '113.987759',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-01-14 02:27:16'
+    },{
+      id: '2176',
+      pet_id: '3179',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '533',
+      lat: '-33.839068',
+      lng: '150.843746',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-27 16:46:53'
+    },{
+      id: '2178',
+      pet_id: '3782',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '535',
+      lat: '45.810157',
+      lng: '9.086538',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-04 15:58:08'
+    },{
+      id: '2184',
+      pet_id: '3872',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '540',
+      lat: '42.434340',
+      lng: '14.153428',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-18 21:42:23'
+    },{
+      id: '2185',
+      pet_id: '3798',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '541',
+      lat: '39.483985',
+      lng: '-119.859599',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-07 07:57:21'
+    },{
+      id: '2187',
+      pet_id: '3778',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '543',
+      lat: '41.739125',
+      lng: '12.373608',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-03 21:35:27'
+    },{
+      id: '2189',
+      pet_id: '3821',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '545',
+      lat: '34.9519501',
+      lng: '-117.886222',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-09 01:14:49'
+    },{
+      id: '2194',
+      pet_id: '3195',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '55',
+      lat: '51.9157794',
+      lng: '-0.673254',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-01-29 20:16:55'
+    },{
+      id: '2196',
+      pet_id: '3863',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '551',
+      lat: '51.1413372',
+      lng: '0.303258',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-16 22:25:58'
+    },{
+      id: '2197',
+      pet_id: '3795',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '552',
+      lat: '-5.080070',
+      lng: '-42.787757',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-06 21:41:45'
+    },{
+      id: '2198',
+      pet_id: '3551',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '553',
+      lat: '37.2513934',
+      lng: '-121.8625765',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-12 04:41:30'
+    },{
+      id: '2199',
+      pet_id: '1619',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '554',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-04 13:35:38'
+    },{
+      id: '2200',
+      pet_id: '3382',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '555',
+      lat: '40.459326',
+      lng: '-74.444849',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-04 05:57:37'
+    },{
+      id: '2201',
+      pet_id: '3620',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '556',
+      lat: '45.67063',
+      lng: '9.1201608',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-15 17:58:52'
+    },{
+      id: '2202',
+      pet_id: '3320',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '557',
+      lat: '30.197457',
+      lng: '-97.801305',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 12:55:31'
+    },{
+      id: '2203',
+      pet_id: '3468',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '558',
+      lat: '39.103329',
+      lng: '-84.558363',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-09 01:20:28'
+    },{
+      id: '2206',
+      pet_id: '3604',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '560',
+      lat: '22.481512',
+      lng: '114.043786',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-14 16:14:39'
+    },{
+      id: '2207',
+      pet_id: '3552',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '561',
+      lat: '37.238149',
+      lng: '-121.847063',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-12 04:39:05'
+    },{
+      id: '2216',
+      pet_id: '3357',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '57',
+      lat: '41.064322',
+      lng: '-74.090257',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-03 11:53:40'
+    },{
+      id: '2217',
+      pet_id: '3670',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '570',
+      lat: '30.276500',
+      lng: '-81.460847',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-21 09:28:30'
+    },{
+      id: '2218',
+      pet_id: '3280',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '571',
+      lat: '33.756904',
+      lng: '-111.923066',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 07:24:21'
+    },{
+      id: '2219',
+      pet_id: '1463',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '572',
+      lat: '35.124829',
+      lng: '-85.138226',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-10 22:04:00'
+    },{
+      id: '2223',
+      pet_id: '3418',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '576',
+      lat: '29.690459',
+      lng: '-95.153438',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-05 11:52:52'
+    },{
+      id: '2225',
+      pet_id: '3565',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '578',
+      lat: '43.073625',
+      lng: '-87.889614',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-12 12:13:35'
+    },{
+      id: '2226',
+      pet_id: '3593',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '579',
+      lat: '37.726093',
+      lng: '-122.137323',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-14 03:30:46'
+    },{
+      id: '2228',
+      pet_id: '2993',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '580',
+      lat: '22.3112988',
+      lng: '114.2238505',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-22 18:04:24'
+    },{
+      id: '2229',
+      pet_id: '3197',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '581',
+      lat: '51.6085731',
+      lng: '0.2369306',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-29 20:58:04'
+    },{
+      id: '2233',
+      pet_id: '3306',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '585',
+      lat: '30.182740',
+      lng: '-97.862450',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 10:16:07'
+    },{
+      id: '2234',
+      pet_id: '3227',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '586',
+      lat: '34.04494623',
+      lng: '-118.45535091',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-23 13:37:26'
+    },{
+      id: '2236',
+      pet_id: '3237',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '588',
+      lat: '33.698665',
+      lng: '-117.757645',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-31 12:18:49'
+    },{
+      id: '2237',
+      pet_id: '3580',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '589',
+      lat: '44.041707',
+      lng: '-75.809146',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-13 09:09:54'
+    },{
+      id: '2239',
+      pet_id: '3605',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '590',
+      lat: '-28.054628',
+      lng: '153.434035',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-14 21:11:17'
+    },{
+      id: '2240',
+      pet_id: '3294',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '591',
+      lat: '30.180087',
+      lng: '-97.822055',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 08:47:23'
+    },{
+      id: '2241',
+      pet_id: '3449',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '592',
+      lat: '41.635619',
+      lng: '-88.273040',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-07 05:36:46'
+    },{
+      id: '2242',
+      pet_id: '3911',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '593',
+      lat: '41.4261095',
+      lng: '2.1389903',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-22 03:09:39'
+    },{
+      id: '2246',
+      pet_id: '3181',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '597',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-27 23:32:19'
+    },{
+      id: '2248',
+      pet_id: '3239',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '599',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-31 12:52:43'
+    },{
+      id: '2250',
+      pet_id: '3083',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '60',
+      lat: '22.4065102',
+      lng: '113.9698166',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-01-13 22:20:26'
+    },{
+      id: '2251',
+      pet_id: '3446',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '600',
+      lat: '41.643996',
+      lng: '-88.249710',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-07 05:04:41'
+    },{
+      id: '2252',
+      pet_id: '3746',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '601',
+      lat: '49.811445',
+      lng: '-97.163337',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-26 10:08:56'
+    },{
+      id: '2254',
+      pet_id: '3199',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '603',
+      lat: '51.6174869',
+      lng: '0.249906',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-29 21:13:23'
+    },{
+      id: '2255',
+      pet_id: '3065',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '604',
+      lat: '42.115905',
+      lng: '-70.827341',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-30 07:13:00'
+    },{
+      id: '2258',
+      pet_id: '3666',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '607',
+      lat: '49.264958',
+      lng: '-123.102815',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-20 23:37:45'
+    },{
+      id: '2259',
+      pet_id: '1075',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '608',
+      lat: '41.664335',
+      lng: '-72.725689',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-30 06:15:53'
+    },{
+      id: '2260',
+      pet_id: '3621',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '609',
+      lat: '48.081655',
+      lng: '11.463716',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-15 18:35:14'
+    },{
+      id: '2262',
+      pet_id: '3286',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '610',
+      lat: '46.818463',
+      lng: '-100.786178',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 08:04:51'
+    },{
+      id: '2263',
+      pet_id: '3630',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '611',
+      lat: '29.693321',
+      lng: '-98.325890',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-16 10:08:25'
+    },{
+      id: '2265',
+      pet_id: '3397',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '613',
+      lat: '-32.0560227',
+      lng: '115.7479516',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-13 14:41:55'
+    },{
+      id: '2266',
+      pet_id: '1431',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '614',
+      lat: '32.600718',
+      lng: '-93.689947',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-05 11:05:02'
+    },{
+      id: '2267',
+      pet_id: '3268',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '615',
+      lat: '37.9738426',
+      lng: '-84.5400338',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 05:31:07'
+    },{
+      id: '2268',
+      pet_id: '3367',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '616',
+      lat: '35.507672',
+      lng: '-97.520211',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 23:49:41'
+    },{
+      id: '2269',
+      pet_id: '1266',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '617',
+      lat: '49.138126',
+      lng: '-122.817982',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-13 07:06:37'
+    },{
+      id: '2271',
+      pet_id: '3259',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '619',
+      lat: '-32.763970',
+      lng: '151.762458',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-01 13:36:33'
+    },{
+      id: '2272',
+      pet_id: '3575',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '62',
+      lat: '33.978835',
+      lng: '-84.275672',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-13 08:13:02'
+    },{
+      id: '2275',
+      pet_id: '2725',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '622',
+      lat: '38.03944396972656',
+      lng: '-97.33903503417969',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-09 07:33:49'
+    },{
+      id: '2276',
+      pet_id: '3632',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '623',
+      lat: '45.423791',
+      lng: '10.478055',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-16 22:03:12'
+    },{
+      id: '2277',
+      pet_id: '3629',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '624',
+      lat: '39.8968568',
+      lng: '-86.4959513',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-16 08:30:06'
+    },{
+      id: '2280',
+      pet_id: '3256',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '627',
+      lat: '-33.423744',
+      lng: '151.3441699',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-01 09:51:20'
+    },{
+      id: '2282',
+      pet_id: '3295',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '629',
+      lat: '38.3077629',
+      lng: '-122.4798934',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 11:28:07'
+    },{
+      id: '2283',
+      pet_id: '3489',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '63',
+      lat: '47.249145',
+      lng: '-122.531016',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-09 12:50:33'
+    },{
+      id: '2284',
+      pet_id: '3390',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '630',
+      lat: '3.168823',
+      lng: '101.667650',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-04 09:25:17'
+    },{
+      id: '2285',
+      pet_id: '3395',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '631',
+      lat: '22.2388663',
+      lng: '114.1928956',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-04 15:07:05'
+    },{
+      id: '2287',
+      pet_id: '3403',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '633',
+      lat: '41.765478',
+      lng: '-111.802372',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-05 05:56:04'
+    },{
+      id: '2288',
+      pet_id: '1458',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '634',
+      lat: '46.851872',
+      lng: '-71.254578',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-23 10:46:11'
+    },{
+      id: '2291',
+      pet_id: '3253',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '637',
+      lat: '34.119131',
+      lng: '-118.213983',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-09 16:07:21'
+    },{
+      id: '2297',
+      pet_id: '3601',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '642',
+      lat: '43.115153',
+      lng: '-72.903506',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-14 12:27:47'
+    },{
+      id: '2299',
+      pet_id: '3634',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '644',
+      lat: '28.273575',
+      lng: '-97.956158',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-17 01:05:28'
+    },{
+      id: '2300',
+      pet_id: '3745',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '645',
+      lat: '49.811368',
+      lng: '-97.163076',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-26 10:07:04'
+    },{
+      id: '2301',
+      pet_id: '3310',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '646',
+      lat: '30.4223765',
+      lng: '-87.1953664',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 11:30:35'
+    },{
+      id: '2304',
+      pet_id: '1457',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '649',
+      lat: '46.851872',
+      lng: '-71.254578',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-23 10:41:48'
+    },{
+      id: '2306',
+      pet_id: '3602',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '650',
+      lat: '40.714508',
+      lng: '-73.840057',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-14 12:34:09'
+    },{
+      id: '2307',
+      pet_id: '3314',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '651',
+      lat: '30.4222866',
+      lng: '-87.1953664',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-04 11:13:05'
+    },{
+      id: '2308',
+      pet_id: '3412',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '652',
+      lat: '30.177263259887695',
+      lng: '-97.83953857421875',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-05 10:38:39'
+    },{
+      id: '2309',
+      pet_id: '1024',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '653',
+      lat: '51.052368',
+      lng: '13.788152',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-18 19:17:13'
+    },{
+      id: '2310',
+      pet_id: '3212',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '654',
+      lat: '53.855162',
+      lng: '-3.012127',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-31 02:01:52'
+    },{
+      id: '2311',
+      pet_id: '3213',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '655',
+      lat: '53.855166',
+      lng: '-3.012102',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-31 02:09:46'
+    },{
+      id: '2313',
+      pet_id: '3720',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '657',
+      lat: '37.064145',
+      lng: '127.027025',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-24 16:30:21'
+    },{
+      id: '2314',
+      pet_id: '3267',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '658',
+      lat: '33.788838',
+      lng: '-118.138138',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 10:13:25'
+    },{
+      id: '2320',
+      pet_id: '3636',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '663',
+      lat: '37.522949',
+      lng: '-77.471402',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-17 06:48:56'
+    },{
+      id: '2321',
+      pet_id: '3671',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '664',
+      lat: '38.852719',
+      lng: '-120.020113',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-21 11:02:16'
+    },{
+      id: '2323',
+      pet_id: '2920',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '666',
+      lat: '47.838670',
+      lng: '-120.014057',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 05:05:40'
+    },{
+      id: '2324',
+      pet_id: '3242',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '667',
+      lat: '35.808594',
+      lng: '-78.629465',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-31 23:55:53'
+    },{
+      id: '2325',
+      pet_id: '3332',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '668',
+      lat: '40.747463',
+      lng: '-73.865138',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 02:23:04'
+    },{
+      id: '2326',
+      pet_id: '3719',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '669',
+      lat: '37.064071',
+      lng: '127.027145',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-24 16:28:25'
+    },{
+      id: '2327',
+      pet_id: '3818',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '67',
+      lat: '45.287709',
+      lng: '10.152163',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-03-08 19:41:10'
+    },{
+      id: '2330',
+      pet_id: '3589',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '672',
+      lat: '28.702348',
+      lng: '-97.047139',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-13 23:01:12'
+    },{
+      id: '2332',
+      pet_id: '3659',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '674',
+      lat: '52.5135831',
+      lng: '13.5608852',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-20 00:06:28'
+    },{
+      id: '2333',
+      pet_id: '3371',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '675',
+      lat: '40.388198',
+      lng: '-74.216288',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-04 01:38:38'
+    },{
+      id: '2334',
+      pet_id: '3273',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '676',
+      lat: '27.796635',
+      lng: '-82.708805',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 07:07:50'
+    },{
+      id: '2339',
+      pet_id: '3847',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '680',
+      lat: '32.7808733',
+      lng: '-115.5466899',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-15 00:59:18'
+    },{
+      id: '2340',
+      pet_id: '3445',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '681',
+      lat: '33.473405',
+      lng: '-112.073988',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-07 02:04:09'
+    },{
+      id: '2341',
+      pet_id: '3226',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '682',
+      lat: '38.859273',
+      lng: '-77.063716',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-31 07:26:11'
+    },{
+      id: '2344',
+      pet_id: '1123',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '685',
+      lat: '42.835092',
+      lng: '-71.067067',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-01 01:25:07'
+    },{
+      id: '2345',
+      pet_id: '3300',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '686',
+      lat: '39.3137806',
+      lng: '-84.3437421',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 09:12:56'
+    },{
+      id: '2346',
+      pet_id: '3384',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '687',
+      lat: '40.65767',
+      lng: '-74.0049941',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-04 06:48:39'
+    },{
+      id: '2349',
+      pet_id: '3776',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '69',
+      lat: '44.4103008',
+      lng: '10.5368187',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-03-02 20:14:29'
+    },{
+      id: '2350',
+      pet_id: '3255',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '690',
+      lat: '-33.865277',
+      lng: '150.877581',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-01 09:12:09'
+    },{
+      id: '2354',
+      pet_id: '3383',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '694',
+      lat: '42.220927',
+      lng: '-71.540636',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-04 06:18:21'
+    },{
+      id: '2355',
+      pet_id: '1301',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '695',
+      lat: '42.189465',
+      lng: '-71.469868',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-01 05:32:17'
+    },{
+      id: '2356',
+      pet_id: '3327',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '696',
+      lat: '40.403674',
+      lng: '-74.0562204',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 23:51:03'
+    },{
+      id: '2358',
+      pet_id: '3527',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '698',
+      lat: '47.7597353',
+      lng: '-122.3401349',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-11 13:44:37'
+    },{
+      id: '2361',
+      pet_id: '3488',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '70',
+      lat: '34.177705',
+      lng: '-118.520480',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-09 12:32:50'
+    },{
+      id: '2362',
+      pet_id: '3358',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '700',
+      lat: '39.148136',
+      lng: '-84.404029',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 11:58:50'
+    },{
+      id: '2363',
+      pet_id: '3289',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '701',
+      lat: '40.003602',
+      lng: '-105.279407',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 08:28:45'
+    },{
+      id: '2367',
+      pet_id: '3092',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '705',
+      lat: '22.3036161',
+      lng: '114.1861707',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-14 12:03:38'
+    },{
+      id: '2370',
+      pet_id: '2913',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '708',
+      lat: '34.176976',
+      lng: '-118.620347',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-01 08:52:34'
+    },{
+      id: '2371',
+      pet_id: '3362',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '709',
+      lat: '37.781843',
+      lng: '-122.4011299',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 12:54:22'
+    },{
+      id: '2373',
+      pet_id: '3241',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '710',
+      lat: '33.8301874',
+      lng: '-118.1226459',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-28 06:10:20'
+    },{
+      id: '2374',
+      pet_id: '3447',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '711',
+      lat: '26.342047',
+      lng: '-80.184361',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-07 05:09:51'
+    },{
+      id: '2375',
+      pet_id: '3515',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '712',
+      lat: '1.343786',
+      lng: '103.787910',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-11 07:30:42'
+    },{
+      id: '2376',
+      pet_id: '1172',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '713',
+      lat: '43.8306295',
+      lng: '-79.2293079',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-23 07:17:44'
+    },{
+      id: '2377',
+      pet_id: '1334',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '714',
+      lat: '34.0099687',
+      lng: '-117.8768373',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-01 15:32:18'
+    },{
+      id: '2379',
+      pet_id: '3202',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '716',
+      lat: '53.554549',
+      lng: '-2.028075',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-30 03:46:32'
+    },{
+      id: '2380',
+      pet_id: '3207',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '717',
+      lat: '52.173393',
+      lng: '-0.656016',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-30 22:44:37'
+    },{
+      id: '2381',
+      pet_id: '1394',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '718',
+      lat: '36.295627',
+      lng: '-82.436826',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 00:13:45'
+    },{
+      id: '2383',
+      pet_id: '3221',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '72',
+      lat: '34.034529',
+      lng: '-118.283872',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-01-31 05:58:19'
+    },{
+      id: '2384',
+      pet_id: '3355',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '720',
+      lat: '35.4884478',
+      lng: '-80.8980403',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-08 00:27:42'
+    },{
+      id: '2386',
+      pet_id: '3759',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '722',
+      lat: '44.5959885',
+      lng: '26.0573933',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-01 03:44:44'
+    },{
+      id: '2387',
+      pet_id: '1349',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '723',
+      lat: '51.747051',
+      lng: '0.437186',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 22:14:24'
+    },{
+      id: '2389',
+      pet_id: '3359',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '725',
+      lat: '37.767096',
+      lng: '-121.235650',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 12:03:36'
+    },{
+      id: '2392',
+      pet_id: '3603',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '728',
+      lat: '33.702317',
+      lng: '-117.891229',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-14 15:06:45'
+    },{
+      id: '2393',
+      pet_id: '1074',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '729',
+      lat: '37.7616457',
+      lng: '-122.4907266',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-08 01:28:46'
+    },{
+      id: '2394',
+      pet_id: '3180',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '73',
+      lat: '46.627281',
+      lng: '1.484900',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-01-27 19:41:32'
+    },{
+      id: '2396',
+      pet_id: '3285',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '731',
+      lat: '40.836302',
+      lng: '-81.298002',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 08:00:44'
+    },{
+      id: '2398',
+      pet_id: '3283',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '733',
+      lat: '38.578389',
+      lng: '-121.4233016',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 07:52:33'
+    },{
+      id: '2399',
+      pet_id: '3276',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '734',
+      lat: '38.5669291',
+      lng: '-121.4361989',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 07:10:48'
+    },{
+      id: '2401',
+      pet_id: '3192',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '736',
+      lat: '-41.199689',
+      lng: '174.804690',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-29 18:02:13'
+    },{
+      id: '2403',
+      pet_id: '3751',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '738',
+      lat: '49.218760',
+      lng: '-68.142849',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-28 02:47:56'
+    },{
+      id: '2404',
+      pet_id: '3315',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '739',
+      lat: '41.2380921',
+      lng: '-74.3558606',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-06 23:55:05'
+    },{
+      id: '2405',
+      pet_id: '3301',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '74',
+      lat: '34.086253',
+      lng: '-118.345973',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-14 12:55:03'
+    },{
+      id: '2406',
+      pet_id: '1261',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '740',
+      lat: '40.014064',
+      lng: '-75.612396',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 05:52:11'
+    },{
+      id: '2408',
+      pet_id: '3101',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '742',
+      lat: '22.264657',
+      lng: '114.183208',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-15 08:05:42'
+    },{
+      id: '2410',
+      pet_id: '3191',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '744',
+      lat: '-41.259090',
+      lng: '174.796409',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-29 18:12:07'
+    },{
+      id: '2411',
+      pet_id: '3345',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '745',
+      lat: '33.731701',
+      lng: '-84.375404',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 08:03:33'
+    },{
+      id: '2415',
+      pet_id: '3344',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '749',
+      lat: '33.731701',
+      lng: '-84.375404',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 07:59:19'
+    },{
+      id: '2417',
+      pet_id: '3250',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '750',
+      lat: '39.776641',
+      lng: '-75.530325',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-01 08:09:14'
+    },{
+      id: '2425',
+      pet_id: '3305',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '758',
+      lat: '30.182821',
+      lng: '-97.862642',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 09:57:37'
+    },{
+      id: '2427',
+      pet_id: '3404',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '76',
+      lat: '40.712966',
+      lng: '-74.546089',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-05 06:49:24'
+    },{
+      id: '2428',
+      pet_id: '3275',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '760',
+      lat: '39.8000768',
+      lng: '-74.9738914',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 07:12:05'
+    },{
+      id: '2430',
+      pet_id: '3799',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '762',
+      lat: '30.281773',
+      lng: '-98.865212',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-07 09:08:55'
+    },{
+      id: '2434',
+      pet_id: '3548',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '766',
+      lat: '43.7167597',
+      lng: '10.405747',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-13 04:39:27'
+    },{
+      id: '2435',
+      pet_id: '3258',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '767',
+      lat: '36.669241',
+      lng: '-121.649818',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-01 12:48:50'
+    },{
+      id: '2440',
+      pet_id: '3758',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '771',
+      lat: '54.768159',
+      lng: '11.876844',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-01 03:31:59'
+    },{
+      id: '2442',
+      pet_id: '3246',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '773',
+      lat: '39.6200521',
+      lng: '-79.9582648',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-01 04:14:16'
+    },{
+      id: '2445',
+      pet_id: '3298',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '776',
+      lat: '34.509596',
+      lng: '-117.246673',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-11 12:40:51'
+    },{
+      id: '2448',
+      pet_id: '3277',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '779',
+      lat: '26.569354',
+      lng: '-80.098713',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 07:11:54'
+    },{
+      id: '2451',
+      pet_id: '3405',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '781',
+      lat: '25.816370',
+      lng: '-80.127275',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-05 06:56:40'
+    },{
+      id: '2453',
+      pet_id: '3249',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '783',
+      lat: '-36.833111',
+      lng: '174.657983',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-01 08:03:09'
+    },{
+      id: '2455',
+      pet_id: '3768',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '785',
+      lat: '43.867860',
+      lng: '-79.244081',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-02 08:56:07'
+    },{
+      id: '2456',
+      pet_id: '1425',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '786',
+      lat: '50.644000',
+      lng: '30.905193',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-07 02:14:20'
+    },{
+      id: '2461',
+      pet_id: '1133',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '790',
+      lat: '41.621798',
+      lng: '-74.062487',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-01 08:06:47'
+    },{
+      id: '2464',
+      pet_id: '1032',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '793',
+      lat: '39.684027',
+      lng: '-104.872185',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 08:14:06'
+    },{
+      id: '2465',
+      pet_id: '3244',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '794',
+      lat: '40.3426725',
+      lng: '-79.9744783',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-01 08:07:29'
+    },{
+      id: '2467',
+      pet_id: '3388',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '796',
+      lat: '42.163950',
+      lng: '-88.328078',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-04 08:21:59'
+    },{
+      id: '2468',
+      pet_id: '3372',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '797',
+      lat: '40.907424',
+      lng: '-74.064507',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-04 02:20:32'
+    },{
+      id: '2472',
+      pet_id: '1192',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '80',
+      lat: '37.270487',
+      lng: '-121.840579',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-04 12:45:59'
+    },{
+      id: '2473',
+      pet_id: '3349',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '800',
+      lat: '39.878914',
+      lng: '-86.128724',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 09:48:28'
+    },{
+      id: '2474',
+      pet_id: '3836',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '801',
+      lat: '37.776504',
+      lng: '-122.187836',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-12 12:13:02'
+    },{
+      id: '2475',
+      pet_id: '3335',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '802',
+      lat: '36.2134309',
+      lng: '-115.2763932',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-10 12:11:39'
+    },{
+      id: '2477',
+      pet_id: '3643',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '804',
+      lat: '18.5056663',
+      lng: '-69.9649389',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-18 10:40:12'
+    },{
+      id: '2478',
+      pet_id: '3644',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '805',
+      lat: '18.5053365',
+      lng: '-69.96475375',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-21 22:55:16'
+    },{
+      id: '2480',
+      pet_id: '3828',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '807',
+      lat: '39.373663',
+      lng: '-77.153995',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-10 09:03:57'
+    },{
+      id: '2481',
+      pet_id: '3282',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '808',
+      lat: '28.3367418',
+      lng: '-82.5559911',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 07:49:36'
+    },{
+      id: '2482',
+      pet_id: '3658',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '809',
+      lat: '18.494907',
+      lng: '-69.939223',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-19 22:52:15'
+    },{
+      id: '2483',
+      pet_id: '2994',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '81',
+      lat: '22.487084',
+      lng: '114.142452',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-01-22 18:01:29'
+    },{
+      id: '2484',
+      pet_id: '3334',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '810',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 04:21:45'
+    },{
+      id: '2486',
+      pet_id: '3668',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '812',
+      lat: '38.882882',
+      lng: '-76.991502',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-21 05:37:36'
+    },{
+      id: '2487',
+      pet_id: '1554',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '813',
+      lat: '33.207413',
+      lng: '-96.707045',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 23:23:48'
+    },{
+      id: '2491',
+      pet_id: '3208',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '817',
+      lat: '42.3835585',
+      lng: '-71.0986739',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-30 23:04:15'
+    },{
+      id: '2493',
+      pet_id: '3894',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '819',
+      lat: '42.396460',
+      lng: '-71.095915',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-20 23:35:27'
+    },{
+      id: '2496',
+      pet_id: '1069',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '821',
+      lat: '-14.348871',
+      lng: '-170.755380',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-09 04:30:12'
+    },{
+      id: '2498',
+      pet_id: '3419',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '823',
+      lat: '29.690459',
+      lng: '-95.153438',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-05 12:01:18'
+    },{
+      id: '2501',
+      pet_id: '3302',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '826',
+      lat: '21.3955551',
+      lng: '-157.7491638',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-07 09:03:02'
+    },{
+      id: '2504',
+      pet_id: '3618',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '829',
+      lat: '52.2057513',
+      lng: '8.0507753',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-19 00:04:39'
+    },{
+      id: '2505',
+      pet_id: '3588',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '83',
+      lat: '42.218129',
+      lng: '-79.159316',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-13 20:43:07'
+    },{
+      id: '2508',
+      pet_id: '3506',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '832',
+      lat: '53.709387',
+      lng: '-2.790851',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-10 20:57:53'
+    },{
+      id: '2509',
+      pet_id: '3321',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '833',
+      lat: '37.741376',
+      lng: '-122.416168',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 13:19:32'
+    },{
+      id: '2517',
+      pet_id: '3481',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '840',
+      lat: '41.585210',
+      lng: '-88.140564',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-09 08:10:13'
+    },{
+      id: '2519',
+      pet_id: '3484',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '842',
+      lat: '-14.348849',
+      lng: '-170.755313',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-09 12:09:39'
+    },{
+      id: '2521',
+      pet_id: '3270',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '844',
+      lat: '43.0829318',
+      lng: '-97.155669',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 06:28:23'
+    },{
+      id: '2522',
+      pet_id: '3407',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '845',
+      lat: '38.7287486',
+      lng: '-77.1020349',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-05 09:13:31'
+    },{
+      id: '2525',
+      pet_id: '3341',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '848',
+      lat: '47.1786687',
+      lng: '-122.4533263',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 07:10:58'
+    },{
+      id: '2526',
+      pet_id: '3137',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '849',
+      lat: '22.2803604',
+      lng: '114.2258388',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-18 14:14:28'
+    },{
+      id: '2527',
+      pet_id: '3572',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '85',
+      lat: '42.491157',
+      lng: '-83.145348',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-13 03:32:38'
+    },{
+      id: '2530',
+      pet_id: '3381',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '852',
+      lat: '0',
+      lng: '0',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-04 05:16:37'
+    },{
+      id: '2533',
+      pet_id: '1947',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '855',
+      lat: '37.701888',
+      lng: '-122.068013',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-14 08:30:51'
+    },{
+      id: '2534',
+      pet_id: '3012',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '856',
+      lat: '37.272544',
+      lng: '-121.995039',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-06 12:27:01'
+    },{
+      id: '2537',
+      pet_id: '3805',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '859',
+      lat: '41.047614',
+      lng: '-73.540154',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-07 23:25:50'
+    },{
+      id: '2538',
+      pet_id: '3483',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '86',
+      lat: '44.9394736',
+      lng: '-93.2729343',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-09 08:19:01'
+    },{
+      id: '2542',
+      pet_id: '3599',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '863',
+      lat: '35.3253883',
+      lng: '-119.0318358',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-14 10:21:09'
+    },{
+      id: '2545',
+      pet_id: '1328',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '866',
+      lat: '43.524539',
+      lng: '-79.624105',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-07 23:43:41'
+    },{
+      id: '2546',
+      pet_id: '3149',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '867',
+      lat: '22.3803184',
+      lng: '114.1960748',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-22 00:29:13'
+    },{
+      id: '2550',
+      pet_id: '3235',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '870',
+      lat: '37.22909927368164',
+      lng: '-95.70645904541016',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-31 12:20:16'
+    },{
+      id: '2553',
+      pet_id: '3236',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '873',
+      lat: '37.22909927368164',
+      lng: '-95.70645904541016',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-31 12:18:07'
+    },{
+      id: '2554',
+      pet_id: '3204',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '874',
+      lat: '42.3887935',
+      lng: '-71.1132823',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-01 21:21:21'
+    },{
+      id: '2557',
+      pet_id: '3193',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '877',
+      lat: '53.709299',
+      lng: '-2.790953',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-29 19:47:30'
+    },{
+      id: '2559',
+      pet_id: '1031',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '879',
+      lat: '53.709233',
+      lng: '-2.790736',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-29 19:44:22'
+    },{
+      id: '2561',
+      pet_id: '1096',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '880',
+      lat: '36.074084',
+      lng: '-86.951369',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 02:37:22'
+    },{
+      id: '2563',
+      pet_id: '3311',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '882',
+      lat: '39.645242',
+      lng: '-104.887966',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 11:38:02'
+    },{
+      id: '2564',
+      pet_id: '3248',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '883',
+      lat: '33.578751',
+      lng: '-117.143780',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-01 07:00:56'
+    },{
+      id: '2565',
+      pet_id: '3076',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '884',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-13 15:36:27'
+    },{
+      id: '2566',
+      pet_id: '3288',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '885',
+      lat: '40.699394',
+      lng: '-89.518436',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 08:27:42'
+    },{
+      id: '2567',
+      pet_id: '3831',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '886',
+      lat: '38.520617',
+      lng: '-89.951985',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-11 07:02:34'
+    },{
+      id: '2569',
+      pet_id: '2945',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '888',
+      lat: '22.3113731',
+      lng: '114.2235051',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2015-12-28 16:53:52'
+    },{
+      id: '2570',
+      pet_id: '1095',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '889',
+      lat: '36.074084',
+      lng: '-86.951369',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 02:33:44'
+    },{
+      id: '2576',
+      pet_id: '1319',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '894',
+      lat: '33.407185',
+      lng: '-84.464032',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 13:17:51'
+    },{
+      id: '2577',
+      pet_id: '1097',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '895',
+      lat: '36.073996',
+      lng: '-86.951563',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 02:39:35'
+    },{
+      id: '2578',
+      pet_id: '1318',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '896',
+      lat: '33.407185',
+      lng: '-84.464032',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 13:12:53'
+    },{
+      id: '2581',
+      pet_id: '2933',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '899',
+      lat: '37.272529',
+      lng: '-121.995340',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2015-12-27 08:08:08'
+    },{
+      id: '2584',
+      pet_id: '3077',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '900',
+      lat: '22.3784424',
+      lng: '114.2056585',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-13 15:45:48'
+    },{
+      id: '2586',
+      pet_id: '3364',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '902',
+      lat: '36.986334',
+      lng: '-121.811615',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 14:03:26'
+    },{
+      id: '2590',
+      pet_id: '3466',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '906',
+      lat: '-37.927641',
+      lng: '175.538724',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-08 18:57:35'
+    },{
+      id: '2591',
+      pet_id: '3348',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '907',
+      lat: '47.612041',
+      lng: '-122.293458',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 09:10:04'
+    },{
+      id: '2593',
+      pet_id: '3465',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '909',
+      lat: '-37.927641',
+      lng: '175.538724',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-08 18:56:28'
+    },{
+      id: '2594',
+      pet_id: '3750',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '91',
+      lat: '33.718276',
+      lng: '-118.011017',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-27 07:13:26'
+    },{
+      id: '2596',
+      pet_id: '3254',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '911',
+      lat: '34.0782606',
+      lng: '-118.256728',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-01 09:19:07'
+    },{
+      id: '2597',
+      pet_id: '3691',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '912',
+      lat: '44.597486',
+      lng: '-79.441039',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-24 07:16:04'
+    },{
+      id: '2599',
+      pet_id: '3210',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '914',
+      lat: '32.860524',
+      lng: '-96.783266',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-31 01:19:59'
+    },{
+      id: '2602',
+      pet_id: '3607',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '917',
+      lat: '32.839699',
+      lng: '-117.225696',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-15 01:54:59'
+    },{
+      id: '2603',
+      pet_id: '3309',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '918',
+      lat: '29.448458',
+      lng: '-95.060161',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-10 03:18:51'
+    },{
+      id: '2604',
+      pet_id: '3290',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '919',
+      lat: '40.699433',
+      lng: '-89.518355',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 08:34:33'
+    },{
+      id: '2606',
+      pet_id: '3529',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '920',
+      lat: '33.520017',
+      lng: '-117.076546',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-11 13:14:53'
+    },{
+      id: '2609',
+      pet_id: '3211',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '923',
+      lat: '32.860971',
+      lng: '-96.783254',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-31 01:24:54'
+    },{
+      id: '2610',
+      pet_id: '3223',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '924',
+      lat: '41.987364',
+      lng: '-71.631085',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-31 06:56:45'
+    },{
+      id: '2611',
+      pet_id: '3606',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '925',
+      lat: '32.839699',
+      lng: '-117.225696',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-15 01:49:55'
+    },{
+      id: '2612',
+      pet_id: '3224',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '926',
+      lat: '41.987364',
+      lng: '-71.631085',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-31 06:59:04'
+    },{
+      id: '2613',
+      pet_id: '3225',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '927',
+      lat: '41.987364',
+      lng: '-71.631085',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-31 07:00:32'
+    },{
+      id: '2618',
+      pet_id: '3690',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '931',
+      lat: '44.640075',
+      lng: '-79.425886',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-24 04:21:17'
+    },{
+      id: '2619',
+      pet_id: '3469',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '932',
+      lat: '43.045744',
+      lng: '-75.518765',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-09 01:26:11'
+    },{
+      id: '2623',
+      pet_id: '1385',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '936',
+      lat: '40.425073',
+      lng: '-79.665035',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-31 22:58:44'
+    },{
+      id: '2624',
+      pet_id: '3610',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '937',
+      lat: '-36.8591845',
+      lng: '174.8211091',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-15 13:44:21'
+    },{
+      id: '2625',
+      pet_id: '3770',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '938',
+      lat: '34.139759',
+      lng: '-118.375437',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-02 11:02:05'
+    },{
+      id: '2626',
+      pet_id: '1430',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '939',
+      lat: '29.448458',
+      lng: '-95.060161',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 11:18:58'
+    },{
+      id: '2628',
+      pet_id: '3398',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '940',
+      lat: '51.528696',
+      lng: '-0.171868',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-04 19:48:29'
+    },{
+      id: '2629',
+      pet_id: '3880',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '941',
+      lat: '56.173344',
+      lng: '10.100005',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-19 20:42:02'
+    },{
+      id: '2631',
+      pet_id: '3878',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '943',
+      lat: '56.173344',
+      lng: '10.100005',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-19 20:37:23'
+    },{
+      id: '2632',
+      pet_id: '3879',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '944',
+      lat: '56.173344',
+      lng: '10.100005',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-19 20:38:39'
+    },{
+      id: '2635',
+      pet_id: '3351',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '947',
+      lat: '33.627741',
+      lng: '-117.892175',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 10:06:59'
+    },{
+      id: '2636',
+      pet_id: '2912',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '948',
+      lat: '21.3891046',
+      lng: '-157.9722507',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-31 07:39:14'
+    },{
+      id: '2637',
+      pet_id: '1077',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '949',
+      lat: '33.109033',
+      lng: '-117.102508',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-07 08:46:10'
+    },{
+      id: '2638',
+      pet_id: '3649',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '95',
+      lat: '34.119131',
+      lng: '-118.213983',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-03-15 08:30:50'
+    },{
+      id: '2643',
+      pet_id: '3796',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '954',
+      lat: '38.7115056',
+      lng: '-77.1438429',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-06 22:19:02'
+    },{
+      id: '2645',
+      pet_id: '3902',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '956',
+      lat: '39.009197',
+      lng: '-76.953671',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-21 04:09:33'
+    },{
+      id: '2646',
+      pet_id: '3895',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '957',
+      lat: '39.009197',
+      lng: '-76.953671',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-21 02:25:15'
+    },{
+      id: '2647',
+      pet_id: '3333',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '958',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-03 04:19:23'
+    },{
+      id: '2650',
+      pet_id: '3582',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '960',
+      lat: '37.761672',
+      lng: '-122.422579',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-13 11:40:41'
+    },{
+      id: '2651',
+      pet_id: '1956',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '961',
+      lat: '30.1948921',
+      lng: '-92.014655',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-17 11:50:42'
+    },{
+      id: '2652',
+      pet_id: '3471',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '962',
+      lat: '41.624430',
+      lng: '-93.760580',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-09 02:25:25'
+    },{
+      id: '2653',
+      pet_id: '3439',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '963',
+      lat: '-27.4116249',
+      lng: '153.0108291',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-06 17:40:55'
+    },{
+      id: '2654',
+      pet_id: '3219',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '964',
+      lat: '34.034478',
+      lng: '-118.284173',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-31 05:45:26'
+    },{
+      id: '2655',
+      pet_id: '3292',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '965',
+      lat: '32.433053',
+      lng: '-104.221847',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-02 08:44:39'
+    },{
+      id: '2658',
+      pet_id: '3374',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '968',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-04 02:44:10'
+    },{
+      id: '2660',
+      pet_id: '3504',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '97',
+      lat: '30.037751',
+      lng: '-94.181602',
+      created_at: '2015-12-17 14:47:58',
+      updated_at: '2016-02-10 12:46:56'
+    },{
+      id: '2662',
+      pet_id: '3222',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '971',
+      lat: '34.034735',
+      lng: '-118.288585',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-31 06:08:44'
+    },{
+      id: '2663',
+      pet_id: '3652',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '972',
+      lat: '-5.116497',
+      lng: '-42.749154',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-19 05:56:42'
+    },{
+      id: '2664',
+      pet_id: '3597',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '973',
+      lat: '39.539520',
+      lng: '-104.683436',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-14 09:11:50'
+    },{
+      id: '2666',
+      pet_id: '3587',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '975',
+      lat: '40.783045',
+      lng: '-73.815358',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-13 20:37:22'
+    },{
+      id: '2669',
+      pet_id: '3373',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '978',
+      lat: '41.4307563',
+      lng: '-73.686041',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-04 02:39:13'
+    },{
+      id: '2672',
+      pet_id: '3501',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '980',
+      lat: '35.0289286',
+      lng: '-78.9648361',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-10 10:49:03'
+    },{
+      id: '2673',
+      pet_id: '3669',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '981',
+      lat: '38.2686853',
+      lng: '-122.0603515',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-21 08:45:30'
+    },{
+      id: '2674',
+      pet_id: '3583',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '982',
+      lat: '39.799713',
+      lng: '-89.681897',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-13 11:41:38'
+    },{
+      id: '2676',
+      pet_id: '3220',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '984',
+      lat: '34.034529',
+      lng: '-118.283872',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-01-31 05:52:48'
+    },{
+      id: '2678',
+      pet_id: '3598',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '986',
+      lat: '26.480815',
+      lng: '-80.099645',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-14 09:30:43'
+    },{
+      id: '2680',
+      pet_id: '3375',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '988',
+      lat: '41.4310475',
+      lng: '-73.6858261',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-04 02:43:00'
+    },{
+      id: '2683',
+      pet_id: '3444',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '990',
+      lat: '40.780959',
+      lng: '-81.546571',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-07 00:37:18'
+    },{
+      id: '2687',
+      pet_id: '3478',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '994',
+      lat: '42.693201',
+      lng: '-83.137362',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-09 06:32:50'
+    },{
+      id: '2690',
+      pet_id: '3896',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '997',
+      lat: '39.009197',
+      lng: '-76.953671',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-03-21 02:41:47'
+    },{
+      id: '2692',
+      pet_id: '3464',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '999',
+      lat: '-27.2063852',
+      lng: '153.0976893',
+      created_at: '2015-12-17 14:47:59',
+      updated_at: '2016-02-08 18:25:20'
+    },{
+      id: '2852',
+      pet_id: '3807',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1159',
+      lat: '-33.5621569',
+      lng: '-70.5951728',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-03-09 07:17:27'
+    },{
+      id: '2859',
+      pet_id: '3790',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1166',
+      lat: '34.057358',
+      lng: '-118.326921',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-03-06 07:43:42'
+    },{
+      id: '2863',
+      pet_id: '3845',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1170',
+      lat: '-33.771411',
+      lng: '-71.2464047',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-03-14 03:43:55'
+    },{
+      id: '2871',
+      pet_id: '3813',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1178',
+      lat: '-33.714260',
+      lng: '150.442286',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-03-08 13:34:29'
+    },{
+      id: '2899',
+      pet_id: '3740',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1206',
+      lat: '22.338518',
+      lng: '114.146826',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-25 19:28:28'
+    },{
+      id: '2942',
+      pet_id: '3852',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1249',
+      lat: '44.719212',
+      lng: '-103.425893',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-03-15 11:05:21'
+    },{
+      id: '2950',
+      pet_id: '3448',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1257',
+      lat: '34.108670',
+      lng: '-117.756242',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-03-19 06:59:11'
+    },{
+      id: '2984',
+      pet_id: '3842',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1291',
+      lat: '22.438377',
+      lng: '114.030786',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-03-13 11:58:05'
+    },{
+      id: '2987',
+      pet_id: '3812',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1294',
+      lat: '-33.714657',
+      lng: '150.442056',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-03-08 13:27:38'
+    },{
+      id: '2997',
+      pet_id: '3838',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1304',
+      lat: '-34.3566794',
+      lng: '150.9061919',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-03-12 15:24:20'
+    },{
+      id: '3004',
+      pet_id: '3791',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1311',
+      lat: '34.012501',
+      lng: '-117.973549',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-03-06 09:54:07'
+    },{
+      id: '3007',
+      pet_id: '3827',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1314',
+      lat: '29.1603145',
+      lng: '-95.4222085',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-03-16 09:31:08'
+    },{
+      id: '3009',
+      pet_id: '3509',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1316',
+      lat: '45.7657839',
+      lng: '11.7629596',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-03-08 06:22:29'
+    },{
+      id: '3010',
+      pet_id: '3499',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1317',
+      lat: '31.903364',
+      lng: '-102.344651',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-03-04 04:22:47'
+    },{
+      id: '3014',
+      pet_id: '3769',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1321',
+      lat: '37.634665',
+      lng: '-122.469495',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-03-06 09:31:36'
+    },{
+      id: '3015',
+      pet_id: '3772',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1322',
+      lat: '37.634665',
+      lng: '-122.469495',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-03-02 12:03:11'
+    },{
+      id: '3016',
+      pet_id: '3399',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1323',
+      lat: '33.489170',
+      lng: '-112.083085',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-03-10 10:30:22'
+    },{
+      id: '3017',
+      pet_id: '3265',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1324',
+      lat: '47.2650808',
+      lng: '11.3327142',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-03-04 16:39:57'
+    },{
+      id: '3018',
+      pet_id: '3826',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1325',
+      lat: '29.1603168',
+      lng: '-95.4222073',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-03-16 09:33:27'
+    },{
+      id: '3019',
+      pet_id: '3701',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1326',
+      lat: '22.2880024',
+      lng: '114.1992388',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-24 18:37:57'
+    },{
+      id: '3025',
+      pet_id: '3738',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1332',
+      lat: '22.312912',
+      lng: '114.177032',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-25 17:13:12'
+    },{
+      id: '3040',
+      pet_id: '3839',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1347',
+      lat: '-6.1283229',
+      lng: '106.7664344',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-03-12 22:50:25'
+    },{
+      id: '3052',
+      pet_id: '3848',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1359',
+      lat: '-27.251989',
+      lng: '153.097763',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-03-14 09:52:58'
+    },{
+      id: '3106',
+      pet_id: '3727',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1413',
+      lat: '34.005398',
+      lng: '-118.470236',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-25 07:37:43'
+    },{
+      id: '3113',
+      pet_id: '3817',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1420',
+      lat: '22.276277',
+      lng: '114.158576',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-03-08 19:35:13'
+    },{
+      id: '3118',
+      pet_id: '3370',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1425',
+      lat: '33.6883302',
+      lng: '-117.8394897',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-04 05:01:59'
+    },{
+      id: '3124',
+      pet_id: '3739',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1431',
+      lat: '22.3114415',
+      lng: '114.223425',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-03-17 12:04:40'
+    },{
+      id: '3142',
+      pet_id: '3693',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1449',
+      lat: '22.3111718',
+      lng: '114.2237882',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-24 11:02:05'
+    },{
+      id: '3146',
+      pet_id: '3692',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1453',
+      lat: '22.3104647',
+      lng: '114.2244899',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-24 10:59:55'
+    },{
+      id: '3154',
+      pet_id: '3461',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1461',
+      lat: '33.4674661',
+      lng: '-117.1027133',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-08 12:50:49'
+    },{
+      id: '3156',
+      pet_id: '3595',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1463',
+      lat: '26.109879',
+      lng: '-81.767789',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-14 06:58:34'
+    },{
+      id: '3157',
+      pet_id: '3459',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1464',
+      lat: '33.4674661',
+      lng: '-117.1027133',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-08 12:48:39'
+    },{
+      id: '3162',
+      pet_id: '3491',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1469',
+      lat: '41.224870',
+      lng: '-96.201071',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-10 00:42:40'
+    },{
+      id: '3163',
+      pet_id: '3462',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1470',
+      lat: '33.4673851',
+      lng: '-117.1027133',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-08 12:49:59'
+    },{
+      id: '3165',
+      pet_id: '3665',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1472',
+      lat: '41.693440',
+      lng: '-70.194392',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-20 11:34:24'
+    },{
+      id: '3166',
+      pet_id: '3873',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1473',
+      lat: '33.125359',
+      lng: '-117.145818',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-03-19 06:46:09'
+    },{
+      id: '3170',
+      pet_id: '1948',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1477',
+      lat: '25.656062',
+      lng: '-80.396494',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-18 00:41:10'
+    },{
+      id: '3172',
+      pet_id: '3521',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1479',
+      lat: '38.426509',
+      lng: '-121.171669',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-11 10:51:16'
+    },{
+      id: '3174',
+      pet_id: '3530',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1481',
+      lat: '33.520026',
+      lng: '-117.076413',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-11 13:47:33'
+    },{
+      id: '3175',
+      pet_id: '3524',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1482',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-11 11:49:23'
+    },{
+      id: '3179',
+      pet_id: '3516',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1486',
+      lat: '33.984224',
+      lng: '-118.448442',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-11 08:51:52'
+    },{
+      id: '3180',
+      pet_id: '3502',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1487',
+      lat: '21.449731',
+      lng: '-157.736321',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-10 11:10:59'
+    },{
+      id: '3184',
+      pet_id: '3503',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1491',
+      lat: '21.449745',
+      lng: '-157.736316',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-10 11:21:21'
+    },{
+      id: '3185',
+      pet_id: '3664',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1492',
+      lat: '41.692970',
+      lng: '-70.195435',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-20 11:30:47'
+    },{
+      id: '3187',
+      pet_id: '3522',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1494',
+      lat: '32.9152524',
+      lng: '-96.525601',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-11 11:50:40'
+    },{
+      id: '3192',
+      pet_id: '2726',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1499',
+      lat: '38.03944396972656',
+      lng: '-97.33903503417969',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-09 07:43:20'
+    },{
+      id: '3193',
+      pet_id: '3508',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1500',
+      lat: '25.532000',
+      lng: '-80.319059',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-11 02:00:00'
+    },{
+      id: '3194',
+      pet_id: '3475',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1501',
+      lat: '31.875266',
+      lng: '-102.332929',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-09 05:43:32'
+    },{
+      id: '3195',
+      pet_id: '3507',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1502',
+      lat: '25.684199',
+      lng: '-80.335644',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-11 01:49:52'
+    },{
+      id: '3196',
+      pet_id: '3474',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1503',
+      lat: '31.875255',
+      lng: '-102.333117',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-09 05:40:45'
+    },{
+      id: '3197',
+      pet_id: '3596',
+      bt_uuid: 'eab22365-4789-6541-2365-478965412365',
+      bt_major: '104',
+      bt_minor: '1504',
+      lat: '40.765400',
+      lng: '-73.760145',
+      created_at: '2015-12-17 14:53:01',
+      updated_at: '2016-02-14 08:18:43'
+    },{
+      id: '12720',
+      pet_id: '15',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '300',
+      bt_minor: '26',
+      lat: '22.3113',
+      lng: '114.2234',
+      created_at: '2015-04-27 22:49:41',
+      updated_at: '2015-05-29 17:33:48'
+    },{
+      id: '12722',
+      pet_id: '18',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '300',
+      bt_minor: '28',
+      lat: '22.3113',
+      lng: '114.2234',
+      created_at: '2015-04-27 22:50:01',
+      updated_at: '2015-05-29 18:23:41'
+    },{
+      id: '12723',
+      pet_id: '22',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '300',
+      bt_minor: '29',
+      lat: '22.311072',
+      lng: '114.223230',
+      created_at: '2015-04-27 22:50:10',
+      updated_at: '2015-06-03 12:02:53'
+    },{
+      id: '12739',
+      pet_id: '73',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '300',
+      bt_minor: '45',
+      lat: '22.311072',
+      lng: '114.223230',
+      created_at: '2015-04-27 22:55:32',
+      updated_at: '2015-07-09 20:28:20'
+    },{
+      id: '12744',
+      pet_id: '76',
+      bt_uuid: 'EAB22365-4789-6541-2365-478965412365',
+      bt_major: '300',
+      bt_minor: '50',
+      lat: 'NULL',
+      lng: 'NULL',
+      created_at: '2015-04-27 22:56:16',
+      updated_at: '2015-07-10 13:57:36'
+    },{
+      id: '13000',
+      pet_id: '1207',
+      bt_uuid: 'E2C56DB5-DFFB-48D2-B060-D0F5A71096E0',
+      bt_major: '200',
+      bt_minor: '2',
+      lat: '22.353997',
+      lng: '114.104960',
+      created_at: '2015-04-23 12:19:19',
+      updated_at: '2015-09-13 16:29:45'
+    }])
