@@ -23,6 +23,7 @@ CSV.foreach("#{File.dirname(__FILE__)}/../data_source/DOTT_Device.csv", headers:
       bt_minor: '#{bt_minor}',
       lat: '#{latitude}',
       lng: '#{longitude}',
+      computed_at: '#{updated_at}',
       created_at: '#{created_at}',
       updated_at: '#{updated_at}'
     }"

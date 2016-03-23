@@ -34,23 +34,6 @@ CSV.foreach("#{File.dirname(__FILE__)}/../data_source/Pet_Profile.csv", headers:
 
 
 
-
-
-  # update_hash_str =
-  #   "{
-  #     id: '#{id}',
-  #     name: '#{name}',
-  #     color: '#{color}',
-  #     birthday: '#{birthday}',
-  #     food_requirements: '#{food_re}',
-  #     other_requirements: '#{other_re}',
-  #     desc: '#{desc}',
-  #     microchip: '#{microchip}',
-  #     status: '#{lost_status}',
-  #     created_at: '#{created_at}',
-  #     updated_at: '#{updated_at}'
-  #   }"
-
   update_hash = {
     id: id,
     name: name,
