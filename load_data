@@ -1,2 +1,16 @@
+ruby ./script/1_generate_user.rb
+ruby ./script/2_generate_pet.rb
+ruby ./script/3_generate_ownership.rb
+ruby ./script/4_generate_beacon.rb
+ruby ./script/5_generate_lost_report.rb
+ruby ./script/6_generate_geo_location.rb
 
-bundle exec rails runner "eval(File.read '/Users/konglimho/Desktop/datadump/User_Account.rb')"
+bundle exec rails runner "eval(File.read '/Users/konglimho/Desktop/datadump/results/User.rb')"
+bundle exec rails runner "eval(File.read '/Users/konglimho/Desktop/datadump/results/Pet.rb')"
+bundle exec rails runner "eval(File.read '/Users/konglimho/Desktop/datadump/results/Ownership.rb')"
+bundle exec rails runner "eval(File.read '/Users/konglimho/Desktop/datadump/results/Beacon.rb')"
+bundle exec rails runner "eval(File.read '/Users/konglimho/Desktop/datadump/results/LostReport.rb')"
+bundle exec rails runner "eval(File.read '/Users/konglimho/Desktop/datadump/results/GeoLocation.rb')"
+
+
+
