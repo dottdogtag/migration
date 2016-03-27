@@ -1,0 +1,1595 @@
+{
+  "Version": 1,
+  "Type": "PetSpecies",
+  "ViewParams": null,
+  "Params": [
+    {
+      "Code": "Dog",
+      "Name": "狗",
+      "NextParam": [
+        {
+          "Code": "001",
+          "Name": "不知道",
+          "NextParam": []
+        },
+        {
+          "Code": "002",
+          "Name": "混種",
+          "NextParam": []
+        },
+        {
+          "Code": "003",
+          "Name": "西施",
+          "NextParam": []
+        },
+        {
+          "Code": "004",
+          "Name": "西施(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "005",
+          "Name": "北京",
+          "NextParam": []
+        },
+        {
+          "Code": "006",
+          "Name": "北京(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "007",
+          "Name": "松鼠狗",
+          "NextParam": []
+        },
+        {
+          "Code": "008",
+          "Name": "松鼠狗(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "009",
+          "Name": "史立沙",
+          "NextParam": []
+        },
+        {
+          "Code": "010",
+          "Name": "史立沙(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "011",
+          "Name": "曲架",
+          "NextParam": []
+        },
+        {
+          "Code": "012",
+          "Name": "曲架(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "013",
+          "Name": "約瑟爹利",
+          "NextParam": []
+        },
+        {
+          "Code": "014",
+          "Name": "約瑟爹利(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "015",
+          "Name": "金毛尋回獵犬",
+          "NextParam": []
+        },
+        {
+          "Code": "016",
+          "Name": "金毛尋回獵犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "017",
+          "Name": "摩天使",
+          "NextParam": []
+        },
+        {
+          "Code": "018",
+          "Name": "摩天使(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "019",
+          "Name": "八哥",
+          "NextParam": []
+        },
+        {
+          "Code": "020",
+          "Name": "八哥(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "021",
+          "Name": "阿富汗獵犬",
+          "NextParam": []
+        },
+        {
+          "Code": "022",
+          "Name": "阿富汗獵犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "023",
+          "Name": "愛爾達爹利",
+          "NextParam": []
+        },
+        {
+          "Code": "024",
+          "Name": "愛爾達爹利(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "025",
+          "Name": "秋田",
+          "NextParam": []
+        },
+        {
+          "Code": "026",
+          "Name": "秋田(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "027",
+          "Name": "阿拉斯加雪橇",
+          "NextParam": []
+        },
+        {
+          "Code": "028",
+          "Name": "阿拉斯加雪橇(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "029",
+          "Name": "美國曲架",
+          "NextParam": []
+        },
+        {
+          "Code": "030",
+          "Name": "美國曲架(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "031",
+          "Name": "美國愛斯摩犬",
+          "NextParam": []
+        },
+        {
+          "Code": "032",
+          "Name": "澳洲牧牛犬",
+          "NextParam": []
+        },
+        {
+          "Code": "033",
+          "Name": "澳洲牧牛犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "034",
+          "Name": "澳洲爹利",
+          "NextParam": []
+        },
+        {
+          "Code": "035",
+          "Name": "澳洲爹利(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "036",
+          "Name": "巴色特獵犬",
+          "NextParam": []
+        },
+        {
+          "Code": "037",
+          "Name": "巴色特獵犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "038",
+          "Name": "比高獵兔犬",
+          "NextParam": []
+        },
+        {
+          "Code": "039",
+          "Name": "比高獵兔犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "040",
+          "Name": "長鬍牧羊",
+          "NextParam": []
+        },
+        {
+          "Code": "041",
+          "Name": "長鬍牧羊(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "042",
+          "Name": "貝靈登爹利",
+          "NextParam": []
+        },
+        {
+          "Code": "043",
+          "Name": "貝靈登爹利(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "044",
+          "Name": "比利時牧羊",
+          "NextParam": []
+        },
+        {
+          "Code": "045",
+          "Name": "比利時牧羊(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "046",
+          "Name": "伯恩山犬",
+          "NextParam": []
+        },
+        {
+          "Code": "047",
+          "Name": "伯恩山犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "048",
+          "Name": "比熊",
+          "NextParam": []
+        },
+        {
+          "Code": "049",
+          "Name": "比熊(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "050",
+          "Name": "邊界牧羊",
+          "NextParam": []
+        },
+        {
+          "Code": "051",
+          "Name": "邊界牧羊(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "052",
+          "Name": "波索",
+          "NextParam": []
+        },
+        {
+          "Code": "053",
+          "Name": "波索(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "054",
+          "Name": "波士頓爹利",
+          "NextParam": []
+        },
+        {
+          "Code": "055",
+          "Name": "波士頓爹利(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "056",
+          "Name": "法蘭德斯牧羊",
+          "NextParam": []
+        },
+        {
+          "Code": "057",
+          "Name": "法蘭德斯牧羊(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "058",
+          "Name": "拳師",
+          "NextParam": []
+        },
+        {
+          "Code": "059",
+          "Name": "拳師(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "060",
+          "Name": "伯瑞犬",
+          "NextParam": []
+        },
+        {
+          "Code": "061",
+          "Name": "伯瑞犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "062",
+          "Name": "英國鬥牛狗",
+          "NextParam": []
+        },
+        {
+          "Code": "063",
+          "Name": "英國鬥牛狗(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "064",
+          "Name": "牛頭挭",
+          "NextParam": []
+        },
+        {
+          "Code": "065",
+          "Name": "牛頭挭(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "066",
+          "Name": "布魯馬士提夫",
+          "NextParam": []
+        },
+        {
+          "Code": "067",
+          "Name": "布魯馬士提夫(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "068",
+          "Name": "鬥牛挭",
+          "NextParam": []
+        },
+        {
+          "Code": "069",
+          "Name": "鬥牛挭(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "070",
+          "Name": "凱恩爹利",
+          "NextParam": []
+        },
+        {
+          "Code": "071",
+          "Name": "凱恩爹利(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "072",
+          "Name": "卡迪根哥基",
+          "NextParam": []
+        },
+        {
+          "Code": "073",
+          "Name": "卡迪根哥基(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "074",
+          "Name": "查理王獵犬",
+          "NextParam": []
+        },
+        {
+          "Code": "075",
+          "Name": "查理王獵犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "076",
+          "Name": "芝娃娃",
+          "NextParam": []
+        },
+        {
+          "Code": "077",
+          "Name": "芝娃娃(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "078",
+          "Name": "中國冠毛",
+          "NextParam": []
+        },
+        {
+          "Code": "079",
+          "Name": "中國冠毛(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "080",
+          "Name": "鬆師",
+          "NextParam": []
+        },
+        {
+          "Code": "081",
+          "Name": "鬆師(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "082",
+          "Name": "牧羊",
+          "NextParam": []
+        },
+        {
+          "Code": "083",
+          "Name": "牧羊(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "084",
+          "Name": "高基",
+          "NextParam": []
+        },
+        {
+          "Code": "085",
+          "Name": "高基(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "086",
+          "Name": "臘腸犬",
+          "NextParam": []
+        },
+        {
+          "Code": "087",
+          "Name": "臘腸犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "088",
+          "Name": "剛毛臘腸犬",
+          "NextParam": []
+        },
+        {
+          "Code": "089",
+          "Name": "斑點",
+          "NextParam": []
+        },
+        {
+          "Code": "090",
+          "Name": "斑點(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "091",
+          "Name": "獵鹿犬",
+          "NextParam": []
+        },
+        {
+          "Code": "092",
+          "Name": "獵鹿犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "093",
+          "Name": "杜伯文",
+          "NextParam": []
+        },
+        {
+          "Code": "094",
+          "Name": "杜伯文(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "095",
+          "Name": "獵麇犬",
+          "NextParam": []
+        },
+        {
+          "Code": "096",
+          "Name": "獵麇犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "097",
+          "Name": "英國長毛獵犬",
+          "NextParam": []
+        },
+        {
+          "Code": "098",
+          "Name": "英國長毛獵犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "099",
+          "Name": "順毛尋回犬",
+          "NextParam": []
+        },
+        {
+          "Code": "100",
+          "Name": "順毛尋回犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "101",
+          "Name": "獵狐挭",
+          "NextParam": []
+        },
+        {
+          "Code": "102",
+          "Name": "獵狐挭(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "103",
+          "Name": "法國鬥牛",
+          "NextParam": []
+        },
+        {
+          "Code": "104",
+          "Name": "法國鬥牛(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "105",
+          "Name": "德國狼犬",
+          "NextParam": []
+        },
+        {
+          "Code": "106",
+          "Name": "德國狼犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "107",
+          "Name": "德國短毛指標",
+          "NextParam": []
+        },
+        {
+          "Code": "108",
+          "Name": "德國短毛指標(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "109",
+          "Name": "巨型史立沙",
+          "NextParam": []
+        },
+        {
+          "Code": "110",
+          "Name": "巨型史立沙(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "111",
+          "Name": "戈登雪達犬",
+          "NextParam": []
+        },
+        {
+          "Code": "112",
+          "Name": "戈登雪達犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "113",
+          "Name": "大丹犬",
+          "NextParam": []
+        },
+        {
+          "Code": "114",
+          "Name": "大丹犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "115",
+          "Name": "灰犬",
+          "NextParam": []
+        },
+        {
+          "Code": "116",
+          "Name": "灰犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "117",
+          "Name": "布魯塞葛麗芬犬",
+          "NextParam": []
+        },
+        {
+          "Code": "118",
+          "Name": "布魯塞葛麗芬犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "119",
+          "Name": "匈牙利波利",
+          "NextParam": []
+        },
+        {
+          "Code": "120",
+          "Name": "匈牙利波利(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "121",
+          "Name": "匈牙利維茲拉",
+          "NextParam": []
+        },
+        {
+          "Code": "122",
+          "Name": "匈牙利維茲拉(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "123",
+          "Name": "雪橇犬",
+          "NextParam": []
+        },
+        {
+          "Code": "124",
+          "Name": "雪橇犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "125",
+          "Name": "愛爾蘭雪達犬",
+          "NextParam": []
+        },
+        {
+          "Code": "126",
+          "Name": "愛爾蘭雪達犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "127",
+          "Name": "愛爾蘭獵狼犬",
+          "NextParam": []
+        },
+        {
+          "Code": "128",
+          "Name": "愛爾蘭獵狼犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "129",
+          "Name": "意大利灰犬",
+          "NextParam": []
+        },
+        {
+          "Code": "130",
+          "Name": "意大利灰犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "131",
+          "Name": "積羅素爹利",
+          "NextParam": []
+        },
+        {
+          "Code": "132",
+          "Name": "積羅素爹利(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "133",
+          "Name": "日本種",
+          "NextParam": []
+        },
+        {
+          "Code": "134",
+          "Name": "日本種(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "135",
+          "Name": "日本柴犬",
+          "NextParam": []
+        },
+        {
+          "Code": "136",
+          "Name": "日本柴犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "137",
+          "Name": "日本狐狸犬",
+          "NextParam": []
+        },
+        {
+          "Code": "138",
+          "Name": "日本狐狸犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "139",
+          "Name": "荷蘭毛獅犬",
+          "NextParam": []
+        },
+        {
+          "Code": "140",
+          "Name": "荷蘭毛獅犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "141",
+          "Name": "卡爾犬",
+          "NextParam": []
+        },
+        {
+          "Code": "142",
+          "Name": "卡爾犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "143",
+          "Name": "卡利藍爹利",
+          "NextParam": []
+        },
+        {
+          "Code": "144",
+          "Name": "卡利藍爹利(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "145",
+          "Name": "拉布拉多",
+          "NextParam": []
+        },
+        {
+          "Code": "146",
+          "Name": "拉布拉多(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "147",
+          "Name": "湖畔藍爹利",
+          "NextParam": []
+        },
+        {
+          "Code": "148",
+          "Name": "湖畔藍爹利(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "149",
+          "Name": "拉薩犬",
+          "NextParam": []
+        },
+        {
+          "Code": "150",
+          "Name": "拉薩犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "151",
+          "Name": "馬史提夫",
+          "NextParam": []
+        },
+        {
+          "Code": "152",
+          "Name": "馬史提夫(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "153",
+          "Name": "迷你品",
+          "NextParam": []
+        },
+        {
+          "Code": "154",
+          "Name": "迷你品(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "155",
+          "Name": "迷你史立沙",
+          "NextParam": []
+        },
+        {
+          "Code": "156",
+          "Name": "迷你史立沙(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "157",
+          "Name": "拿破崙馬士提夫",
+          "NextParam": []
+        },
+        {
+          "Code": "158",
+          "Name": "紐芬蘭犬",
+          "NextParam": []
+        },
+        {
+          "Code": "159",
+          "Name": "紐芬蘭犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "160",
+          "Name": "古代牧羊",
+          "NextParam": []
+        },
+        {
+          "Code": "161",
+          "Name": "古代牧羊(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "162",
+          "Name": "獵獺犬",
+          "NextParam": []
+        },
+        {
+          "Code": "163",
+          "Name": "獵獺犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "164",
+          "Name": "蝴蝶犬",
+          "NextParam": []
+        },
+        {
+          "Code": "165",
+          "Name": "蝴蝶犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "166",
+          "Name": "Pee-A-Poo",
+          "NextParam": []
+        },
+        {
+          "Code": "167",
+          "Name": "彭布洛克哥基",
+          "NextParam": []
+        },
+        {
+          "Code": "168",
+          "Name": "彭布洛克哥基(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "169",
+          "Name": "鬥牛挭",
+          "NextParam": []
+        },
+        {
+          "Code": "170",
+          "Name": "鬥牛挭(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "171",
+          "Name": "指標犬",
+          "NextParam": []
+        },
+        {
+          "Code": "172",
+          "Name": "指標犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "173",
+          "Name": "貴婦狗",
+          "NextParam": []
+        },
+        {
+          "Code": "174",
+          "Name": "貴婦狗(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "175",
+          "Name": "庇里牛斯山犬 / 大白熊",
+          "NextParam": []
+        },
+        {
+          "Code": "176",
+          "Name": "庇里牛斯山犬 / 大白熊 (混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "177",
+          "Name": "紅雪達犬",
+          "NextParam": []
+        },
+        {
+          "Code": "178",
+          "Name": "紅雪達犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "179",
+          "Name": "尋回犬 ",
+          "NextParam": []
+        },
+        {
+          "Code": "180",
+          "Name": "尋回犬 (混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "181",
+          "Name": "羅德西亞背脊犬",
+          "NextParam": []
+        },
+        {
+          "Code": "182",
+          "Name": "羅德西亞背脊犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "183",
+          "Name": "洛威拿犬",
+          "NextParam": []
+        },
+        {
+          "Code": "184",
+          "Name": "洛威拿犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "185",
+          "Name": "牧羊犬",
+          "NextParam": []
+        },
+        {
+          "Code": "186",
+          "Name": "牧羊犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "187",
+          "Name": "聖伯納犬",
+          "NextParam": []
+        },
+        {
+          "Code": "188",
+          "Name": "聖伯納犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "189",
+          "Name": "沙爾奇獵犬",
+          "NextParam": []
+        },
+        {
+          "Code": "190",
+          "Name": "沙爾奇獵犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "191",
+          "Name": "撤摩耶",
+          "NextParam": []
+        },
+        {
+          "Code": "192",
+          "Name": "撤摩耶(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "193",
+          "Name": "蘇格蘭爹利",
+          "NextParam": []
+        },
+        {
+          "Code": "194",
+          "Name": "蘇格蘭爹利(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "195",
+          "Name": "西里漢爹利",
+          "NextParam": []
+        },
+        {
+          "Code": "196",
+          "Name": "西里漢爹利(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "197",
+          "Name": "沙皮",
+          "NextParam": []
+        },
+        {
+          "Code": "198",
+          "Name": "沙皮(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "199",
+          "Name": "小牧羊",
+          "NextParam": []
+        },
+        {
+          "Code": "200",
+          "Name": "小牧羊(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "201",
+          "Name": "柴犬",
+          "NextParam": []
+        },
+        {
+          "Code": "202",
+          "Name": "柴犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "203",
+          "Name": "絲毛爹利",
+          "NextParam": []
+        },
+        {
+          "Code": "204",
+          "Name": "絲毛爹利(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "205",
+          "Name": "獵狐犬",
+          "NextParam": []
+        },
+        {
+          "Code": "206",
+          "Name": "獵狐犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "207",
+          "Name": "史賓格獵犬",
+          "NextParam": []
+        },
+        {
+          "Code": "208",
+          "Name": "史賓格獵犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "209",
+          "Name": "斯塔福群牛頭爹利",
+          "NextParam": []
+        },
+        {
+          "Code": "210",
+          "Name": "斯塔福群牛頭爹利(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "211",
+          "Name": "標準貴婦狗",
+          "NextParam": []
+        },
+        {
+          "Code": "212",
+          "Name": "標準貴婦狗(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "213",
+          "Name": "爹利",
+          "NextParam": []
+        },
+        {
+          "Code": "214",
+          "Name": "爹利(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "215",
+          "Name": "西藏爹利",
+          "NextParam": []
+        },
+        {
+          "Code": "216",
+          "Name": "西藏爹利(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "217",
+          "Name": "小型貴婦狗",
+          "NextParam": []
+        },
+        {
+          "Code": "218",
+          "Name": "小型貴婦狗(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "219",
+          "Name": "威瑪娜獵犬",
+          "NextParam": []
+        },
+        {
+          "Code": "220",
+          "Name": "威瑪娜獵犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "221",
+          "Name": "威爾斯高基潘布魯克犬",
+          "NextParam": []
+        },
+        {
+          "Code": "222",
+          "Name": "威爾斯高基潘布魯克犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "223",
+          "Name": "西高地白爹利犬",
+          "NextParam": []
+        },
+        {
+          "Code": "224",
+          "Name": "西高地白爹利犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "225",
+          "Name": "懷彼特犬",
+          "NextParam": []
+        },
+        {
+          "Code": "226",
+          "Name": "懷彼特犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "227",
+          "Name": "獵狼犬",
+          "NextParam": []
+        },
+        {
+          "Code": "228",
+          "Name": "獵狼犬(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "229",
+          "Name": "西藏獵犬",
+          "NextParam": []
+        }
+      ]
+    },
+    {
+      "Code": "Cat",
+      "Name": "貓",
+      "NextParam": [
+        {
+          "Code": "001",
+          "Name": "不知道",
+          "NextParam": []
+        },
+        {
+          "Code": "002",
+          "Name": "短毛家貓",
+          "NextParam": []
+        },
+        {
+          "Code": "003",
+          "Name": "長毛家貓",
+          "NextParam": []
+        },
+        {
+          "Code": "004",
+          "Name": "波斯",
+          "NextParam": []
+        },
+        {
+          "Code": "005",
+          "Name": "波斯(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "006",
+          "Name": "阿比西尼亞",
+          "NextParam": []
+        },
+        {
+          "Code": "007",
+          "Name": "阿比西尼亞(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "008",
+          "Name": "美國捲耳",
+          "NextParam": []
+        },
+        {
+          "Code": "009",
+          "Name": "安哥拉",
+          "NextParam": []
+        },
+        {
+          "Code": "010",
+          "Name": "巴厘貓",
+          "NextParam": []
+        },
+        {
+          "Code": "011",
+          "Name": "伯曼貓",
+          "NextParam": []
+        },
+        {
+          "Code": "012",
+          "Name": "伯曼貓(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "013",
+          "Name": "英國短毛",
+          "NextParam": []
+        },
+        {
+          "Code": "014",
+          "Name": "緬甸貓",
+          "NextParam": []
+        },
+        {
+          "Code": "015",
+          "Name": "緬甸貓(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "016",
+          "Name": "銡拉",
+          "NextParam": []
+        },
+        {
+          "Code": "017",
+          "Name": "銡拉(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "018",
+          "Name": "異國長毛",
+          "NextParam": []
+        },
+        {
+          "Code": "019",
+          "Name": "異國短毛",
+          "NextParam": []
+        },
+        {
+          "Code": "020",
+          "Name": "喜瑪拉雅",
+          "NextParam": []
+        },
+        {
+          "Code": "021",
+          "Name": "喜瑪拉雅(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "022",
+          "Name": "曼島貓",
+          "NextParam": []
+        },
+        {
+          "Code": "023",
+          "Name": "挪威森林",
+          "NextParam": []
+        },
+        {
+          "Code": "024",
+          "Name": "布偶",
+          "NextParam": []
+        },
+        {
+          "Code": "025",
+          "Name": "捲毛",
+          "NextParam": []
+        },
+        {
+          "Code": "026",
+          "Name": "俄國藍貓",
+          "NextParam": []
+        },
+        {
+          "Code": "027",
+          "Name": "俄國藍貓(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "028",
+          "Name": "俄國短毛",
+          "NextParam": []
+        },
+        {
+          "Code": "029",
+          "Name": "蘇格蘭摺耳",
+          "NextParam": []
+        },
+        {
+          "Code": "030",
+          "Name": "暹羅貓",
+          "NextParam": []
+        },
+        {
+          "Code": "031",
+          "Name": "暹羅貓(混種)",
+          "NextParam": []
+        },
+        {
+          "Code": "032",
+          "Name": "東奇尼貓",
+          "NextParam": []
+        }
+      ]
+    },
+    {
+      "Code": "Bird",
+      "Name": "鳥",
+      "NextParam": [
+        {
+          "Code": "001",
+          "Name": "不知道",
+          "NextParam": []
+        },
+        {
+          "Code": "002",
+          "Name": "非洲灰鸚鵡",
+          "NextParam": []
+        },
+        {
+          "Code": "003",
+          "Name": "亞馬遜鸚鵡",
+          "NextParam": []
+        },
+        {
+          "Code": "004",
+          "Name": "彩鳳",
+          "NextParam": []
+        },
+        {
+          "Code": "005",
+          "Name": "雞",
+          "NextParam": []
+        },
+        {
+          "Code": "006",
+          "Name": "雞尾鸚鵡",
+          "NextParam": []
+        },
+        {
+          "Code": "007",
+          "Name": "葵花鸚鵡",
+          "NextParam": []
+        },
+        {
+          "Code": "008",
+          "Name": "裸眼小葵花",
+          "NextParam": []
+        },
+        {
+          "Code": "009",
+          "Name": "情侶鸚鵡",
+          "NextParam": []
+        },
+        {
+          "Code": "010",
+          "Name": "了哥",
+          "NextParam": []
+        },
+        {
+          "Code": "011",
+          "Name": "吸蜜鸚鵡",
+          "NextParam": []
+        },
+        {
+          "Code": "012",
+          "Name": "鸚鵡",
+          "NextParam": []
+        },
+        {
+          "Code": "013",
+          "Name": "白鴿",
+          "NextParam": []
+        },
+        {
+          "Code": "014",
+          "Name": "細葵花鸚鵡",
+          "NextParam": []
+        }
+      ]
+    },
+    {
+      "Code": "Chelonian",
+      "Name": "龜",
+      "NextParam": [
+        {
+          "Code": "001",
+          "Name": "不知道",
+          "NextParam": []
+        },
+        {
+          "Code": "002",
+          "Name": "巴西龜",
+          "NextParam": []
+        },
+        {
+          "Code": "003",
+          "Name": "其他陸龜",
+          "NextParam": []
+        },
+        {
+          "Code": "004",
+          "Name": "其他海龜",
+          "NextParam": []
+        }
+      ]
+    },
+    {
+      "Code": "Rabbit",
+      "Name": "兔",
+      "NextParam": [
+        {
+          "Code": "001",
+          "Name": "不知道",
+          "NextParam": []
+        },
+        {
+          "Code": "002",
+          "Name": "安哥拉",
+          "NextParam": []
+        },
+        {
+          "Code": "003",
+          "Name": "家兔",
+          "NextParam": []
+        },
+        {
+          "Code": "004",
+          "Name": "侏儒",
+          "NextParam": []
+        },
+        {
+          "Code": "005",
+          "Name": "喜馬拉雅",
+          "NextParam": []
+        },
+        {
+          "Code": "006",
+          "Name": "獅子兔",
+          "NextParam": []
+        },
+        {
+          "Code": "007",
+          "Name": "垂耳兔",
+          "NextParam": []
+        },
+        {
+          "Code": "008",
+          "Name": "紐西蘭白兔",
+          "NextParam": []
+        }
+      ]
+    },
+    {
+      "Code": "Reptile",
+      "Name": "爬行動物",
+      "NextParam": [
+        {
+          "Code": "001",
+          "Name": "不知道",
+          "NextParam": []
+        },
+        {
+          "Code": "002",
+          "Name": "變色龍",
+          "NextParam": []
+        },
+        {
+          "Code": "003",
+          "Name": "壁虎",
+          "NextParam": []
+        },
+        {
+          "Code": "004",
+          "Name": "鬣蜥蝪",
+          "NextParam": []
+        },
+        {
+          "Code": "005",
+          "Name": "其他",
+          "NextParam": []
+        },
+        {
+          "Code": "006",
+          "Name": "澤巨蜥",
+          "NextParam": []
+        },
+        {
+          "Code": "007",
+          "Name": "石龍子",
+          "NextParam": []
+        },
+        {
+          "Code": "008",
+          "Name": "蛇",
+          "NextParam": []
+        },
+        {
+          "Code": "009",
+          "Name": "水龍",
+          "NextParam": []
+        }
+      ]
+    },
+    {
+      "Code": "Rodent",
+      "Name": "齧齒動物",
+      "NextParam": [
+        {
+          "Code": "001",
+          "Name": "不知道",
+          "NextParam": []
+        },
+        {
+          "Code": "002",
+          "Name": "龍貓",
+          "NextParam": []
+        },
+        {
+          "Code": "003",
+          "Name": "花栗鼠",
+          "NextParam": []
+        },
+        {
+          "Code": "004",
+          "Name": "沙鼠",
+          "NextParam": []
+        },
+        {
+          "Code": "005",
+          "Name": "天竺鼠",
+          "NextParam": []
+        },
+        {
+          "Code": "006",
+          "Name": "侏儒倉鼠",
+          "NextParam": []
+        },
+        {
+          "Code": "007",
+          "Name": "金毛倉鼠",
+          "NextParam": []
+        },
+        {
+          "Code": "008",
+          "Name": "鼠",
+          "NextParam": []
+        }
+      ]
+    },
+    {
+      "Code": "Other",
+      "Name": "其他",
+      "NextParam": [
+        {
+          "Code": "001",
+          "Name": "不知道",
+          "NextParam": []
+        },
+        {
+          "Code": "002",
+          "Name": "雪貂",
+          "NextParam": []
+        },
+        {
+          "Code": "003",
+          "Name": "魚",
+          "NextParam": []
+        },
+        {
+          "Code": "004",
+          "Name": "青蛙",
+          "NextParam": []
+        }
+      ]
+    }
+  ]
+}
