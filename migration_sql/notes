@@ -1,1 +1,6 @@
 1. Export MSSQL tables: User_Account, User_Profile, DOTT_Device, Pet_Location, Pet_LostFound(change mtext to tinytext), Pet_Profile, User_Pet, Pet_LostFound
+2. For Pet_Profile.csv, replace \" with empty string
+3. For Pet_LostFound.csv, replace \" with '
+4. scp results to docker container, update apt-get, install unzip
+5. redeploy server with user confirmable removed
+6. user staging-console to remove all User, Pet, Ownership, Beacon, GeoLocation, LostReport, LostReportFollowing, LostReportMessage

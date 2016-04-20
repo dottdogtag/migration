@@ -1,0 +1,7 @@
+SELECT setval('users_id_seq', (SELECT MAX(id) FROM users));
+SELECT setval('pets_id_seq', (SELECT MAX(id) FROM pets));
+SELECT setval('ownerships_id_seq', (SELECT MAX(id) FROM ownerships));
+SELECT setval('lost_reports_id_seq', (SELECT MAX(id) FROM lost_reports));
+SELECT setval('lost_report_followings_id_seq', (SELECT MAX(id) FROM lost_report_followings));
+SELECT setval('geo_locations_id_seq', (SELECT MAX(id) FROM geo_locations));
+SELECT setval('beacons_id_seq', (SELECT MAX(id) FROM beacons));

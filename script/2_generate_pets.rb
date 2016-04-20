@@ -29,7 +29,7 @@ CSV.foreach("#{File.dirname(__FILE__)}/../data_source/Pet_Profile.csv", headers:
   elsif obj['Sex'] == '003'
     gender = 'male_neutered'
   elsif obj['Sex'] == '004'
-    gender = 'female_sprayed'
+    gender = 'female_spayed'
   end
 
 
