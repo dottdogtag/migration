@@ -1,0 +1,62 @@
+ALTER DATABASE dbo DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+
+
+ALTER TABLE `DOTT_Device` 
+DROP PRIMARY KEY,
+  ADD COLUMN `id` bigint(20) NOT NULL KEY AUTO_INCREMENT,
+  ADD COLUMN `new_pet_id` bigint(11) DEFAULT NULL,
+  ADD COLUMN `latitude` varchar(20) DEFAULT NULL,
+  ADD COLUMN `longitude` varchar(20) DEFAULT NULL
+  AFTER `DOTT_No`;
+
+ALTER TABLE `Pet_Location` 
+DROP PRIMARY KEY,
+  ADD COLUMN `id` bigint(20) NOT NULL KEY AUTO_INCREMENT,
+  ADD COLUMN `new_pet_id` bigint(11) DEFAULT NULL,
+  ADD COLUMN `new_user_id` bigint(11) DEFAULT NULL,
+  ADD COLUMN `new_device_id` bigint(11) DEFAULT NULL
+  AFTER `Pet_Location_ID`;
+
+ALTER TABLE `Pet_LostFound`
+DROP PRIMARY KEY,
+  ADD COLUMN `id` bigint(20) NOT NULL KEY AUTO_INCREMENT,
+  ADD COLUMN `new_pet_id` bigint(20) DEFAULT NULL,
+  ADD COLUMN `new_create_by_id` bigint(20) DEFAULT NULL
+  AFTER `Lost_ID`;
+
+
+ALTER TABLE `Pet_Profile`
+DROP PRIMARY KEY,
+  ADD COLUMN `id` bigint(20) NOT NULL KEY AUTO_INCREMENT
+  AFTER `Pet_ID`;
+
+ALTER TABLE `User_Account` 
+DROP PRIMARY KEY,
+  ADD COLUMN `id` bigint(20) NOT NULL KEY AUTO_INCREMENT
+  AFTER `User_ID`;
+  
+
+
+ALTER TABLE `User_Follow_Lost` 
+DROP PRIMARY KEY,
+  ADD COLUMN `id` bigint(20) NOT NULL KEY AUTO_INCREMENT,
+  ADD COLUMN `new_lost_id` bigint(11) DEFAULT NULL,
+  ADD COLUMN `new_pet_id` bigint(11) DEFAULT NULL,
+  ADD COLUMN `new_user_id` bigint(11) DEFAULT NULL,
+  ADD COLUMN `confirm_user_exist` bigint(11) DEFAULT NULL,
+  ADD COLUMN `confirm_report_exist` bigint(11) DEFAULT NULL,
+  ADD COLUMN `confirm_created_by_exist` bigint(11) DEFAULT NULL
+  AFTER   `User_Follow_ID`;
+
+
+ALTER TABLE `User_Pet` 
+DROP PRIMARY KEY,
+  ADD COLUMN `id` bigint(20) NOT NULL KEY AUTO_INCREMENT,
+  ADD COLUMN `new_user_id` bigint(20) DEFAULT NULL,
+  ADD COLUMN `new_pet_id` bigint(20) DEFAULT NULL
+  AFTER `User_ID`;
+  
+ALTER TABLE `User_Account` 
+  ADD COLUMN `first_name` varchar(20) DEFAULT NULL,
+  ADD COLUMN `last_name` varchar(20) DEFAULT NULL
+  AFTER `User_ID`;

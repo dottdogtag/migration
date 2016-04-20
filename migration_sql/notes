@@ -1,0 +1,1 @@
+1. Export MSSQL tables: User_Account, User_Profile, DOTT_Device, Pet_Location, Pet_LostFound(change mtext to tinytext), Pet_Profile, User_Pet, Pet_LostFound

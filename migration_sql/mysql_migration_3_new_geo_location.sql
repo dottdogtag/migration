@@ -18,12 +18,12 @@ CREATE TABLE `Geo_Location` (
 
 INSERT INTO `Geo_Location` (`new_lost_id`, `new_pet_id`, `new_user_id`)
 SELECT `id`, `new_pet_id`, `new_create_by_id`
-FROM `Pet_LostFound`
+FROM `Pet_LostFound`;
 
 
 UPDATE `Geo_Location`
 INNER JOIN `DOTT_Device` ON `Geo_Location`.`new_pet_id` = `DOTT_Device`.`new_pet_id`
-SET `Geo_Location`.`new_device_id` = `DOTT_Device`.`id`
+SET `Geo_Location`.`new_device_id` = `DOTT_Device`.`id`;
 
 UPDATE `Geo_Location`
 INNER JOIN `Pet_Location` ON `Geo_Location`.`new_device_id` = `Pet_Location`.`new_device_id`
@@ -32,4 +32,4 @@ SET `Geo_Location`.`Seen_Date` = `Pet_Location`.`Seen_Date`,
 `Geo_Location`.`Location_Lng` = `Pet_Location`.`Location_Lng`,
 `Geo_Location`.`Location_Lat` = `Pet_Location`.`Location_Lat`,
 `Geo_Location`.`Proximity_Distance` = `Pet_Location`.`Proximity_Distance`,
-`Geo_Location`.`Create_Date` = `Pet_Location`.`Create_Date`
+`Geo_Location`.`Create_Date` = `Pet_Location`.`Create_Date`;
