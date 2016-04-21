@@ -19,6 +19,7 @@ Migration Procedures:
 
 10. Copy legacy images to s3 bucket, see staging for path
 11. Create oauth applications in the new server. You may wany to change the uid and secret tot he one used in staging server.
+12. Update postgre database auto-increment count with postgresql_migration
 
 
 Note:
@@ -28,4 +29,4 @@ Note:
 3. For Pet_LostFound.csv, replace \" with '
 4. scp results to docker container, update apt-get, install unzip
 5. redeploy server with user confirmable removed
-6. user staging-console to remove all User, Pet, Ownership, Beacon, GeoLocation, LostReportFollowing, LostReportMessage, LostReport
+6. user staging-console to remove all AppInstanceLocation, BeaconLocation, Beacon, AppInstance, Ownership, GeoLocation, LostReportFollowing, LostReport, User, Pet
